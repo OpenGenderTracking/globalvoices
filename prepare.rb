@@ -25,9 +25,6 @@ config = Confstruct::Configuration.new(
   )
 )
 
-# init a connection to our redis processing queue
-# redis = Redis.new(:host => config.redis.host, :port => config.redis.port)
-
 # iterate over all the files, and convert
 files_to_convert = Dir[File.expand_path(File.join(File.dirname(__FILE__), 
   config.data.path, 
