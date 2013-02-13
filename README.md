@@ -8,6 +8,8 @@
 2. run `gem install bundler`
 3. run `bundle install`
 4. Intall redis
+5. Run redis.
+6. Make sure the genderTracker server is running.
 
 ## Folders and their meaning
 
