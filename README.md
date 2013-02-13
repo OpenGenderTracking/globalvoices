@@ -1,6 +1,6 @@
-## GlobalVoices - A GenderTracker Client
+## GlobalVoices - A Sample GenderTracker Client
 
-"GlobalVoices":http://globalvoicesonline.org/ is an international community of bloggers who report on blogs and citizen media from around the world. As a first attempt to test the GenderTracker system, we are working with GlobalVoices data to evaluate its content's gender diversity.
+[GlobalVoices](http://globalvoicesonline.org/) is an international community of bloggers who report on blogs and citizen media from around the world. As a first attempt to test the GenderTracker system, we are working with GlobalVoices data to evaluate its content's gender diversity.
 
 ## Requirements
 
