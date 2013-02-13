@@ -8,7 +8,7 @@ require 'json'
 require 'confstruct'
 require 'feed_parser'
 
-# which collection are we processing?
+# which collection are we processing? Make sure one was provided.
 collection = ARGV[0]
 
 if (collection.nil?)
@@ -25,7 +25,7 @@ config = Confstruct::Configuration.new(
   )
 )
 
-# iterate over all the files, and convert
+# iterate over all the files, and convert them to the json format.
 files_to_convert = Dir[File.expand_path(File.join(File.dirname(__FILE__), 
   config.data.path, 
   collection, 

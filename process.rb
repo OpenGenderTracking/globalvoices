@@ -9,10 +9,8 @@ require 'confstruct'
 require 'feed_parser'
 require 'redis'
 require 'evented_redis'
-require 'thread'
 require 'eventmachine'
 require 'em-hiredis'
-require 'debugger'
 
 # which collection are we processing?
 collection = ARGV[0]
