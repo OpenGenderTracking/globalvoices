@@ -8,7 +8,6 @@ require 'json'
 require 'confstruct'
 require 'feed_parser'
 require 'redis'
-require 'evented_redis'
 require 'eventmachine'
 require 'em-hiredis'
 
