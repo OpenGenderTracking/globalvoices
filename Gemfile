@@ -1,10 +1,8 @@
 source 'http://gemcutter.org'
 source 'http://gems.github.com' 
 
-gem 'beaneater'
-gem 'backburner'
 gem 'json'
-gem "debugger"
+gem 'debugger'
 gem 'uuid'
 gem 'feedzirra'
 gem 'sanitize'
