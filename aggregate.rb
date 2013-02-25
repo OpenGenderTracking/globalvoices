@@ -27,8 +27,10 @@ end
 gvarticles = Dir.glob(File.join(File.dirname(__FILE__), "articles/#{collection}/*.json"))
 count = gvarticles.size - 1
 
-output_all = File.open("assets/global_voices_#{collection}_all.csv", "wb")
-output_just_names = File.open("assets/global_voices_#{collection}_names.csv", "wb")
+time = Time.now().strftime('%Y_%m_%d')
+
+output_all = File.open("assets/#{time}_global_voices_#{collection}_all.csv", "wb")
+output_just_names = File.open("assets/#{time}_global_voices_#{collection}_names.csv", "wb")
 
 output_all.write("id,pubdate,byline,gender_by_pronoun,gender_by_byline\n")
 output_just_names.write("name,likely_byline_gender\n")
