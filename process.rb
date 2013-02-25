@@ -84,7 +84,6 @@ EM.run do
       
       message = JSON.parse(message)
       article_path = message["path"]
-      puts "Done processing: #{article_path}"
 
     end
   end
