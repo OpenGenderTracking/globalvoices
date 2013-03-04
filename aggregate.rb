@@ -42,28 +42,32 @@ gvarticles.each do |a|
   body = file.read
   article = JSON.parse(body)
 
-  if (article["byline"])
+  begin
+    if (article["byline"])
 
-    line_all = article["id"] + "," + 
-           article["pub_date"] + "," +
-           article["byline"] + "," +
-           article["metrics"]["pronouns"]["result"] + "," +
-           article["metrics"]["byline_gender"]["result"] + 
-           "\n"
-    
-    line_names = article["byline"] + "," + 
-      article["metrics"]["byline_gender"]["result"] + 
-      "\n"
+      line_all = article["id"] + "," + 
+             article["pub_date"] + "," +
+             article["byline"] + "," +
+             article["metrics"]["pronouns"]["result"] + "," +
+             article["metrics"]["byline_gender"]["result"] + 
+             "\n"
+      
+      line_names = article["byline"] + "," + 
+        article["metrics"]["byline_gender"]["result"] + 
+        "\n"
 
-    if (!cache[line_all]) 
-      output_all.write(line_all)
-      cache[line_all] = 1
+      if (!cache[line_all]) 
+        output_all.write(line_all)
+        cache[line_all] = 1
+      end
+
+      if (!cache[line_names]) 
+        output_just_names.write(line_names)
+        cache[line_names] = 1
+      end
     end
-
-    if (!cache[line_names]) 
-      output_just_names.write(line_names)
-      cache[line_names] = 1
-    end
+  rescue
+    puts a
   end
 end
 

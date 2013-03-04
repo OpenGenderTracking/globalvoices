@@ -46,4 +46,7 @@ To execute the script, run:
 
 `bundle exec process.rb sample` (or other collection name)
 
+## Licensing
+
+The project is duel licensed under the GPLv3 license as well as the MIT license. Pick your favorite.
 
