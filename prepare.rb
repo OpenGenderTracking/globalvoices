@@ -7,6 +7,8 @@ require 'yaml'
 require 'json'
 require 'confstruct'
 require 'feed_parser'
+require 'xml_parser'
+require 'debugger'
 
 # which collection are we processing? Make sure one was provided.
 collection = ARGV[0]
@@ -34,6 +36,6 @@ files_to_convert = Dir[File.expand_path(File.join(File.dirname(__FILE__),
 
 files_to_convert.each do |feed_path|
   feed = File.open(feed_path, 'r').read
-  gb = Parsers::FeedParser.new(feed, collection, config)
+  gb = Parsers::XMLParser.new(feed, collection, config)
   gb.process
 end
