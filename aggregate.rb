@@ -6,6 +6,7 @@ $LOAD_PATH.unshift(libdir) unless $LOAD_PATH.include?(libdir)
 require 'yaml'
 require 'json'
 require 'confstruct'
+require 'debugger'
 
 # get our configuration data
 config = Confstruct::Configuration.new(
@@ -62,7 +63,7 @@ gvarticles.each do |a|
         add_article = true
       else
         # check if article has such categories
-        if (article["categories"].index(category.capitalize) != nil)
+        if (article["categories"].index(category) != nil)
           add_article = true
         end
       end
