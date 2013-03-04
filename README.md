@@ -46,6 +46,19 @@ To execute the script, run:
 
 `bundle exec process.rb sample` (or other collection name)
 
+### `aggregate.rb`
+
+This script is responsible for assembling some csvs about the processed files. By deault it creates all its files in the `assets` folder. Two files are generated: 
+
+* `*_all.csv` - a csv of all the articles, their pub date and the results of the metrics.
+* `*_names.csv` - A unique list of authors that contributed to the above set of articles and our guess as to their gender.
+
+To execute the script, run:
+
+`bundle exec ruby aggregate.rb sample` (or other collection name)
+
+`bundle exec ruby aggregate.rb sample CategoryName` (any category that appears in the category property of articles.)
+
 ## Licensing
 
 The project is duel licensed under the GPLv3 license as well as the MIT license. Pick your favorite.
