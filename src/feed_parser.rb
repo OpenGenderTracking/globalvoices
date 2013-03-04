@@ -41,6 +41,7 @@ module Parsers
       article["title"] = entry.title
       article["byline"] = entry.author
       article["pub_date"] = entry.published
+      article["categories"] = entry.categories || []
 
       self.save(article)
       

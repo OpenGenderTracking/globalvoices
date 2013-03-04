@@ -1,2 +1,3 @@
 .DS_Store
 articles/full/*.json
+articles/sample/*.json
