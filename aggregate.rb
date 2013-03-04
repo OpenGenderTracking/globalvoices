@@ -24,13 +24,25 @@ if (collection.nil?)
   exit;
 end
 
+category = nil
+if (ARGV[1])
+  category = ARGV[1]
+  "Generating aggregate for #{category} articles only."
+end
+
+
 gvarticles = Dir.glob(File.join(File.dirname(__FILE__), "articles/#{collection}/*.json"))
 count = gvarticles.size - 1
 
 time = Time.now().strftime('%Y_%m_%d')
 
-output_all = File.open("assets/#{time}_global_voices_#{collection}_all.csv", "wb")
-output_just_names = File.open("assets/#{time}_global_voices_#{collection}_names.csv", "wb")
+cat_name = ""
+if (!category.nil?)
+  cat_name = "-#{category}"
+end
+
+output_all = File.open("assets/#{time}_global_voices_#{collection}_all#{cat_name}.csv", "wb")
+output_just_names = File.open("assets/#{time}_global_voices_#{collection}_names#{cat_name}.csv", "wb")
 
 output_all.write("id,pubdate,byline,gender_by_pronoun,gender_by_byline\n")
 output_just_names.write("name,likely_byline_gender\n")
@@ -45,25 +57,37 @@ gvarticles.each do |a|
   begin
     if (article["byline"])
 
-      line_all = article["id"] + "," + 
-             article["pub_date"] + "," +
-             article["byline"] + "," +
-             article["metrics"]["pronouns"]["result"] + "," +
-             article["metrics"]["byline_gender"]["result"] + 
-             "\n"
-      
-      line_names = article["byline"] + "," + 
-        article["metrics"]["byline_gender"]["result"] + 
-        "\n"
-
-      if (!cache[line_all]) 
-        output_all.write(line_all)
-        cache[line_all] = 1
+      add_article = false
+      if (category.nil?)
+        add_article = true
+      else
+        # check if article has such categories
+        if (article["categories"].index(category.capitalize) != nil)
+          add_article = true
+        end
       end
 
-      if (!cache[line_names]) 
-        output_just_names.write(line_names)
-        cache[line_names] = 1
+      if (add_article)
+        line_all = article["id"] + "," + 
+               article["pub_date"] + "," +
+               article["byline"] + "," +
+               article["metrics"]["pronouns"]["result"] + "," +
+               article["metrics"]["byline_gender"]["result"] + 
+               "\n"
+        
+        line_names = article["byline"] + "," + 
+          article["metrics"]["byline_gender"]["result"] + 
+          "\n"
+
+        if (!cache[line_all]) 
+          output_all.write(line_all)
+          cache[line_all] = 1
+        end
+
+        if (!cache[line_names]) 
+          output_just_names.write(line_names)
+          cache[line_names] = 1
+        end
       end
     end
   rescue
