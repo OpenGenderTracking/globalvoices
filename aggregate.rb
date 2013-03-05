@@ -45,7 +45,7 @@ end
 output_all = File.open("assets/#{time}_global_voices_#{collection}_all#{cat_name}.csv", "wb")
 output_just_names = File.open("assets/#{time}_global_voices_#{collection}_names#{cat_name}.csv", "wb")
 
-output_all.write("id,pubdate,byline,gender_by_pronoun,gender_by_byline\n")
+output_all.write("id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc\n")
 output_just_names.write("name,likely_byline_gender\n")
 
 cache = {}
@@ -55,7 +55,7 @@ gvarticles.each do |a|
   body = file.read
   article = JSON.parse(body)
 
-  begin
+  # begin
     if (article["byline"])
 
       add_article = false
@@ -69,11 +69,20 @@ gvarticles.each do |a|
       end
 
       if (add_article)
+
+        # wordcount
+        wc = article["decompositions"]["tokens"].length
+
+
+        # paragraph count
+        pc = article["body"].split("\n").length
+
         line_all = article["id"] + "," + 
                article["pub_date"] + "," +
                article["byline"] + "," +
                article["metrics"]["pronouns"]["result"] + "," +
-               article["metrics"]["byline_gender"]["result"] + 
+               article["metrics"]["byline_gender"]["result"] + "," +
+               wc.to_s + "," + pc.to_s +
                "\n"
         
         line_names = article["byline"] + "," + 
@@ -91,9 +100,9 @@ gvarticles.each do |a|
         end
       end
     end
-  rescue
-    puts a
-  end
+  # rescue 
+  #   puts a
+  # end
 end
 
 output_all.flush
