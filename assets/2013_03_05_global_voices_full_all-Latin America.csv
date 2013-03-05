@@ -6633,6 +6633,7 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 33047,Mon, 22 Oct 2007 00:58:31 +0000,Eduardo Avila,Unknown,Male,57,1
 33048,Mon, 22 Oct 2007 01:17:01 +0000,Eduardo Avila,Neutral,Male,861,18
 330616,Mon, 18 Jun 2012 16:46:39 +0000,Alfredo Richner,Neutral,Male,565,14
+330658,Fri, 03 Aug 2012 14:03:41 +0000,Alfredo Richner,Neutral,Male,1254,47
 330745,Mon, 18 Jun 2012 14:09:27 +0000,Cati Restrepo,Male,Female,75,1
 330783,Thu, 21 Jun 2012 10:10:29 +0000,Silvia Viñas,Neutral,Female,1403,50
 330841,Sat, 07 Jul 2012 18:19:35 +0000,Renata Avila,Female,Female,636,20
@@ -6690,7 +6691,7 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 33321,Fri, 26 Oct 2007 11:00:49 +0000,Janine Mendes-Franco,Unknown,Female,52,1
 33346,Fri, 26 Oct 2007 16:31:19 +0000,Eduardo Avila,Unknown,Male,20,1
 333707,Sat, 30 Jun 2012 03:57:42 +0000,Julián Ortega Martínez,Male,Unknown,85,1
-333728,Sun, 01 Jul 2012 00:00:42 +0000,Julián Ortega Martínez,Female,Unknown,48,1
+333728,Sun, 01 Jul 2012 00:00:42 +0000,Julian Ortega,Female,Male,48,1
 333792,Thu, 05 Jul 2012 14:24:05 +0000,Juan Arellano,Male,Male,1128,42
 33390,Sun, 28 Oct 2007 18:45:35 +0000,Eduardo Avila,Unknown,Male,34,1
 33392,Mon, 29 Oct 2007 01:32:24 +0000,Eduardo Avila,Neutral,Male,1118,16
@@ -6704,21 +6705,21 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 33404,Mon, 29 Oct 2007 01:37:27 +0000,Eduardo Avila,Unknown,Male,10,1
 334046,Sun, 01 Jul 2012 17:24:15 +0000,Janine Mendes-Franco,Neutral,Female,931,19
 334100,Tue, 03 Jul 2012 20:23:29 +0000,Felipe Cordero,Neutral,Male,940,41
-334115,Wed, 30 Nov -0001 00:00:00 +0000,Aamir Raz Soomro,Neutral,Unknown,418,20
+334115,Wed, 30 Nov -0001 00:00:00 +0000,aamir,Neutral,Unknown,418,20
 334121,Tue, 03 Jul 2012 21:05:34 +0000,Andrea Arzaba,Neutral,Female,649,39
-334332,Tue, 03 Jul 2012 04:38:47 +0000,Elizabeth,Neutral,Female,492,23
+334332,Tue, 03 Jul 2012 04:38:47 +0000,Elizabeth Rivera,Neutral,Female,492,23
 334354,Fri, 06 Jul 2012 18:34:33 +0000,Elaine Díaz,Unknown,Female,626,17
 334472,Tue, 03 Jul 2012 22:04:43 +0000,J. Tadeo,Neutral,Male,1150,43
 33455,Tue, 30 Oct 2007 02:35:05 +0000,Eduardo Avila,Unknown,Male,23,1
 33456,Tue, 30 Oct 2007 02:39:11 +0000,Eduardo Avila,Male,Male,23,1
 33457,Tue, 30 Oct 2007 02:39:26 +0000,Eduardo Avila,Unknown,Male,32,1
-334612,Wed, 04 Jul 2012 01:35:06 +0000,Silvia Viñas,Unknown,Female,58,1
-334622,Thu, 05 Jul 2012 18:28:40 +0000,Silvia Viñas,Neutral,Female,470,30
-334628,Thu, 05 Jul 2012 11:34:54 +0000,Julián Ortega Martínez,Male,Unknown,89,1
-334646,Wed, 04 Jul 2012 11:39:15 +0000,Julián Ortega Martínez,Unknown,Unknown,63,1
+334612,Wed, 04 Jul 2012 01:35:06 +0000,Silvia Vinas,Unknown,Female,58,1
+334622,Thu, 05 Jul 2012 18:28:40 +0000,Silvia Vinas,Neutral,Female,470,30
+334628,Thu, 05 Jul 2012 11:34:54 +0000,Julian Ortega,Male,Male,89,1
+334646,Wed, 04 Jul 2012 11:39:15 +0000,Julian Ortega,Unknown,Male,63,1
 33477,Thu, 01 Nov 2007 13:49:30 +0000,Luis Carlos Diaz,Neutral,Male,668,11
 335030,Thu, 28 Jun 2012 14:52:29 +0000,J. Tadeo,Unknown,Male,1247,47
-335051,Fri, 06 Jul 2012 17:16:30 +0000,Julián Ortega Martínez,Female,Unknown,95,1
+335051,Fri, 06 Jul 2012 17:16:30 +0000,Julian Ortega,Female,Male,95,1
 33511,Wed, 31 Oct 2007 18:23:31 +0000,Jorge Gobbi,Neutral,Male,1109,36
 33512,Tue, 30 Oct 2007 23:01:42 +0000,Janine Mendes-Franco,Unknown,Female,31,1
 33513,Tue, 30 Oct 2007 23:14:00 +0000,Janine Mendes-Franco,Unknown,Female,30,1
@@ -6728,38 +6729,40 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 335364,Mon, 09 Jul 2012 14:28:30 +0000,Ángel Carrión,Neutral,Male,1123,26
 3355,Mon, 31 Oct 2005 23:52:36 +0000,David Sasaki,Male,Male,605,9
 33565,Thu, 01 Nov 2007 02:40:51 +0000,Eduardo Avila,Unknown,Male,11,1
-335755,Mon, 09 Jul 2012 14:25:06 +0000,Silvia Viñas,Unknown,Female,61,1
-335794,Tue, 10 Jul 2012 15:00:00 +0000,Julián Ortega Martínez,Unknown,Unknown,63,1
-335804,Mon, 09 Jul 2012 20:01:36 +0000,Julián Ortega Martínez,Unknown,Unknown,58,1
+335755,Mon, 09 Jul 2012 14:25:06 +0000,Silvia Vinas,Unknown,Female,61,1
+335794,Tue, 10 Jul 2012 15:00:00 +0000,Julian Ortega,Unknown,Male,63,1
+335804,Mon, 09 Jul 2012 20:01:36 +0000,Julian Ortega,Unknown,Male,58,1
 3359,Tue, 01 Nov 2005 00:31:36 +0000,David Sasaki,Unknown,Male,11,1
 3360,Tue, 01 Nov 2005 00:34:27 +0000,David Sasaki,Unknown,Male,47,1
 33607,Thu, 01 Nov 2007 19:32:54 +0000,Janine Mendes-Franco,Unknown,Female,24,1
 3361,Tue, 01 Nov 2005 00:39:23 +0000,David Sasaki,Unknown,Male,12,1
-336144,Tue, 10 Jul 2012 15:46:08 +0000,João Miguel D. de A. Lima,Unknown,Male,67,1
+336144,Tue, 10 Jul 2012 15:46:08 +0000,joaomiguel,Unknown,Unknown,67,1
 33617,Thu, 01 Nov 2007 21:52:59 +0000,Eduardo Avila,Unknown,Male,25,1
 33618,Thu, 01 Nov 2007 21:56:42 +0000,Eduardo Avila,Unknown,Male,42,1
 33619,Thu, 01 Nov 2007 22:25:45 +0000,Eduardo Avila,Unknown,Male,17,1
 33620,Thu, 01 Nov 2007 22:36:00 +0000,Eduardo Avila,Unknown,Male,46,1
 33621,Mon, 05 Nov 2007 07:46:04 +0000,Carlos Raúl van der Weyden Velásquez,Neutral,Male,1654,54
-336267,Tue, 10 Jul 2012 19:48:47 +0000,Juliana Rincón Parra,Unknown,Female,28,1
-336278,Wed, 11 Jul 2012 13:34:08 +0000,Silvia Viñas,Neutral,Female,1564,45
+336267,Tue, 10 Jul 2012 19:48:47 +0000,Juliana Rincon Parra,Unknown,Female,28,1
+336278,Wed, 11 Jul 2012 13:34:08 +0000,Silvia Vinas,Neutral,Female,1564,45
 336469,Wed, 11 Jul 2012 15:55:14 +0000,Alison Martinez,Male,Female,757,33
-336514,Wed, 11 Jul 2012 16:43:06 +0000,Julián Ortega Martínez,Male,Unknown,102,1
-336542,Thu, 12 Jul 2012 10:00:14 +0000,Silvia Viñas,Female,Female,41,1
+336514,Wed, 11 Jul 2012 16:43:06 +0000,Julian Ortega,Male,Male,102,1
+336542,Thu, 12 Jul 2012 10:00:14 +0000,Silvia Vinas,Female,Female,41,1
 33668,Fri, 02 Nov 2007 23:52:49 +0000,Eduardo Avila,Unknown,Male,28,1
 336912,Fri, 13 Jul 2012 17:16:18 +0000,Ariel Moreno,Neutral,Female,1561,79
-336979,Thu, 12 Jul 2012 16:52:56 +0000,Juliana Rincón Parra,Unknown,Female,49,1
+336979,Thu, 12 Jul 2012 16:52:56 +0000,Juliana Rincon Parra,Unknown,Female,49,1
 337297,Fri, 13 Jul 2012 23:30:22 +0000,Laura Vidal,Neutral,Female,2830,89
-337308,Wed, 30 Nov -0001 00:00:00 +0000,Elizabeth Rivera,Neutral,Female,1430,66
+337308,Sun, 02 Dec 2012 16:44:42 +0000,Elizabeth,Unknown,Female,730,36
 33742,Mon, 05 Nov 2007 11:33:58 +0000,Eduardo Avila,Male,Male,36,1
 33743,Mon, 05 Nov 2007 11:34:10 +0000,Eduardo Avila,Unknown,Male,26,1
-337649,Sun, 15 Jul 2012 10:32:07 +0000,João Miguel D. de A. Lima,Female,Male,73,1
+337638,Wed, 08 Aug 2012 09:20:29 +0000,Rami Alhames,Neutral,Male,991,35
+337649,Sun, 15 Jul 2012 10:32:07 +0000,joaomiguel,Female,Unknown,73,1
 33799,Tue, 06 Nov 2007 03:15:07 +0000,Eduardo Avila,Unknown,Male,49,1
-338034,Mon, 16 Jul 2012 09:15:41 +0000,João Miguel D. de A. Lima,Female,Male,68,1
+337990,Sun, 28 Oct 2012 12:00:52 +0000,Alfredo Richner,Neutral,Male,282,8
+338034,Mon, 16 Jul 2012 09:15:41 +0000,joaomiguel,Female,Unknown,68,1
 33825,Tue, 06 Nov 2007 10:55:22 +0000,Janine Mendes-Franco,Female,Female,10,1
-338269,Tue, 17 Jul 2012 03:16:56 +0000,Gabriela García Calderón,Neutral,Female,1828,73
+338269,Tue, 17 Jul 2012 03:16:56 +0000,Gabriela Garcia Calderon,Neutral,Female,1828,73
 338411,Tue, 17 Jul 2012 18:51:48 +0000,Laura Schneider,Neutral,Female,1677,52
-338445,Tue, 17 Jul 2012 03:30:54 +0000,Silvia Viñas,Unknown,Female,40,1
+338445,Tue, 17 Jul 2012 03:30:54 +0000,Silvia Vinas,Unknown,Female,40,1
 33856,Tue, 06 Nov 2007 21:35:50 +0000,Eduardo Avila,Unknown,Male,20,1
 33857,Tue, 06 Nov 2007 21:39:05 +0000,Eduardo Avila,Unknown,Male,25,1
 33858,Tue, 06 Nov 2007 21:40:33 +0000,Eduardo Avila,Unknown,Male,19,1
@@ -6769,7 +6772,7 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 338675,Wed, 18 Jul 2012 14:12:20 +0000,Cati Restrepo,Unknown,Female,75,1
 33905,Wed, 07 Nov 2007 19:49:04 +0000,Fred Petrossian,Unknown,Male,28,1
 339096,Thu, 19 Jul 2012 16:10:54 +0000,Ángel Carrión,Unknown,Male,909,16
-339099,Wed, 18 Jul 2012 18:30:20 +0000,Silvia Viñas,Male,Female,66,1
+339099,Wed, 18 Jul 2012 18:30:20 +0000,Silvia Vinas,Male,Female,66,1
 339198,Fri, 20 Jul 2012 12:22:28 +0000,Richard Wanjohi,Neutral,Male,972,27
 339207,Thu, 19 Jul 2012 18:47:20 +0000,Robert Valencia,Neutral,Male,1206,22
 339393,Thu, 19 Jul 2012 12:57:11 +0000,Eduardo Avila,Neutral,Male,670,25
@@ -6777,37 +6780,38 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 339409,Wed, 30 Nov -0001 00:00:00 +0000,Richard Wanjohi,Neutral,Male,569,15
 339443,Fri, 20 Jul 2012 16:08:25 +0000,Lully,Neutral,Female,1515,70
 339463,Wed, 25 Jul 2012 14:53:07 +0000,Laura Vidal,Neutral,Female,346,16
-339495,Thu, 19 Jul 2012 19:13:41 +0000,Silvia Viñas,Female,Female,60,1
-339523,Thu, 19 Jul 2012 21:42:39 +0000,Juliana Rincón Parra,Unknown,Female,234,6
-339569,Mon, 30 Jul 2012 08:30:04 +0000,João Miguel D. de A. Lima,Neutral,Male,879,37
+339495,Thu, 19 Jul 2012 19:13:41 +0000,Silvia Vinas,Female,Female,60,1
+339523,Thu, 19 Jul 2012 21:42:39 +0000,Juliana Rincon Parra,Unknown,Female,233,6
+339569,Mon, 30 Jul 2012 08:30:04 +0000,joaomiguel,Neutral,Unknown,879,37
 33958,Thu, 08 Nov 2007 10:37:01 +0000,Janine Mendes-Franco,Unknown,Female,46,1
 3396,Wed, 02 Nov 2005 02:14:02 +0000,David Sasaki,Unknown,Male,22,1
 3397,Wed, 02 Nov 2005 02:19:48 +0000,David Sasaki,Unknown,Male,33,1
-339821,Mon, 23 Jul 2012 13:00:34 +0000,Gabriela García Calderón,Neutral,Female,1094,62
-339869,Mon, 23 Jul 2012 11:00:21 +0000,Julián Ortega Martínez,Neutral,Unknown,1168,28
+339821,Mon, 23 Jul 2012 13:00:34 +0000,Gabriela Garcia Calderon,Neutral,Female,1094,62
+339869,Mon, 23 Jul 2012 11:00:21 +0000,Julian Ortega,Neutral,Male,1168,28
 339879,Wed, 25 Jul 2012 12:00:59 +0000,Laura Schneider,Neutral,Female,1458,69
 3400,Wed, 02 Nov 2005 02:39:23 +0000,David Sasaki,Unknown,Male,23,1
-340019,Sun, 22 Jul 2012 20:06:39 +0000,Juliana Rincón Parra,Neutral,Female,407,14
+340019,Sun, 22 Jul 2012 20:06:39 +0000,Juliana Rincon Parra,Neutral,Female,407,14
 340034,Sat, 21 Jul 2012 00:20:34 +0000,Juan Arellano,Neutral,Male,2074,62
 340233,Sun, 22 Jul 2012 00:55:07 +0000,Silvia Vinas,Neutral,Female,524,23
 340253,Sun, 22 Jul 2012 02:48:31 +0000,Juan Arellano,Neutral,Male,1327,39
-340302,Mon, 23 Jul 2012 08:11:56 +0000,João Miguel D. de A. Lima,Male,Male,68,1
-340412,Tue, 24 Jul 2012 13:28:22 +0000,Julián Ortega Martínez,Neutral,Unknown,1190,25
+340302,Mon, 23 Jul 2012 08:11:56 +0000,joaomiguel,Male,Unknown,68,1
+340412,Tue, 24 Jul 2012 13:28:22 +0000,Julian Ortega,Neutral,Male,1190,25
 34042,Fri, 09 Nov 2007 11:53:04 +0000,Janine Mendes-Franco,Unknown,Female,30,1
 34048,Fri, 09 Nov 2007 20:26:51 +0000,Paula Góes,Unknown,Female,72,1
 34060,Fri, 09 Nov 2007 20:37:45 +0000,Paula Góes,Female,Female,63,1
-340631,Mon, 23 Jul 2012 17:45:41 +0000,Silvia Viñas,Male,Female,43,1
+340631,Mon, 23 Jul 2012 17:45:41 +0000,Silvia Vinas,Male,Female,43,1
 34067,Fri, 09 Nov 2007 21:43:31 +0000,Paula Góes,Unknown,Female,65,1
 34074,Fri, 09 Nov 2007 22:48:52 +0000,Paula Góes,Male,Female,102,1
 340781,Tue, 24 Jul 2012 00:36:07 +0000,Cati Restrepo,Neutral,Female,1154,45
 340816,Tue, 24 Jul 2012 14:54:07 +0000,Ellery Roberts Biddle,Male,Male,1313,44
 34092,Sun, 11 Nov 2007 14:10:41 +0000,Paula Góes,Neutral,Female,1456,57
 34093,Sat, 10 Nov 2007 19:02:19 +0000,Paula Góes,Unknown,Female,75,1
-340943,Tue, 24 Jul 2012 15:02:18 +0000,Silvia Viñas,Male,Female,58,1
+340943,Tue, 24 Jul 2012 15:02:18 +0000,Silvia Vinas,Male,Female,58,1
 341024,Thu, 26 Jul 2012 15:40:01 +0000,Yohana de Andrade,Neutral,Unknown,1334,36
 34103,Thu, 15 Nov 2007 20:04:23 +0000,Renata Avila,Neutral,Female,1079,22
-341059,Wed, 25 Jul 2012 08:00:45 +0000,Silvia Viñas,Unknown,Female,55,1
+341059,Wed, 25 Jul 2012 08:00:45 +0000,Silvia Vinas,Unknown,Female,55,1
 34108,Sun, 11 Nov 2007 11:17:43 +0000,Paula Góes,Unknown,Female,73,1
+341103,Fri, 03 Aug 2012 23:32:55 +0000,Renata Avila,Neutral,Female,720,20
 341215,Thu, 26 Jul 2012 16:28:39 +0000,Richard Wanjohi,Neutral,Male,1134,34
 34125,Sun, 11 Nov 2007 17:36:50 +0000,Paula Góes,Unknown,Female,54,1
 34126,Sun, 11 Nov 2007 18:03:02 +0000,Paula Góes,Neutral,Female,90,1
@@ -6824,13 +6828,13 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 341596,Wed, 30 Nov -0001 00:00:00 +0000,Richard Wanjohi,Neutral,Male,666,44
 34161,Mon, 12 Nov 2007 14:07:05 +0000,Paula Góes,Neutral,Female,77,1
 341649,Wed, 30 Nov -0001 00:00:00 +0000,Pablo Andres Rivero,Unknown,Male,572,20
-341708,Wed, 01 Aug 2012 14:00:04 +0000,Silvia Viñas,Neutral,Female,1021,40
-341770,Thu, 26 Jul 2012 19:41:05 +0000,Juliana Rincón Parra,Neutral,Female,433,16
-341854,Thu, 26 Jul 2012 19:10:34 +0000,Cati Restrepo,Female,Female,62,1
+341708,Wed, 01 Aug 2012 14:00:04 +0000,Silvia Vinas,Neutral,Female,1021,40
+341770,Thu, 26 Jul 2012 19:41:05 +0000,Juliana Rincon Parra,Neutral,Female,433,16
+341854,Thu, 26 Jul 2012 19:10:34 +0000,Cati Restrepo,Female,Female,61,1
 34192,Mon, 12 Nov 2007 20:05:39 +0000,Paula Góes,Neutral,Female,84,1
 341978,Fri, 27 Jul 2012 03:41:32 +0000,Pablo Andrés Rivero,Neutral,Male,970,29
 341986,Fri, 27 Jul 2012 03:07:45 +0000,Laura Schneider,Neutral,Female,605,35
-342029,Fri, 27 Jul 2012 12:00:01 +0000,Silvia Viñas,Unknown,Female,65,1
+342029,Fri, 27 Jul 2012 12:00:01 +0000,Silvia Vinas,Unknown,Female,65,1
 342054,Fri, 27 Jul 2012 21:30:46 +0000,Ellery Roberts Biddle,Neutral,Male,690,21
 34211,Tue, 13 Nov 2007 00:07:54 +0000,Eduardo Avila,Unknown,Male,19,1
 34212,Tue, 13 Nov 2007 00:08:08 +0000,Eduardo Avila,Unknown,Male,16,1
@@ -6839,14 +6843,15 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 34215,Tue, 13 Nov 2007 00:08:49 +0000,Eduardo Avila,Unknown,Male,26,1
 34216,Tue, 13 Nov 2007 00:22:45 +0000,Eduardo Avila,Male,Male,25,1
 342166,Fri, 27 Jul 2012 16:13:05 +0000,Ariel Moreno,Neutral,Female,566,22
+342298,Fri, 10 Aug 2012 16:29:36 +0000,Ellery Roberts Biddle,Neutral,Male,120,1
 342341,Fri, 27 Jul 2012 23:30:22 +0000,Diego Casaes,Unknown,Male,81,1
-342509,Sun, 29 Jul 2012 13:13:41 +0000,João Miguel D. de A. Lima,Unknown,Male,64,1
+342509,Sun, 29 Jul 2012 13:13:41 +0000,joaomiguel,Unknown,Unknown,64,1
 34251,Tue, 13 Nov 2007 11:24:18 +0000,Janine Mendes-Franco,Male,Female,18,1
 342607,Sun, 29 Jul 2012 00:05:59 +0000,Silvia Vinas,Male,Female,67,1
-342608,Sun, 29 Jul 2012 19:41:22 +0000,Julián Ortega Martínez,Male,Unknown,1253,51
+342608,Sun, 29 Jul 2012 19:41:22 +0000,Julian Ortega,Male,Male,1253,51
 34261,Tue, 13 Nov 2007 13:03:06 +0000,Paula Góes,Neutral,Female,59,1
 34263,Tue, 13 Nov 2007 13:38:57 +0000,Paula Góes,Unknown,Female,40,1
-342717,Sun, 29 Jul 2012 16:10:52 +0000,João Miguel D. de A. Lima,Unknown,Male,65,1
+342717,Sun, 29 Jul 2012 16:10:52 +0000,joaomiguel,Unknown,Unknown,65,1
 34272,Tue, 13 Nov 2007 20:55:10 +0000,Eduardo Avila,Neutral,Male,1256,31
 342751,Wed, 01 Aug 2012 15:15:47 +0000,Andrea Arzaba,Neutral,Female,1394,78
 34278,Tue, 13 Nov 2007 21:23:17 +0000,Veronica Khokhlova,Unknown,Female,26,1
@@ -6858,27 +6863,27 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 34293,Wed, 14 Nov 2007 01:46:08 +0000,Eduardo Avila,Unknown,Male,20,1
 34294,Wed, 14 Nov 2007 01:51:17 +0000,Eduardo Avila,Unknown,Male,53,1
 342983,Tue, 31 Jul 2012 18:30:05 +0000,Gina Yauri,Neutral,Female,1398,79
-343004,Tue, 31 Jul 2012 13:31:04 +0000,Silvia Viñas,Neutral,Female,649,25
-343018,Thu, 02 Aug 2012 15:10:53 +0000,Elizabeth,Neutral,Female,779,32
+343004,Tue, 31 Jul 2012 13:31:04 +0000,Silvia Vinas,Neutral,Female,649,25
+343018,Thu, 02 Aug 2012 15:10:53 +0000,Elizabeth,Neutral,Female,779,31
 34306,Wed, 14 Nov 2007 07:47:58 +0000,Luis Carlos Diaz,Neutral,Male,1722,42
-343069,Mon, 30 Jul 2012 18:29:51 +0000,Silvia Viñas,Neutral,Female,75,1
+343069,Mon, 30 Jul 2012 18:29:51 +0000,Silvia Vinas,Neutral,Female,75,1
 34315,Wed, 14 Nov 2007 11:23:32 +0000,Janine Mendes-Franco,Unknown,Female,16,1
 34318,Wed, 14 Nov 2007 11:38:06 +0000,Janine Mendes-Franco,Unknown,Female,19,1
 3432,Thu, 03 Nov 2005 02:31:26 +0000,Eduardo Avila,Male,Male,464,17
 34323,Wed, 14 Nov 2007 14:09:32 +0000,Paula Góes,Unknown,Female,77,1
 343258,Tue, 31 Jul 2012 15:16:51 +0000,Laura Schneider,Neutral,Female,870,21
 34328,Wed, 14 Nov 2007 14:58:10 +0000,Eduardo Avila,Unknown,Male,31,1
-343349,Tue, 31 Jul 2012 15:37:42 +0000,Silvia Viñas,Unknown,Female,90,1
+343349,Tue, 31 Jul 2012 15:37:42 +0000,Silvia Vinas,Unknown,Female,90,1
 34337,Wed, 14 Nov 2007 17:18:54 +0000,Eduardo Avila,Unknown,Male,33,1
 34339,Wed, 14 Nov 2007 17:33:38 +0000,Eduardo Avila,Unknown,Male,42,1
 34340,Wed, 14 Nov 2007 17:41:12 +0000,Eduardo Avila,Unknown,Male,48,1
 34341,Wed, 14 Nov 2007 17:44:55 +0000,Eduardo Avila,Neutral,Male,55,1
 34342,Wed, 14 Nov 2007 17:47:26 +0000,Eduardo Avila,Unknown,Male,22,1
-343479,Tue, 31 Jul 2012 23:34:10 +0000,Juliana Rincón Parra,Female,Female,1998,49
-343498,Wed, 01 Aug 2012 14:05:44 +0000,Silvia Viñas,Unknown,Female,62,1
+343479,Tue, 31 Jul 2012 23:34:10 +0000,Juliana Rincon Parra,Female,Female,1998,49
+343498,Wed, 01 Aug 2012 14:05:44 +0000,Silvia Vinas,Unknown,Female,62,1
 34351,Wed, 14 Nov 2007 21:57:58 +0000,Paula Góes,Unknown,Female,78,1
 34353,Wed, 14 Nov 2007 22:58:21 +0000,Paula Góes,Neutral,Female,75,1
-343531,Wed, 01 Aug 2012 20:01:20 +0000,Elaine Díaz,Neutral,Female,552,14
+343531,Mon, 30 Jul 2012 20:01:20 +0000,Elaine Díaz,Neutral,Female,574,18
 34358,Thu, 15 Nov 2007 00:20:50 +0000,Eduardo Avila,Unknown,Male,21,1
 34359,Thu, 15 Nov 2007 00:23:09 +0000,Eduardo Avila,Unknown,Male,35,1
 3436,Thu, 03 Nov 2005 02:48:52 +0000,David Sasaki,Neutral,Male,22,1
@@ -6886,44 +6891,80 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 34361,Thu, 15 Nov 2007 00:28:04 +0000,Eduardo Avila,Unknown,Male,38,1
 34364,Thu, 15 Nov 2007 02:43:35 +0000,Eduardo Avila,Unknown,Male,30,1
 343714,Wed, 01 Aug 2012 21:41:02 +0000,Laura Schneider,Neutral,Female,1193,74
-343777,Wed, 01 Aug 2012 19:42:49 +0000,Juliana Rincón Parra,Neutral,Female,473,14
+343777,Wed, 01 Aug 2012 19:42:49 +0000,Juliana Rincon Parra,Neutral,Female,473,14
 343796,Wed, 01 Aug 2012 22:55:56 +0000,Richard Wanjohi,Neutral,Male,826,27
 343842,Thu, 02 Aug 2012 14:14:51 +0000,Emma Brewin,Unknown,Female,312,11
 3439,Thu, 03 Nov 2005 02:55:10 +0000,David Sasaki,Unknown,Male,19,1
 34395,Sun, 18 Nov 2007 07:01:33 +0000,Rodrigo Peñalba,Unknown,Male,424,1
+343967,Thu, 09 Aug 2012 21:45:08 +0000,Csar Santiago,Neutral,Unknown,1478,30
 3440,Thu, 03 Nov 2005 03:01:25 +0000,David Sasaki,Unknown,Male,10,1
 34401,Thu, 15 Nov 2007 14:57:51 +0000,Paula Góes,Female,Female,57,1
 34405,Thu, 15 Nov 2007 15:15:12 +0000,Paula Góes,Unknown,Female,39,1
-344078,Wed, 30 Nov -0001 00:00:00 +0000,Sara Moreira,Neutral,Female,797,29
+344078,Fri, 03 Aug 2012 01:37:52 +0000,Sara Moreira,Neutral,Female,810,29
 34408,Thu, 15 Nov 2007 15:32:50 +0000,Janine Mendes-Franco,Unknown,Female,29,1
 34411,Thu, 15 Nov 2007 16:30:02 +0000,Paula Góes,Neutral,Female,73,1
-344140,Wed, 30 Nov -0001 00:00:00 +0000,Lully,Neutral,Female,810,35
-344143,Thu, 02 Aug 2012 15:11:59 +0000,Silvia Viñas,Unknown,Female,82,1
+344140,Thu, 02 Aug 2012 17:43:41 +0000,Lully,Neutral,Female,859,30
+344143,Thu, 02 Aug 2012 15:11:59 +0000,Silvia Vinas,Unknown,Female,82,1
 3442,Thu, 03 Nov 2005 05:30:51 +0000,David Sasaki,Unknown,Male,19,1
+344283,Fri, 03 Aug 2012 14:31:13 +0000,Laura Vidal,Neutral,Female,1706,56
+344411,Fri, 03 Aug 2012 15:49:57 +0000,Silvia Vinas,Unknown,Female,49,1
+344425,Fri, 03 Aug 2012 19:08:54 +0000,Ariel Moreno,Neutral,Female,737,33
 34448,Fri, 16 Nov 2007 02:33:41 +0000,Eduardo Avila,Male,Male,19,1
+344613,Sat, 04 Aug 2012 21:57:21 +0000,Renata Avila,Neutral,Female,419,22
+344619,Fri, 03 Aug 2012 21:20:53 +0000,Ángel Carrión,Neutral,Male,706,39
 34469,Fri, 16 Nov 2007 14:07:07 +0000,Paula Góes,Unknown,Female,63,2
 34471,Fri, 16 Nov 2007 14:39:07 +0000,Paula Góes,Neutral,Female,110,1
+344740,Mon, 06 Aug 2012 11:11:54 +0000,Luis Henrique,Neutral,Male,848,27
+344754,Mon, 06 Aug 2012 13:51:34 +0000,Lully,Neutral,Female,573,21
+344762,Sun, 05 Aug 2012 19:34:02 +0000,Silvia Vinas,Unknown,Female,48,1
 34480,Fri, 16 Nov 2007 17:49:44 +0000,Paula Góes,Unknown,Female,57,1
+344864,Mon, 06 Aug 2012 14:15:18 +0000,Cati Restrepo,Female,Female,909,42
+345032,Mon, 06 Aug 2012 14:35:25 +0000,Cati Restrepo,Unknown,Female,98,3
+345047,Mon, 06 Aug 2012 15:37:55 +0000,Juliana Rincon Parra,Neutral,Female,85,7
 34506,Mon, 19 Nov 2007 00:19:52 +0000,Solana Larsen,Neutral,Female,624,20
+345109,Mon, 06 Aug 2012 21:23:02 +0000,Jenny Cascante,Unknown,Female,134,7
+345114,Mon, 06 Aug 2012 20:39:56 +0000,Laura Vidal,Neutral,Female,1046,40
 34517,Sat, 17 Nov 2007 14:29:13 +0000,Janine Mendes-Franco,Unknown,Female,22,1
+345300,Tue, 07 Aug 2012 14:18:37 +0000,Silvia Vinas,Unknown,Female,44,1
+345364,Sat, 11 Aug 2012 17:57:09 +0000,Laura Vidal,Neutral,Female,990,22
+345365,Tue, 07 Aug 2012 20:42:20 +0000,Ángel Carrión,Neutral,Male,595,31
+345371,Wed, 08 Aug 2012 13:00:27 +0000,Silvia Vinas,Unknown,Female,79,1
 34539,Sun, 18 Nov 2007 09:53:06 +0000,Paula Góes,Male,Female,73,1
 34540,Sun, 18 Nov 2007 10:02:23 +0000,Paula Góes,Neutral,Female,80,1
 34541,Sun, 18 Nov 2007 10:22:24 +0000,Paula Góes,Male,Female,79,1
+345437,Wed, 08 Aug 2012 01:19:27 +0000,Juliana Rincon Parra,Neutral,Female,318,17
+345459,Wed, 08 Aug 2012 14:13:24 +0000,Yarisa Colon,Neutral,Unknown,1054,48
 34546,Sun, 18 Nov 2007 18:49:15 +0000,Paula Góes,Neutral,Female,1716,42
+345488,Fri, 10 Aug 2012 13:00:45 +0000,Silvia Vinas,Male,Female,46,1
+345495,Thu, 09 Aug 2012 12:30:24 +0000,Silvia Vinas,Unknown,Female,69,1
+345609,Thu, 09 Aug 2012 13:20:31 +0000,Pablo Andres Rivero,Unknown,Male,256,12
+345677,Wed, 08 Aug 2012 23:05:14 +0000,Ángel Carrión,Male,Male,620,30
+345688,Wed, 08 Aug 2012 17:28:06 +0000,Sara Moreira,Unknown,Female,49,1
 34569,Sun, 18 Nov 2007 22:12:41 +0000,Paula Góes,Unknown,Female,66,1
 34573,Mon, 19 Nov 2007 02:33:06 +0000,Eduardo Avila,Female,Male,51,1
 34574,Mon, 19 Nov 2007 02:53:33 +0000,Eduardo Avila,Male,Male,26,3
 34575,Mon, 19 Nov 2007 03:03:43 +0000,Eduardo Avila,Unknown,Male,38,2
 34576,Mon, 19 Nov 2007 03:22:41 +0000,Eduardo Avila,Unknown,Male,28,2
+345905,Thu, 09 Aug 2012 13:49:52 +0000,Laura Schneider,Neutral,Female,1784,51
 346,Mon, 11 Jul 2005 22:13:42 +0000,David Sasaki,Unknown,Male,18,1
 34612,Mon, 19 Nov 2007 17:24:28 +0000,Paula Góes,Male,Female,63,1
 34616,Mon, 19 Nov 2007 18:41:24 +0000,Paula Góes,Neutral,Female,72,1
 34617,Mon, 19 Nov 2007 19:36:41 +0000,Paula Góes,Unknown,Female,87,1
+346250,Fri, 10 Aug 2012 03:31:41 +0000,Lully,Neutral,Female,872,41
 34626,Mon, 19 Nov 2007 22:57:33 +0000,Veronica Khokhlova,Male,Female,33,1
+346355,Sun, 12 Aug 2012 13:00:31 +0000,Laura Schneider,Neutral,Female,1579,62
+346421,Fri, 10 Aug 2012 20:29:45 +0000,Elizabeth,Neutral,Female,863,30
+346481,Fri, 10 Aug 2012 17:56:17 +0000,Firuzeh Shokooh Valle,Female,Female,46,1
 34651,Wed, 21 Nov 2007 21:22:16 +0000,Juliana Rincón Parra,Neutral,Female,1002,35
+346512,Fri, 10 Aug 2012 18:12:16 +0000,Firuzeh Shokooh Valle,Unknown,Female,25,1
+346517,Fri, 10 Aug 2012 18:15:47 +0000,Firuzeh Shokooh Valle,Unknown,Female,32,1
+346521,Fri, 10 Aug 2012 18:40:21 +0000,Firuzeh Shokooh Valle,Unknown,Female,17,1
+346594,Fri, 10 Aug 2012 20:39:34 +0000,Lully,Unknown,Female,70,1
 34676,Tue, 20 Nov 2007 10:23:58 +0000,Janine Mendes-Franco,Unknown,Female,18,1
 34678,Tue, 20 Nov 2007 10:54:16 +0000,Janine Mendes-Franco,Neutral,Female,57,1
 34679,Tue, 20 Nov 2007 11:02:07 +0000,Janine Mendes-Franco,Male,Female,23,1
+346800,Sat, 11 Aug 2012 19:12:00 +0000,Laura Schneider,Unknown,Female,475,33
+346851,Sun, 12 Aug 2012 01:13:25 +0000,Andrea Arzaba,Neutral,Female,666,34
 34688,Tue, 20 Nov 2007 20:20:31 +0000,Juan Arellano,Neutral,Male,3190,110
 34692,Tue, 20 Nov 2007 15:41:11 +0000,Eduardo Avila,Unknown,Male,18,2
 34694,Tue, 20 Nov 2007 16:08:23 +0000,Eduardo Avila,Unknown,Male,19,1
@@ -6931,18 +6972,44 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 34703,Tue, 20 Nov 2007 18:41:54 +0000,Paula Góes,Unknown,Female,112,1
 34705,Tue, 20 Nov 2007 18:49:02 +0000,Paula Góes,Unknown,Female,99,1
 34710,Tue, 20 Nov 2007 19:19:09 +0000,Paula Góes,Unknown,Female,68,1
+347177,Mon, 13 Aug 2012 02:03:04 +0000,Daniela Gallardo,Neutral,Female,790,35
 3472,Thu, 03 Nov 2005 18:00:46 +0000,David Sasaki,Unknown,Male,23,1
+347229,Tue, 21 Aug 2012 13:16:04 +0000,Alfredo Richner,Neutral,Male,448,10
 34723,Tue, 20 Nov 2007 20:39:58 +0000,Eduardo Avila,Unknown,Male,53,1
+347262,Tue, 14 Aug 2012 13:33:07 +0000,Ángel Carrión,Neutral,Male,805,36
+347337,Mon, 13 Aug 2012 15:02:51 +0000,Silvia Vinas,Female,Female,65,1
+347385,Mon, 13 Aug 2012 17:38:12 +0000,Lully,Neutral,Female,560,25
 34763,Wed, 21 Nov 2007 12:08:12 +0000,Janine Mendes-Franco,Unknown,Female,20,3
 34764,Wed, 21 Nov 2007 12:14:12 +0000,Janine Mendes-Franco,Unknown,Female,33,1
+347735,Tue, 14 Aug 2012 18:47:55 +0000,Silvia Vinas,Female,Female,84,1
+347756,Tue, 14 Aug 2012 18:59:51 +0000,Sara Moreira,Female,Female,51,1
+347769,Tue, 21 Aug 2012 11:42:36 +0000,Sara Moreira,Unknown,Female,76,1
+347814,Thu, 16 Aug 2012 01:02:52 +0000,Gabriela Garcia Calderon,Neutral,Female,1844,108
 34784,Wed, 21 Nov 2007 18:52:40 +0000,Paula Góes,Unknown,Female,121,1
+347842,Tue, 14 Aug 2012 23:48:43 +0000,Juliana Rincon Parra,Unknown,Female,42,1
 34786,Wed, 21 Nov 2007 19:19:26 +0000,Paula Góes,Unknown,Female,68,1
 34787,Wed, 21 Nov 2007 20:04:27 +0000,Paula Góes,Unknown,Female,106,1
+347900,Wed, 15 Aug 2012 21:47:13 +0000,Juliana Rincon Parra,Unknown,Female,500,14
+347901,Wed, 15 Aug 2012 15:20:33 +0000,Lully,Male,Female,883,29
+347952,Thu, 30 Aug 2012 15:54:24 +0000,Pablo Andres Rivero,Unknown,Male,1159,56
+347983,Thu, 16 Aug 2012 15:54:08 +0000,Ángel Carrión,Neutral,Male,1864,29
+348035,Wed, 15 Aug 2012 16:58:06 +0000,Silvia Vinas,Unknown,Female,20,1
+348150,Fri, 24 Aug 2012 13:40:57 +0000,Ellery Roberts Biddle,Unknown,Male,68,2
+348151,Thu, 16 Aug 2012 05:14:28 +0000,Silvia Vinas,Unknown,Female,100,1
 34816,Thu, 22 Nov 2007 02:31:21 +0000,Rezwan,Neutral,Male,369,25
+348208,Tue, 28 Aug 2012 18:55:11 +0000,Ángel Carrión,Neutral,Male,3114,57
+348232,Thu, 16 Aug 2012 13:09:42 +0000,Silvia Vinas,Unknown,Female,66,1
+348242,Thu, 16 Aug 2012 15:11:24 +0000,Julian Ortega,Female,Male,68,1
+348248,Thu, 16 Aug 2012 15:44:22 +0000,Silvia Vinas,Neutral,Female,892,38
+348343,Tue, 21 Aug 2012 09:03:14 +0000,Davi Padilha Bonela,Neutral,Unknown,810,28
 34841,Thu, 22 Nov 2007 11:00:43 +0000,Janine Mendes-Franco,Unknown,Female,35,3
+348495,Fri, 17 Aug 2012 14:04:45 +0000,Eduardo Avila,Neutral,Male,706,22
 34851,Thu, 22 Nov 2007 14:35:50 +0000,Paula Góes,Male,Female,58,1
 34852,Thu, 22 Nov 2007 17:35:38 +0000,Janine Mendes-Franco,Neutral,Female,599,49
+348552,Fri, 17 Aug 2012 11:31:35 +0000,Elisa Thiago,Unknown,Female,76,1
+348567,Fri, 17 Aug 2012 18:57:46 +0000,Gina Yauri,Neutral,Female,1150,49
 34857,Thu, 22 Nov 2007 18:43:45 +0000,Paula Góes,Unknown,Female,71,1
+348586,Fri, 17 Aug 2012 19:15:29 +0000,Cati Restrepo,Unknown,Female,78,1
 34860,Thu, 22 Nov 2007 19:24:44 +0000,Paula Góes,Male,Female,59,1
 34862,Fri, 23 Nov 2007 02:51:02 +0000,Roy Rojas,Unknown,Male,409,24
 34873,Fri, 23 Nov 2007 02:10:30 +0000,Eduardo Avila,Male,Male,17,1
@@ -6950,8 +7017,10 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 34875,Fri, 23 Nov 2007 02:18:07 +0000,Eduardo Avila,Unknown,Male,19,1
 34876,Fri, 23 Nov 2007 02:22:19 +0000,Eduardo Avila,Unknown,Male,30,1
 34877,Fri, 23 Nov 2007 02:25:56 +0000,Eduardo Avila,Neutral,Male,59,1
+348798,Sat, 18 Aug 2012 16:32:31 +0000,Gabriela Garcia Calderon,Neutral,Female,1260,61
 34880,Fri, 23 Nov 2007 03:04:01 +0000,Eduardo Avila,Unknown,Male,33,1
 34889,Fri, 23 Nov 2007 03:30:24 +0000,Eduardo Avila,Unknown,Male,49,1
+348914,Sat, 18 Aug 2012 22:30:52 +0000,Lully,Neutral,Female,850,23
 349,Mon, 11 Jul 2005 22:30:35 +0000,David Sasaki,Unknown,Male,23,1
 34900,Fri, 23 Nov 2007 10:42:01 +0000,Janine Mendes-Franco,Unknown,Female,22,1
 34902,Fri, 23 Nov 2007 10:51:32 +0000,Janine Mendes-Franco,Unknown,Female,29,1
@@ -6959,17 +7028,28 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 34907,Sun, 25 Nov 2007 10:08:15 +0000,Paula Góes,Neutral,Female,2692,56
 34911,Fri, 23 Nov 2007 17:31:40 +0000,Paula Góes,Neutral,Female,84,1
 34912,Fri, 23 Nov 2007 18:31:46 +0000,Paula Góes,Unknown,Female,34,1
+349120,Sun, 19 Aug 2012 20:58:52 +0000,Laura Schneider,Neutral,Female,1644,51
 34917,Fri, 23 Nov 2007 18:10:05 +0000,Paula Góes,Unknown,Female,45,1
 3492,Fri, 04 Nov 2005 03:42:20 +0000,David Sasaki,Unknown,Male,19,1
 34920,Fri, 23 Nov 2007 18:20:15 +0000,Paula Góes,Unknown,Female,65,2
 34921,Sun, 25 Nov 2007 04:06:58 +0000,Fred Petrossian,Neutral,Male,446,27
+349389,Mon, 20 Aug 2012 20:32:12 +0000,João Miguel D. de A. Lima,Unknown,Male,65,1
 3494,Fri, 04 Nov 2005 04:09:22 +0000,David Sasaki,Neutral,Male,83,1
 34942,Sat, 24 Nov 2007 01:49:48 +0000,Eduardo Avila,Unknown,Male,25,2
 34943,Sat, 24 Nov 2007 01:57:41 +0000,Eduardo Avila,Unknown,Male,16,1
+349518,Sun, 22 Jul 2012 12:47:14 +0000,Cati Restrepo,Male,Female,50,1
+349526,Tue, 21 Aug 2012 12:57:11 +0000,Cati Restrepo,Unknown,Female,65,1
+349537,Tue, 21 Aug 2012 20:49:15 +0000,Ángel Carrión,Neutral,Male,664,35
 34956,Sun, 25 Nov 2007 01:13:57 +0000,Eduardo Avila,Unknown,Male,47,3
 3496,Fri, 04 Nov 2005 04:47:49 +0000,David Sasaki,Unknown,Male,43,1
+349607,Fri, 24 Aug 2012 13:00:05 +0000,Silvia Vinas,Unknown,Female,31,4
+349624,Wed, 22 Aug 2012 13:00:27 +0000,Silvia Vinas,Unknown,Female,63,3
+349652,Thu, 23 Aug 2012 13:00:20 +0000,Gabriela Garcia Calderon,Unknown,Female,47,1
+349656,Wed, 22 Aug 2012 14:44:43 +0000,Laura Schneider,Female,Female,847,39
 3497,Fri, 04 Nov 2005 05:06:47 +0000,David Sasaki,Male,Male,21,1
 34970,Sun, 25 Nov 2007 08:27:23 +0000,Jennifer Brea,Unknown,Female,19,1
+349745,Wed, 22 Aug 2012 00:30:26 +0000,Silvia Vinas,Unknown,Female,69,1
+349750,Thu, 23 Aug 2012 08:22:51 +0000,Silvia Vinas,Female,Female,953,37
 3498,Sat, 05 Nov 2005 07:12:57 +0000,Rosario Lizana,Neutral,Female,383,12
 34986,Sun, 25 Nov 2007 18:54:28 +0000,Eduardo Avila,Male,Male,48,2
 34989,Mon, 26 Nov 2007 00:17:15 +0000,Eduardo Avila,Male,Male,44,1
@@ -6978,13 +7058,24 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 34992,Mon, 26 Nov 2007 00:17:48 +0000,Eduardo Avila,Female,Male,27,1
 34993,Mon, 26 Nov 2007 01:51:37 +0000,Eduardo Avila,Unknown,Male,33,1
 34994,Mon, 26 Nov 2007 02:18:51 +0000,Eduardo Avila,Unknown,Male,25,2
+349974,Thu, 23 Aug 2012 10:00:28 +0000,Laura Schneider,Unknown,Female,843,42
 35001,Mon, 26 Nov 2007 10:36:18 +0000,Janine Mendes-Franco,Unknown,Female,43,1
+350074,Wed, 22 Aug 2012 20:14:56 +0000,Juliana Rincon Parra,Neutral,Female,1508,35
+350114,Thu, 23 Aug 2012 00:30:36 +0000,Lully,Male,Female,49,2
+350153,Mon, 20 Aug 2012 09:35:50 +0000,João Miguel D. de A. Lima,Neutral,Male,1693,58
+350175,Thu, 23 Aug 2012 14:54:03 +0000,Lully,Neutral,Female,1352,52
 35024,Mon, 26 Nov 2007 22:29:32 +0000,Mario Duran,Neutral,Male,1707,152
 35043,Tue, 27 Nov 2007 00:28:30 +0000,Eduardo Avila,Unknown,Male,24,1
 35044,Tue, 27 Nov 2007 00:28:44 +0000,Eduardo Avila,Neutral,Male,60,3
 35054,Mon, 03 Dec 2007 13:50:35 +0000,Renata Avila,Neutral,Female,881,92
 35065,Tue, 27 Nov 2007 12:02:13 +0000,Janine Mendes-Franco,Unknown,Female,31,1
+350727,Fri, 24 Aug 2012 12:27:50 +0000,Firuzeh Shokooh Valle,Unknown,Female,68,2
+350732,Fri, 24 Aug 2012 12:44:17 +0000,Firuzeh Shokooh Valle,Unknown,Female,71,3
+350739,Fri, 24 Aug 2012 13:37:41 +0000,Firuzeh Shokooh Valle,Unknown,Female,88,6
+350761,Fri, 24 Aug 2012 15:19:34 +0000,Alison Martinez,Neutral,Female,986,47
 35083,Tue, 27 Nov 2007 16:36:17 +0000,Rezwan,Unknown,Male,507,20
+351029,Sat, 25 Aug 2012 13:35:18 +0000,Silvia Vinas,Unknown,Female,52,1
+351074,Sat, 25 Aug 2012 19:20:12 +0000,Jessica Carrillo,Neutral,Female,537,27
 35119,Wed, 28 Nov 2007 03:26:05 +0000,Eduardo Avila,Unknown,Male,22,1
 35120,Wed, 28 Nov 2007 03:35:57 +0000,Eduardo Avila,Unknown,Male,24,1
 35121,Wed, 28 Nov 2007 03:38:33 +0000,Eduardo Avila,Unknown,Male,20,1
@@ -6992,58 +7083,123 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 35123,Wed, 28 Nov 2007 03:51:02 +0000,Eduardo Avila,Unknown,Male,32,1
 35124,Wed, 28 Nov 2007 03:51:14 +0000,Eduardo Avila,Unknown,Male,36,1
 35125,Wed, 28 Nov 2007 04:41:40 +0000,Eduardo Avila,Unknown,Male,44,1
+351273,Sun, 26 Aug 2012 20:36:05 +0000,Lully,Neutral,Female,1192,39
+351302,Fri, 31 Aug 2012 00:00:26 +0000,Laura Vidal,Neutral,Female,2051,103
 35136,Wed, 28 Nov 2007 12:53:02 +0000,Janine Mendes-Franco,Unknown,Female,18,1
+351386,Mon, 27 Aug 2012 15:12:21 +0000,Silvia Vinas,Unknown,Female,76,4
 35158,Wed, 28 Nov 2007 20:46:23 +0000,Paula Góes,Male,Female,54,2
+351708,Tue, 28 Aug 2012 17:10:58 +0000,Cati Restrepo,Male,Female,44,1
+351759,Thu, 30 Aug 2012 19:46:38 +0000,Jessica Carrillo,Neutral,Female,1323,51
 35189,Thu, 29 Nov 2007 01:32:52 +0000,Eduardo Avila,Unknown,Male,23,1
 35190,Thu, 29 Nov 2007 01:32:58 +0000,Eduardo Avila,Unknown,Male,25,2
 35191,Thu, 29 Nov 2007 01:33:16 +0000,Eduardo Avila,Unknown,Male,20,1
 35193,Thu, 29 Nov 2007 03:35:13 +0000,Eduardo Avila,Unknown,Male,21,2
+351931,Wed, 29 Aug 2012 21:26:00 +0000,J. Tadeo,Neutral,Male,1192,37
 35194,Thu, 29 Nov 2007 03:35:26 +0000,Eduardo Avila,Unknown,Male,15,1
 35195,Thu, 29 Nov 2007 03:41:50 +0000,Eduardo Avila,Male,Male,33,1
+352044,Wed, 29 Aug 2012 23:59:29 +0000,Pablo Andres Rivero,Neutral,Male,507,25
+352092,Wed, 29 Aug 2012 17:56:25 +0000,Silvia Vinas,Unknown,Female,817,33
 35228,Thu, 29 Nov 2007 21:19:32 +0000,Paula Góes,Unknown,Female,81,1
 35230,Thu, 29 Nov 2007 21:46:16 +0000,Paula Góes,Unknown,Female,82,1
 3524,Sat, 05 Nov 2005 00:55:56 +0000,David Sasaki,Unknown,Male,22,1
+352404,Thu, 30 Aug 2012 13:20:23 +0000,Sara Moreira,Female,Female,59,1
+352429,Thu, 30 Aug 2012 16:54:28 +0000,Lully,Male,Female,71,1
 35248,Fri, 30 Nov 2007 03:41:40 +0000,Eduardo Avila,Unknown,Male,23,2
 35249,Fri, 30 Nov 2007 03:41:50 +0000,Eduardo Avila,Unknown,Male,16,1
 3525,Sat, 05 Nov 2005 01:07:22 +0000,David Sasaki,Unknown,Male,34,1
 3526,Sat, 05 Nov 2005 01:11:31 +0000,David Sasaki,Unknown,Male,16,1
 35261,Fri, 30 Nov 2007 11:42:47 +0000,Janine Mendes-Franco,Unknown,Female,39,1
 35262,Fri, 30 Nov 2007 11:55:41 +0000,Janine Mendes-Franco,Unknown,Female,18,1
+352633,Wed, 05 Sep 2012 13:26:27 +0000,Silvia Vinas,Female,Female,52,1
+352665,Fri, 31 Aug 2012 14:43:02 +0000,Pablo Andres Rivero,Unknown,Male,67,8
+352698,Tue, 04 Sep 2012 14:29:33 +0000,Yarisa Colon,Neutral,Unknown,1134,37
 3527,Sat, 05 Nov 2005 01:28:11 +0000,David Sasaki,Unknown,Male,38,1
+352776,Fri, 31 Aug 2012 18:39:14 +0000,Sara Moreira,Unknown,Female,66,1
+352792,Sat, 01 Sep 2012 03:08:15 +0000,J. Tadeo,Neutral,Male,1361,50
 3528,Sat, 05 Nov 2005 01:33:02 +0000,David Sasaki,Unknown,Male,25,1
 3529,Sat, 05 Nov 2005 01:50:07 +0000,David Sasaki,Male,Male,35,1
+352959,Sun, 19 Aug 2012 13:58:34 +0000,Ángel Carrión,Unknown,Male,1411,33
 35338,Sun, 02 Dec 2007 20:47:08 +0000,Solana Larsen,Neutral,Female,588,39
+353400,Fri, 10 Aug 2012 17:20:18 +0000,Firuzeh Shokooh Valle,Unknown,Female,31,1
+353403,Tue, 04 Sep 2012 12:34:42 +0000,Juan Arellano,Neutral,Male,2040,57
+353420,Wed, 15 Aug 2012 17:27:21 +0000,Firuzeh Shokooh Valle,Unknown,Female,116,1
+353425,Mon, 03 Sep 2012 19:00:56 +0000,Juliana Rincon Parra,Unknown,Female,927,49
 35343,Sun, 02 Dec 2007 21:56:39 +0000,Eduardo Avila,Unknown,Male,20,1
 35344,Sun, 02 Dec 2007 22:03:50 +0000,Eduardo Avila,Unknown,Male,40,1
+353444,Mon, 03 Sep 2012 18:44:20 +0000,Silvia Vinas,Neutral,Female,67,6
 35345,Sun, 02 Dec 2007 22:05:25 +0000,Eduardo Avila,Male,Male,15,2
 35352,Mon, 03 Dec 2007 03:55:58 +0000,Eduardo Avila,Unknown,Male,19,1
+353628,Tue, 04 Sep 2012 14:51:53 +0000,Ellery Roberts Biddle,Neutral,Male,948,28
+353826,Tue, 04 Sep 2012 15:43:51 +0000,Firuzeh Shokooh Valle,Unknown,Female,29,1
+353846,Tue, 04 Sep 2012 17:16:02 +0000,Firuzeh Shokooh Valle,Unknown,Female,38,1
+353884,Tue, 04 Sep 2012 16:55:25 +0000,Silvia Vinas,Neutral,Female,86,2
+353904,Tue, 04 Sep 2012 18:02:21 +0000,Firuzeh Shokooh Valle,Unknown,Female,21,1
+353907,Tue, 04 Sep 2012 18:11:12 +0000,Firuzeh Shokooh Valle,Neutral,Female,67,3
 35391,Mon, 03 Dec 2007 11:51:53 +0000,Janine Mendes-Franco,Unknown,Female,31,1
+353919,Tue, 04 Sep 2012 21:27:24 +0000,Firuzeh Shokooh Valle,Unknown,Female,84,3
 35396,Mon, 03 Dec 2007 12:27:18 +0000,Janine Mendes-Franco,Male,Female,12,1
+353978,Wed, 05 Sep 2012 10:12:07 +0000,Filip Stojanovski,Unknown,Male,30,1
 35399,Mon, 03 Dec 2007 14:12:37 +0000,Eduardo Avila,Unknown,Male,25,1
 35401,Mon, 03 Dec 2007 14:20:49 +0000,Eduardo Avila,Unknown,Male,38,1
 35402,Mon, 03 Dec 2007 14:53:06 +0000,Eduardo Avila,Unknown,Male,18,1
+354039,Wed, 05 Sep 2012 13:19:48 +0000,Janet Gunter,Unknown,Female,55,1
+354065,Wed, 05 Sep 2012 15:51:52 +0000,Juliana Rincon Parra,Neutral,Female,559,30
+354126,Wed, 05 Sep 2012 20:10:51 +0000,Silvia Vinas,Neutral,Female,2168,52
 35424,Tue, 04 Dec 2007 01:18:14 +0000,Eduardo Avila,Unknown,Male,15,2
 35425,Tue, 04 Dec 2007 01:36:47 +0000,Eduardo Avila,Male,Male,18,1
+354267,Thu, 06 Sep 2012 12:35:40 +0000,Silvia Vinas,Unknown,Female,83,4
 35428,Tue, 04 Dec 2007 02:22:03 +0000,Eduardo Avila,Unknown,Male,35,1
 35429,Tue, 04 Dec 2007 02:40:55 +0000,Eduardo Avila,Unknown,Male,15,2
 35430,Tue, 04 Dec 2007 02:48:00 +0000,Eduardo Avila,Male,Male,39,3
 35432,Tue, 04 Dec 2007 03:55:33 +0000,Eduardo Avila,Unknown,Male,14,1
+354322,Thu, 06 Sep 2012 20:06:09 +0000,Silvia Vinas,Neutral,Female,999,54
+354336,Thu, 06 Sep 2012 18:25:12 +0000,Silvia Vinas,Neutral,Female,1402,40
 35434,Tue, 04 Dec 2007 05:21:51 +0000,Juan Arellano,Male,Male,1428,84
+354465,Fri, 07 Sep 2012 10:00:45 +0000,Silvia Vinas,Unknown,Female,60,2
+354477,Wed, 12 Sep 2012 12:00:39 +0000,Silvia Vinas,Unknown,Female,76,2
 3545,Mon, 07 Nov 2005 17:34:30 +0000,Roy Rojas,Unknown,Male,51,8
+354539,Fri, 07 Sep 2012 17:31:44 +0000,Pablo Andrés Rivero,Neutral,Male,953,54
+354614,Fri, 07 Sep 2012 16:48:47 +0000,Laura Vidal,Neutral,Female,583,21
+354867,Sun, 09 Sep 2012 00:44:23 +0000,Juliana Rincon Parra,Neutral,Female,181,11
 35493,Wed, 05 Dec 2007 17:35:48 +0000,Juliana Rincón Parra,Neutral,Female,900,54
+354956,Wed, 12 Sep 2012 18:02:21 +0000,Pablo Andrés Rivero,Neutral,Male,1664,48
 35505,Wed, 05 Dec 2007 13:59:46 +0000,Janine Mendes-Franco,Male,Female,22,2
 35516,Wed, 05 Dec 2007 19:15:00 +0000,Eduardo Avila,Unknown,Male,33,1
 35517,Wed, 05 Dec 2007 19:17:13 +0000,Eduardo Avila,Unknown,Male,18,1
 35518,Wed, 05 Dec 2007 19:22:18 +0000,Eduardo Avila,Male,Male,25,1
 35519,Wed, 05 Dec 2007 19:42:55 +0000,Eduardo Avila,Unknown,Male,25,3
+355219,Mon, 10 Sep 2012 13:41:46 +0000,Firuzeh Shokooh Valle,Unknown,Female,32,1
+355231,Mon, 10 Sep 2012 14:53:59 +0000,Silvia Vinas,Unknown,Female,54,2
+355277,Wed, 12 Sep 2012 13:01:34 +0000,Mariana Valdés,Neutral,Female,1401,43
+355333,Mon, 10 Sep 2012 20:12:14 +0000,Cati Restrepo,Neutral,Female,818,46
+355335,Tue, 11 Sep 2012 12:00:59 +0000,Silvia Vinas,Unknown,Female,64,2
+355407,Tue, 11 Sep 2012 16:18:01 +0000,Mariana Valdés,Neutral,Female,1451,44
 35543,Thu, 06 Dec 2007 00:32:03 +0000,Eduardo Avila,Unknown,Male,21,1
 35544,Thu, 06 Dec 2007 00:32:19 +0000,Eduardo Avila,Unknown,Male,14,1
+355442,Sat, 08 Sep 2012 13:33:58 +0000,Ellery Roberts Biddle,Neutral,Male,592,22
+355460,Tue, 11 Sep 2012 07:25:26 +0000,Janet Gunter,Unknown,Female,60,1
+355464,Wed, 12 Sep 2012 12:57:46 +0000,Sara Moreira,Unknown,Female,1332,47
+355487,Tue, 11 Sep 2012 15:50:30 +0000,deb.baldelli,Unknown,Unknown,60,1
+355645,Thu, 13 Sep 2012 16:36:56 +0000,Isabel Guerra,Neutral,Female,1789,63
+355703,Wed, 12 Sep 2012 16:41:14 +0000,Gina Yauri,Neutral,Female,816,29
+355810,Wed, 12 Sep 2012 20:50:35 +0000,J. Tadeo,Neutral,Male,951,33
+355819,Wed, 12 Sep 2012 14:43:45 +0000,Elizabeth,Unknown,Female,87,1
 356,Tue, 12 Jul 2005 20:14:45 +0000,David Sasaki,Unknown,Male,21,1
+356276,Thu, 13 Sep 2012 14:10:02 +0000,Silvia Vinas,Unknown,Female,62,1
 35631,Fri, 07 Dec 2007 11:02:00 +0000,Janine Mendes-Franco,Unknown,Female,50,2
+356383,Fri, 14 Sep 2012 06:00:55 +0000,Pablo Andres Rivero,Neutral,Male,508,20
+356398,Fri, 14 Sep 2012 12:00:50 +0000,Silvia Vinas,Female,Female,41,1
 35642,Fri, 07 Dec 2007 18:07:56 +0000,Paula Góes,Unknown,Female,22,1
+356454,Fri, 14 Sep 2012 02:36:04 +0000,Lully,Unknown,Female,83,3
+356457,Fri, 14 Sep 2012 03:15:03 +0000,Daniela Gallardo,Neutral,Female,841,34
 35646,Fri, 07 Dec 2007 22:23:21 +0000,David Sasaki,Neutral,Male,1059,43
+356640,Fri, 14 Sep 2012 14:42:17 +0000,Silvia Vinas,Unknown,Female,87,2
+356662,Fri, 14 Sep 2012 16:05:12 +0000,Laura Schneider,Neutral,Female,874,56
 35671,Sat, 08 Dec 2007 12:30:02 +0000,Janine Mendes-Franco,Male,Female,46,3
+356722,Fri, 14 Sep 2012 16:21:05 +0000,Firuzeh Shokooh Valle,Unknown,Female,62,1
 35681,Sat, 08 Dec 2007 23:24:09 +0000,Paula Góes,Unknown,Female,80,1
+357014,Tue, 18 Sep 2012 17:03:10 +0000,Laura Vidal,Neutral,Female,1249,22
+357071,Sun, 16 Sep 2012 02:50:45 +0000,Juan Arellano,Neutral,Male,1689,51
 35710,Mon, 10 Dec 2007 16:27:22 +0000,Juliana Rincón Parra,Neutral,Female,872,39
 35727,Mon, 10 Dec 2007 07:55:50 +0000,Eduardo Avila,Male,Male,25,1
 35734,Mon, 10 Dec 2007 12:44:36 +0000,Janine Mendes-Franco,Male,Female,32,1
@@ -7053,83 +7209,180 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 35743,Mon, 10 Dec 2007 16:31:01 +0000,Eduardo Avila,Unknown,Male,26,1
 35758,Mon, 10 Dec 2007 18:46:18 +0000,Eduardo Avila,Unknown,Male,59,1
 35761,Mon, 10 Dec 2007 19:39:25 +0000,Eduardo Avila,Female,Male,46,1
+357617,Wed, 19 Sep 2012 23:23:31 +0000,Laura Schneider,Neutral,Female,1726,50
 35762,Mon, 10 Dec 2007 19:52:21 +0000,Eduardo Avila,Unknown,Male,40,1
+357628,Thu, 27 Sep 2012 14:34:07 +0000,Julian Ortega,Neutral,Male,953,36
 35763,Mon, 10 Dec 2007 20:37:12 +0000,Eduardo Avila,Unknown,Male,56,3
+357647,Wed, 19 Sep 2012 13:38:39 +0000,Pamela Martínez Achecar,Neutral,Female,794,27
+357842,Wed, 19 Sep 2012 23:43:53 +0000,Laura Vidal,Neutral,Female,1523,32
 35787,Tue, 11 Dec 2007 02:44:31 +0000,Eduardo Avila,Unknown,Male,33,2
 35788,Tue, 11 Dec 2007 02:54:55 +0000,Eduardo Avila,Unknown,Male,40,1
+357887,Tue, 18 Sep 2012 13:53:19 +0000,Laura Schneider,Unknown,Female,77,3
 35790,Tue, 11 Dec 2007 03:05:44 +0000,Eduardo Avila,Unknown,Male,39,2
+357908,Tue, 18 Sep 2012 16:00:14 +0000,Silvia Vinas,Unknown,Female,53,2
 35791,Tue, 11 Dec 2007 03:12:06 +0000,Eduardo Avila,Male,Male,16,2
+357932,Tue, 18 Sep 2012 17:02:56 +0000,Pablo Andrés Rivero,Unknown,Male,68,1
 35814,Tue, 11 Dec 2007 19:22:59 +0000,Janine Mendes-Franco,Unknown,Female,24,1
 35816,Tue, 11 Dec 2007 19:41:00 +0000,Janine Mendes-Franco,Unknown,Female,25,1
+358165,Wed, 19 Sep 2012 11:10:35 +0000,Sara Moreira,Unknown,Female,70,1
+358231,Wed, 19 Sep 2012 15:50:31 +0000,Silvia Vinas,Female,Female,22,1
+358238,Wed, 19 Sep 2012 16:35:30 +0000,Juliana Rincon Parra,Neutral,Female,377,17
+358307,Mon, 24 Sep 2012 09:30:10 +0000,Yohana de Andrade,Neutral,Unknown,1339,51
 3584,Mon, 07 Nov 2005 18:41:12 +0000,David Sasaki,Unknown,Male,19,1
+358424,Mon, 24 Sep 2012 14:23:30 +0000,Juan Arellano,Neutral,Male,1719,53
+358436,Fri, 21 Sep 2012 22:29:02 +0000,Silvia Vinas,Neutral,Female,1116,37
 35847,Wed, 12 Dec 2007 03:35:44 +0000,Eduardo Avila,Unknown,Male,12,2
 35856,Wed, 12 Dec 2007 13:42:21 +0000,Paula Góes,Unknown,Female,64,1
 35858,Wed, 12 Dec 2007 14:31:49 +0000,Janine Mendes-Franco,Unknown,Female,55,1
 3586,Mon, 07 Nov 2005 19:21:18 +0000,David Sasaki,Unknown,Male,19,1
 35860,Wed, 12 Dec 2007 15:03:05 +0000,Paula Góes,Unknown,Female,74,1
+358602,Thu, 20 Sep 2012 18:46:53 +0000,Silvia Vinas,Unknown,Female,69,3
+358606,Fri, 21 Sep 2012 11:00:19 +0000,Silvia Vinas,Unknown,Female,81,5
 35864,Wed, 12 Dec 2007 15:47:32 +0000,Eduardo Avila,Unknown,Male,14,2
+358695,Fri, 21 Sep 2012 10:10:14 +0000,Roy Rojas,Neutral,Male,1278,54
 3587,Mon, 07 Nov 2005 19:31:18 +0000,David Sasaki,Unknown,Male,32,1
 35876,Wed, 12 Dec 2007 20:00:30 +0000,Eduardo Avila,Unknown,Male,47,1
 35878,Wed, 12 Dec 2007 20:05:43 +0000,Eduardo Avila,Unknown,Male,18,1
 35879,Wed, 12 Dec 2007 20:14:02 +0000,Eduardo Avila,Unknown,Male,52,1
+358794,Sat, 22 Sep 2012 07:46:32 +0000,Paula Góes,Neutral,Female,1840,40
+358799,Fri, 21 Sep 2012 16:01:12 +0000,Pablo Andres Rivero,Neutral,Male,673,27
 35880,Wed, 12 Dec 2007 23:37:35 +0000,Jorge Gobbi,Neutral,Male,1451,51
 35882,Wed, 12 Dec 2007 20:31:24 +0000,Eduardo Avila,Female,Male,22,3
 35883,Wed, 12 Dec 2007 20:48:55 +0000,Eduardo Avila,Unknown,Male,41,1
 3589,Mon, 07 Nov 2005 20:01:30 +0000,David Sasaki,Unknown,Male,32,1
+358924,Sat, 22 Sep 2012 09:51:59 +0000,Sara Moreira,Female,Female,50,1
+358964,Mon, 24 Sep 2012 19:03:47 +0000,Juan Arellano,Neutral,Male,1124,49
 3590,Mon, 07 Nov 2005 20:12:37 +0000,David Sasaki,Unknown,Male,36,1
 35908,Thu, 13 Dec 2007 05:27:56 +0000,Eduardo Avila,Unknown,Male,27,2
 35911,Thu, 13 Dec 2007 06:12:37 +0000,Jennifer Brea,Unknown,Female,30,1
+359191,Sat, 22 Sep 2012 23:45:22 +0000,Elizabeth,Neutral,Female,704,32
+359406,Thu, 27 Sep 2012 13:33:24 +0000,Juan Arellano,Neutral,Male,1123,29
 35948,Thu, 13 Dec 2007 15:53:06 +0000,Eduardo Avila,Unknown,Male,26,2
 35958,Thu, 13 Dec 2007 19:50:16 +0000,Eduardo Avila,Neutral,Male,1177,27
+359587,Fri, 28 Sep 2012 12:00:22 +0000,Julian Ortega,Neutral,Male,87,1
+359619,Mon, 24 Sep 2012 17:37:07 +0000,Julian Ortega,Unknown,Male,115,5
+359634,Wed, 26 Sep 2012 12:00:18 +0000,Julian Ortega,Male,Male,42,1
 35964,Thu, 13 Dec 2007 20:29:02 +0000,Eduardo Avila,Unknown,Male,51,1
 35966,Fri, 14 Dec 2007 17:09:41 +0000,Renata Avila,Neutral,Female,1016,59
+359675,Tue, 25 Sep 2012 12:00:32 +0000,Silvia Vinas,Unknown,Female,76,2
+359679,Mon, 24 Sep 2012 17:49:31 +0000,Elizabeth,Unknown,Female,54,1
+359695,Sat, 29 Sep 2012 10:00:32 +0000,Rami Alhames,Neutral,Male,1123,44
+359750,Tue, 25 Sep 2012 13:29:18 +0000,Sara Moreira,Neutral,Female,982,33
+359754,Thu, 04 Oct 2012 13:58:03 +0000,Gabriela Garcia Calderon,Neutral,Female,727,36
+359767,Thu, 27 Sep 2012 12:00:49 +0000,Silvia Vinas,Unknown,Female,67,2
+359848,Thu, 27 Sep 2012 15:07:36 +0000,Andrea Arzaba,Male,Female,878,16
+359860,Thu, 27 Sep 2012 16:34:55 +0000,Csar Santiago,Neutral,Unknown,1172,37
+359987,Tue, 25 Sep 2012 18:55:15 +0000,Andres Monroy-Hernandez,Male,Male,338,9
 35999,Fri, 14 Dec 2007 03:23:57 +0000,Eduardo Avila,Neutral,Male,28,2
 36000,Fri, 14 Dec 2007 03:39:04 +0000,Eduardo Avila,Unknown,Male,20,1
+360039,Tue, 25 Sep 2012 19:20:56 +0000,Silvia Vinas,Male,Female,50,1
+360050,Thu, 27 Sep 2012 07:26:50 +0000,Silvia Vinas,Neutral,Female,1327,52
+360090,Wed, 26 Sep 2012 18:56:53 +0000,Gabriela Garcia Calderon,Neutral,Female,1503,67
+360153,Thu, 27 Sep 2012 02:12:17 +0000,Silvia Vinas,Unknown,Female,324,10
 36032,Fri, 14 Dec 2007 17:25:48 +0000,Eduardo Avila,Male,Male,30,1
 36041,Sat, 15 Dec 2007 12:13:24 +0000,Paula Góes,Neutral,Female,1382,33
 36045,Fri, 14 Dec 2007 21:16:26 +0000,Eduardo Avila,Female,Male,24,1
+360489,Fri, 05 Oct 2012 16:21:09 +0000,Pamela Martínez Achecar,Neutral,Female,642,16
+360643,Fri, 28 Sep 2012 16:54:51 +0000,J. Tadeo,Neutral,Male,873,39
+360648,Fri, 28 Sep 2012 17:18:05 +0000,Andres Monroy-Hernandez,Neutral,Male,479,20
+360673,Fri, 28 Sep 2012 21:02:27 +0000,Ariel Moreno,Neutral,Female,1562,49
+360755,Mon, 01 Oct 2012 18:29:49 +0000,Juan Arellano,Neutral,Male,1854,50
+360923,Tue, 02 Oct 2012 16:20:14 +0000,Renata Avila,Neutral,Female,1531,51
 36102,Mon, 17 Dec 2007 14:44:34 +0000,Paula Góes,Male,Female,68,1
 36103,Mon, 17 Dec 2007 14:43:22 +0000,Eduardo Avila,Male,Male,47,1
+361070,Mon, 01 Oct 2012 12:00:58 +0000,Silvia Vinas,Unknown,Female,61,1
+361106,Mon, 01 Oct 2012 15:17:40 +0000,Juan Arellano,Male,Male,98,1
 36114,Mon, 17 Dec 2007 15:35:44 +0000,Eduardo Avila,Unknown,Male,26,2
 36115,Mon, 17 Dec 2007 15:41:57 +0000,Eduardo Avila,Unknown,Male,23,1
 36116,Mon, 17 Dec 2007 15:45:28 +0000,Eduardo Avila,Unknown,Male,16,2
 36117,Mon, 17 Dec 2007 16:04:51 +0000,Melissa De León,Neutral,Female,775,21
 36119,Mon, 17 Dec 2007 16:36:44 +0000,Eduardo Avila,Unknown,Male,27,3
 36121,Mon, 17 Dec 2007 19:36:59 +0000,Janine Mendes-Franco,Neutral,Female,866,52
+361256,Tue, 02 Oct 2012 17:16:11 +0000,João Miguel D. de A. Lima,Neutral,Male,1904,45
 36126,Mon, 17 Dec 2007 17:26:15 +0000,Eduardo Avila,Unknown,Male,26,2
+361269,Fri, 05 Oct 2012 12:00:10 +0000,Silvia Vinas,Unknown,Female,92,2
+361363,Thu, 04 Oct 2012 14:55:01 +0000,Juan Arellano,Neutral,Male,2103,46
+361376,Tue, 02 Oct 2012 00:42:05 +0000,Lully,Unknown,Female,68,1
+361538,Tue, 02 Oct 2012 15:24:04 +0000,Silvia Vinas,Female,Female,61,1
+361551,Tue, 02 Oct 2012 16:49:15 +0000,Silvia Vinas,Neutral,Female,398,20
 36157,Tue, 18 Dec 2007 04:32:05 +0000,Eduardo Avila,Unknown,Male,17,2
 36165,Tue, 18 Dec 2007 10:30:55 +0000,Janine Mendes-Franco,Neutral,Female,80,1
+361865,Wed, 03 Oct 2012 14:04:11 +0000,Silvia Vinas,Unknown,Female,63,2
+361868,Wed, 03 Oct 2012 17:43:55 +0000,Juan Arellano,Unknown,Male,109,3
+361874,Wed, 03 Oct 2012 19:12:52 +0000,Cati Restrepo,Neutral,Female,756,32
 36203,Tue, 18 Dec 2007 17:29:47 +0000,Eduardo Avila,Male,Male,25,2
+362045,Thu, 04 Oct 2012 12:00:13 +0000,Silvia Vinas,Neutral,Female,102,6
+362079,Thu, 04 Oct 2012 14:00:08 +0000,Silvia Vinas,Unknown,Female,421,18
+362174,Thu, 04 Oct 2012 14:09:44 +0000,Sara Moreira,Unknown,Female,46,1
+362267,Fri, 05 Oct 2012 15:21:19 +0000,Silvia Vinas,Neutral,Female,533,31
 36229,Wed, 19 Dec 2007 03:52:53 +0000,Eduardo Avila,Unknown,Male,28,1
 36230,Wed, 19 Dec 2007 03:56:26 +0000,Eduardo Avila,Unknown,Male,34,1
+362303,Fri, 05 Oct 2012 07:22:35 +0000,Renata Avila,Neutral,Female,910,36
 36231,Wed, 19 Dec 2007 04:02:42 +0000,Eduardo Avila,Unknown,Male,27,1
 36232,Wed, 19 Dec 2007 04:06:11 +0000,Eduardo Avila,Unknown,Male,25,1
 36233,Wed, 19 Dec 2007 04:21:44 +0000,Eduardo Avila,Unknown,Male,32,1
 36235,Wed, 19 Dec 2007 04:27:39 +0000,Eduardo Avila,Male,Male,34,2
 36236,Wed, 19 Dec 2007 04:35:42 +0000,Eduardo Avila,Unknown,Male,26,1
+362419,Fri, 05 Oct 2012 14:13:03 +0000,Susannah Vila,Unknown,Female,433,20
 36247,Wed, 19 Dec 2007 05:22:08 +0000,Eduardo Avila,Neutral,Male,35,1
+362474,Fri, 05 Oct 2012 17:21:15 +0000,Ellery Roberts Biddle,Female,Male,581,26
+362607,Mon, 08 Oct 2012 18:22:10 +0000,Juan Arellano,Neutral,Male,1232,34
 36265,Wed, 19 Dec 2007 12:07:38 +0000,Janine Mendes-Franco,Unknown,Female,39,1
+362713,Sat, 06 Oct 2012 21:50:46 +0000,Ellery Roberts Biddle,Neutral,Male,357,15
+362747,Sat, 06 Oct 2012 17:56:48 +0000,Sara Moreira,Unknown,Female,58,3
+362755,Sat, 06 Oct 2012 18:58:57 +0000,Silvia Vinas,Neutral,Female,348,25
+362809,Sun, 07 Oct 2012 01:09:12 +0000,Veronica Khokhlova,Neutral,Female,649,26
 36287,Wed, 19 Dec 2007 18:03:01 +0000,Eduardo Avila,Neutral,Male,1942,109
 36292,Thu, 03 Jan 2008 17:05:50 +0000,Janine Mendes-Franco,Unknown,Female,235,8
+362920,Sun, 07 Oct 2012 19:17:38 +0000,Silvia Vinas,Unknown,Female,54,3
 36296,Wed, 19 Dec 2007 21:29:08 +0000,Eduardo Avila,Unknown,Male,28,3
+362963,Tue, 09 Oct 2012 17:53:26 +0000,João Miguel D. de A. Lima,Neutral,Male,1688,34
 36297,Wed, 19 Dec 2007 21:56:51 +0000,Eduardo Avila,Unknown,Male,16,1
 36298,Wed, 19 Dec 2007 22:00:13 +0000,Eduardo Avila,Unknown,Male,28,1
 3630,Tue, 08 Nov 2005 22:10:15 +0000,David Sasaki,Unknown,Male,24,1
+363016,Sun, 07 Oct 2012 23:58:45 +0000,Laura Vidal,Neutral,Female,392,29
+363025,Mon, 08 Oct 2012 00:38:07 +0000,Laura Vidal,Unknown,Female,67,4
+363028,Mon, 08 Oct 2012 01:46:49 +0000,Laura Vidal,Neutral,Female,925,43
+363080,Mon, 08 Oct 2012 08:12:17 +0000,Laura Vidal,Neutral,Female,998,47
 3631,Tue, 08 Nov 2005 22:18:41 +0000,David Sasaki,Unknown,Male,14,1
 3632,Tue, 08 Nov 2005 22:23:06 +0000,David Sasaki,Unknown,Male,15,1
+363213,Tue, 23 Oct 2012 09:59:17 +0000,Julian Ortega,Neutral,Male,738,23
+363214,Mon, 08 Oct 2012 16:42:49 +0000,Julian Ortega,Unknown,Male,86,1
+363252,Mon, 08 Oct 2012 18:01:23 +0000,Sara Moreira,Unknown,Female,75,3
+363261,Mon, 08 Oct 2012 19:08:05 +0000,Silvia Vinas,Unknown,Female,76,2
+363267,Wed, 30 Nov -0001 00:00:00 +0000,Sara Moreira,Neutral,Female,637,40
+363279,Wed, 10 Oct 2012 12:00:40 +0000,Silvia Vinas,Unknown,Female,33,1
+363288,Wed, 10 Oct 2012 13:39:47 +0000,Juan Arellano,Male,Male,1826,44
 3633,Tue, 08 Nov 2005 22:29:42 +0000,David Sasaki,Unknown,Male,16,1
+363301,Tue, 09 Oct 2012 00:00:06 +0000,Silvia Vinas,Unknown,Female,94,5
 36334,Thu, 20 Dec 2007 10:21:31 +0000,Janine Mendes-Franco,Unknown,Female,28,1
+363375,Tue, 09 Oct 2012 18:00:04 +0000,Silvia Vinas,Neutral,Female,1332,41
+363390,Wed, 24 Oct 2012 16:35:21 +0000,Rami Alhames,Unknown,Male,65,1
 3634,Tue, 08 Nov 2005 22:43:47 +0000,David Sasaki,Unknown,Male,33,3
+363405,Tue, 09 Oct 2012 18:25:40 +0000,Ángel Carrión,Neutral,Male,900,30
 36341,Thu, 20 Dec 2007 11:25:33 +0000,Janine Mendes-Franco,Unknown,Female,40,1
 3635,Tue, 08 Nov 2005 23:00:48 +0000,David Sasaki,Male,Male,53,1
+363531,Thu, 11 Oct 2012 13:52:02 +0000,Juan Arellano,Unknown,Male,818,22
 36360,Thu, 20 Dec 2007 18:48:29 +0000,Paula Góes,Unknown,Female,95,1
 36371,Fri, 21 Dec 2007 03:55:25 +0000,David Sasaki,Male,Male,1304,48
+363716,Thu, 11 Oct 2012 12:46:12 +0000,Ariel Moreno,Neutral,Female,853,27
+363775,Thu, 11 Oct 2012 12:58:57 +0000,Jenny Cascante Gonzalez,Neutral,Female,1453,49
+363926,Thu, 11 Oct 2012 20:59:56 +0000,Lully,Unknown,Female,588,29
 36400,Fri, 21 Dec 2007 22:51:01 +0000,Eduardo Avila,Unknown,Male,18,2
 36402,Fri, 21 Dec 2007 22:58:48 +0000,Eduardo Avila,Unknown,Male,37,1
 36404,Fri, 21 Dec 2007 23:06:51 +0000,Eduardo Avila,Unknown,Male,15,1
+364085,Fri, 12 Oct 2012 13:07:55 +0000,Pablo Andrés Rivero,Unknown,Male,117,9
+364167,Fri, 12 Oct 2012 13:26:05 +0000,Silvia Vinas,Unknown,Female,101,2
 36419,Sat, 22 Dec 2007 06:31:49 +0000,Rosario Lizana,Neutral,Female,1140,25
+364267,Fri, 12 Oct 2012 23:59:31 +0000,J. Tadeo,Neutral,Male,1483,46
+364310,Mon, 15 Oct 2012 12:00:06 +0000,Jenny Cascante,Unknown,Female,773,27
 36439,Sun, 23 Dec 2007 10:17:28 +0000,Paula Góes,Male,Female,43,1
 36441,Sun, 23 Dec 2007 10:41:09 +0000,Paula Góes,Unknown,Female,51,1
+364666,Wed, 30 Nov -0001 00:00:00 +0000,Matthew Hunte,Unknown,Male,56,6
+364685,Tue, 16 Oct 2012 12:29:51 +0000,Laura Vidal,Neutral,Female,951,17
+364982,Mon, 15 Oct 2012 13:32:04 +0000,Silvia Vinas,Female,Female,57,1
+365010,Fri, 12 Oct 2012 14:40:26 +0000,Pamela Martínez Achecar,Neutral,Female,994,31
+365232,Tue, 16 Oct 2012 11:52:02 +0000,paulagoes,Neutral,Female,113,4
 36526,Tue, 25 Dec 2007 19:30:19 +0000,Paula Góes,Neutral,Female,71,1
 36549,Wed, 26 Dec 2007 04:16:29 +0000,Eduardo Avila,Unknown,Male,20,2
 36550,Wed, 26 Dec 2007 04:26:09 +0000,Eduardo Avila,Unknown,Male,15,1
@@ -7138,9 +7391,13 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 36553,Wed, 26 Dec 2007 04:50:44 +0000,Eduardo Avila,Female,Male,15,1
 36554,Wed, 26 Dec 2007 04:59:23 +0000,Eduardo Avila,Unknown,Male,32,1
 36555,Thu, 27 Dec 2007 18:56:07 +0000,Renata Avila,Neutral,Female,936,18
+365564,Wed, 17 Oct 2012 17:49:28 +0000,Silvia Vinas,Unknown,Female,102,3
 36568,Wed, 26 Dec 2007 17:20:53 +0000,Paula Góes,Unknown,Female,46,1
+365733,Thu, 18 Oct 2012 10:00:36 +0000,Silvia Vinas,Unknown,Female,79,4
 36574,Wed, 26 Dec 2007 23:13:36 +0000,David Sasaki,Neutral,Male,611,23
 36576,Thu, 27 Dec 2007 00:32:06 +0000,Eduardo Avila,Male,Male,22,1
+365796,Fri, 19 Oct 2012 01:50:28 +0000,Ariel Moreno,Neutral,Female,609,21
+365822,Sat, 20 Oct 2012 15:45:47 +0000,Juan Arellano,Neutral,Male,1152,29
 36583,Thu, 27 Dec 2007 03:05:49 +0000,Eduardo Avila,Unknown,Male,18,3
 36584,Thu, 27 Dec 2007 03:08:40 +0000,Eduardo Avila,Unknown,Male,31,1
 36585,Thu, 27 Dec 2007 03:15:04 +0000,Eduardo Avila,Unknown,Male,21,2
@@ -7148,11 +7405,18 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 36592,Thu, 27 Dec 2007 03:59:11 +0000,Eduardo Avila,Unknown,Male,14,1
 36595,Thu, 27 Dec 2007 04:59:11 +0000,Eduardo Avila,Unknown,Male,15,2
 36601,Thu, 27 Dec 2007 13:03:07 +0000,Janine Mendes-Franco,Unknown,Female,26,1
+366045,Fri, 19 Oct 2012 14:44:23 +0000,Silvia Vinas,Unknown,Female,42,1
 36605,Thu, 27 Dec 2007 13:47:36 +0000,Janine Mendes-Franco,Unknown,Female,19,1
+366103,Sat, 20 Oct 2012 13:07:22 +0000,Lully,Neutral,Female,740,31
+366178,Mon, 22 Oct 2012 10:18:50 +0000,Raphael Tsavkko Garcia,Neutral,Male,1856,82
 36626,Thu, 27 Dec 2007 16:56:08 +0000,Janine Mendes-Franco,Female,Female,64,1
+366408,Mon, 22 Oct 2012 16:47:14 +0000,Gabriela Garcia Calderon,Neutral,Female,1426,65
 36641,Thu, 27 Dec 2007 19:35:45 +0000,Paula Góes,Unknown,Female,55,1
 36642,Thu, 27 Dec 2007 19:52:20 +0000,Paula Góes,Male,Female,68,1
+366448,Mon, 22 Oct 2012 13:02:09 +0000,Alfredo Richner,Female,Male,98,2
 36645,Thu, 27 Dec 2007 21:11:06 +0000,Eduardo Avila,Unknown,Male,20,1
+366471,Tue, 23 Oct 2012 10:00:39 +0000,Belén Quezada,Neutral,Female,1043,42
+366539,Mon, 22 Oct 2012 13:49:43 +0000,Silvia Vinas,Unknown,Female,84,3
 36656,Fri, 28 Dec 2007 00:37:32 +0000,Eduardo Avila,Unknown,Male,14,2
 36657,Fri, 28 Dec 2007 00:37:33 +0000,Eduardo Avila,Unknown,Male,19,1
 36658,Fri, 28 Dec 2007 00:38:01 +0000,Eduardo Avila,Unknown,Male,30,2
@@ -7160,15 +7424,27 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 36665,Fri, 28 Dec 2007 05:52:36 +0000,Eduardo Avila,Male,Male,47,1
 36678,Fri, 28 Dec 2007 13:20:44 +0000,Paula Góes,Male,Female,67,1
 3668,Wed, 09 Nov 2005 19:59:55 +0000,David Sasaki,Unknown,Male,48,1
+366827,Tue, 23 Oct 2012 08:28:33 +0000,Janet Gunter,Unknown,Female,58,1
+366889,Tue, 23 Oct 2012 17:39:04 +0000,Silvia Vinas,Neutral,Female,760,36
+366892,Tue, 23 Oct 2012 18:06:12 +0000,Pablo Andres Rivero,Neutral,Male,555,20
 3669,Wed, 09 Nov 2005 23:10:20 +0000,Juan Arellano,Neutral,Male,1368,47
 36694,Fri, 28 Dec 2007 17:52:13 +0000,David Sasaki,Neutral,Male,904,27
 36695,Fri, 28 Dec 2007 18:38:59 +0000,Janine Mendes-Franco,Female,Female,45,1
+367044,Wed, 24 Oct 2012 19:06:21 +0000,Andrea Arzaba,Neutral,Female,837,25
+367076,Tue, 23 Oct 2012 21:40:39 +0000,Ariel Moreno,Neutral,Female,1251,37
+367112,Tue, 23 Oct 2012 21:59:34 +0000,Silvia Vinas,Male,Female,126,4
+367197,Wed, 24 Oct 2012 16:29:24 +0000,Silvia Vinas,Unknown,Female,60,4
 3672,Thu, 10 Nov 2005 02:36:13 +0000,Eduardo Avila,Male,Male,529,21
+367260,Thu, 25 Oct 2012 22:45:57 +0000,Sara Moreira,Neutral,Female,1686,50
+367311,Mon, 29 Oct 2012 12:00:08 +0000,Ellery Roberts Biddle,Unknown,Male,929,34
 36739,Sun, 30 Dec 2007 02:24:46 +0000,Eduardo Avila,Unknown,Male,26,2
+367392,Thu, 25 Oct 2012 12:00:09 +0000,Silvia Vinas,Unknown,Female,76,2
 3674,Thu, 10 Nov 2005 02:41:49 +0000,David Sasaki,Male,Male,26,1
 3675,Thu, 10 Nov 2005 02:46:18 +0000,David Sasaki,Female,Male,18,1
+367520,Fri, 09 Nov 2012 17:26:01 +0000,Lova Rakotomalala,Neutral,Male,71,2
 36754,Sun, 30 Dec 2007 15:35:34 +0000,Janine Mendes-Franco,Unknown,Female,13,1
 36755,Sun, 30 Dec 2007 15:42:07 +0000,Janine Mendes-Franco,Unknown,Female,22,1
+367589,Tue, 30 Oct 2012 14:07:28 +0000,Juan Arellano,Unknown,Male,1886,63
 36759,Mon, 31 Dec 2007 00:23:02 +0000,Eduardo Avila,Unknown,Male,25,1
 3676,Thu, 10 Nov 2005 02:53:07 +0000,David Sasaki,Unknown,Male,24,1
 36760,Mon, 31 Dec 2007 00:23:05 +0000,Eduardo Avila,Male,Male,30,1
@@ -7181,18 +7457,39 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 36767,Mon, 31 Dec 2007 00:28:54 +0000,Eduardo Avila,Unknown,Male,29,2
 36768,Mon, 31 Dec 2007 00:29:15 +0000,Eduardo Avila,Unknown,Male,27,2
 36769,Wed, 02 Jan 2008 01:30:43 +0000,Renata Avila,Neutral,Female,1450,16
+367741,Fri, 26 Oct 2012 21:05:22 +0000,Elizabeth,Neutral,Female,1007,37
+367743,Fri, 26 Oct 2012 12:17:56 +0000,Juan Arellano,Male,Male,62,1
+367747,Fri, 26 Oct 2012 12:32:34 +0000,Silvia Vinas,Unknown,Female,53,1
+367813,Sun, 11 Nov 2012 02:23:37 +0000,Laura Schneider,Neutral,Female,1517,72
 36787,Mon, 31 Dec 2007 11:16:12 +0000,Paula Góes,Neutral,Female,1486,40
+367980,Sat, 27 Oct 2012 23:55:38 +0000,Lully,Neutral,Female,569,24
+368012,Sun, 28 Oct 2012 00:26:48 +0000,Lully,Female,Female,82,3
 36805,Mon, 31 Dec 2007 22:29:39 +0000,David Sasaki,Unknown,Male,1547,244
+368056,Tue, 30 Oct 2012 11:10:55 +0000,Silvia Vinas,Neutral,Female,983,29
 36812,Tue, 01 Jan 2008 16:42:36 +0000,Janine Mendes-Franco,Unknown,Female,23,1
 36819,Wed, 02 Jan 2008 02:50:15 +0000,Eduardo Avila,Unknown,Male,14,1
 36820,Wed, 02 Jan 2008 03:15:47 +0000,Eduardo Avila,Unknown,Male,19,1
+368266,Mon, 29 Oct 2012 13:02:14 +0000,Silvia Vinas,Unknown,Female,75,2
+368287,Mon, 29 Oct 2012 16:21:13 +0000,Ariel Moreno,Male,Female,761,28
+368407,Tue, 30 Oct 2012 11:00:04 +0000,Silvia Vinas,Unknown,Female,70,2
 36857,Wed, 02 Jan 2008 18:48:24 +0000,Paula Góes,Neutral,Female,63,1
 36862,Wed, 02 Jan 2008 22:39:41 +0000,Eduardo Avila,Neutral,Male,39,1
 36863,Thu, 03 Jan 2008 03:29:26 +0000,Eduardo Avila,Neutral,Male,1587,47
 36866,Thu, 03 Jan 2008 18:40:57 +0000,Juliana Rincón Parra,Unknown,Female,697,17
+368749,Tue, 30 Oct 2012 14:13:15 +0000,Sara Moreira,Unknown,Female,57,1
 36882,Thu, 03 Jan 2008 13:07:18 +0000,Janine Mendes-Franco,Male,Female,24,1
+368843,Wed, 31 Oct 2012 10:30:36 +0000,Silvia Vinas,Male,Female,161,7
+368858,Fri, 02 Nov 2012 10:45:24 +0000,Silvia Vinas,Unknown,Female,79,2
+368961,Wed, 31 Oct 2012 13:38:57 +0000,Melissa Rossi,Neutral,Female,952,26
+368982,Wed, 31 Oct 2012 13:02:33 +0000,Lully,Male,Female,507,23
 369,Tue, 12 Jul 2005 22:33:27 +0000,David Sasaki,Unknown,Male,18,1
+369049,Thu, 01 Nov 2012 11:00:41 +0000,Silvia Vinas,Unknown,Female,116,4
+369094,Sat, 03 Nov 2012 00:30:46 +0000,Juan Arellano,Neutral,Male,1999,52
 36910,Thu, 03 Jan 2008 18:44:06 +0000,Paula Góes,Unknown,Female,50,2
+369319,Thu, 01 Nov 2012 18:08:29 +0000,Silvia Vinas,Neutral,Female,718,30
+369472,Fri, 02 Nov 2012 23:07:15 +0000,Eduardo Avila,Unknown,Male,346,15
+369495,Fri, 02 Nov 2012 22:27:39 +0000,Juan Arellano,Neutral,Male,2100,42
+369711,Fri, 02 Nov 2012 23:00:59 +0000,Silvia Vinas,Unknown,Female,71,2
 37005,Sat, 05 Jan 2008 17:38:10 +0000,Eduardo Avila,Unknown,Male,28,2
 37014,Sat, 05 Jan 2008 22:37:41 +0000,Eduardo Avila,Unknown,Male,26,2
 37017,Sat, 05 Jan 2008 23:12:08 +0000,Paula Góes,Neutral,Female,58,1
@@ -7202,27 +7499,48 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 37038,Mon, 07 Jan 2008 01:20:08 +0000,Eduardo Avila,Unknown,Male,22,1
 37039,Mon, 07 Jan 2008 01:36:07 +0000,Eduardo Avila,Unknown,Male,21,4
 37040,Mon, 07 Jan 2008 01:44:42 +0000,Eduardo Avila,Male,Male,16,3
+370474,Tue, 06 Nov 2012 02:58:47 +0000,Silvia Vinas,Unknown,Female,46,1
+370478,Sun, 30 Sep 2012 13:58:32 +0000,Pamela Martínez Achecar,Neutral,Female,572,20
 3707,Thu, 10 Nov 2005 19:54:07 +0000,David Sasaki,Unknown,Male,15,1
+370700,Tue, 06 Nov 2012 13:10:34 +0000,Silvia Vinas,Male,Female,55,1
+370716,Tue, 06 Nov 2012 16:26:52 +0000,Sara Moreira,Male,Female,76,3
+370738,Wed, 07 Nov 2012 03:13:59 +0000,Ángel Carrión,Neutral,Male,1673,31
+370784,Tue, 06 Nov 2012 20:55:02 +0000,Firuzeh Shokooh Valle,Unknown,Female,49,3
+370790,Tue, 06 Nov 2012 23:58:05 +0000,J. Tadeo,Neutral,Male,1340,34
 37083,Mon, 07 Jan 2008 19:00:20 +0000,Paula Góes,Unknown,Female,57,1
 37086,Mon, 07 Jan 2008 20:23:34 +0000,Janine Mendes-Franco,Female,Female,29,1
 37099,Mon, 07 Jan 2008 23:29:57 +0000,Veronica Khokhlova,Unknown,Female,15,1
+371007,Sun, 11 Nov 2012 12:00:07 +0000,Luis Trelles,Neutral,Male,772,21
+371040,Wed, 07 Nov 2012 18:18:41 +0000,Silvia Vinas,Unknown,Female,79,4
+371047,Wed, 07 Nov 2012 19:40:10 +0000,Silvia Vinas,Neutral,Female,368,28
 37106,Tue, 08 Jan 2008 03:07:01 +0000,Eduardo Avila,Unknown,Male,30,5
+371117,Thu, 08 Nov 2012 13:10:11 +0000,Lully,Unknown,Female,99,4
 37113,Tue, 08 Jan 2008 14:45:35 +0000,Melissa De León,Unknown,Female,1243,38
 3713,Fri, 11 Nov 2005 01:49:10 +0000,David Sasaki,Unknown,Male,23,1
+371313,Wed, 07 Nov 2012 21:03:56 +0000,Sara Moreira,Female,Female,57,1
 37139,Tue, 08 Jan 2008 14:18:41 +0000,Eduardo Avila,Unknown,Male,32,2
 3714,Fri, 11 Nov 2005 02:17:58 +0000,David Sasaki,Male,Male,19,1
+371407,Thu, 08 Nov 2012 16:23:07 +0000,Silvia Vinas,Unknown,Female,105,5
+371417,Fri, 09 Nov 2012 10:33:42 +0000,Silvia Vinas,Unknown,Female,69,3
 37142,Tue, 08 Jan 2008 15:20:20 +0000,Eduardo Avila,Unknown,Male,37,2
 37145,Tue, 08 Jan 2008 18:04:18 +0000,Paula Góes,Unknown,Female,70,1
 37146,Tue, 08 Jan 2008 18:19:42 +0000,Paula Góes,Neutral,Female,93,1
 37148,Tue, 08 Jan 2008 18:34:49 +0000,Paula Góes,Unknown,Female,64,1
+371481,Fri, 30 Nov 2012 12:59:13 +0000,Gabriela Garcia Calderon,Neutral,Female,1182,58
+371485,Fri, 09 Nov 2012 11:54:42 +0000,Daniela Gallardo,Neutral,Female,623,28
 3715,Fri, 11 Nov 2005 02:31:44 +0000,David Sasaki,Unknown,Male,28,1
 37154,Wed, 09 Jan 2008 07:43:13 +0000,Paula Góes,Unknown,Female,26,1
 37155,Tue, 08 Jan 2008 19:49:04 +0000,Eduardo Avila,Male,Male,31,1
 37156,Tue, 08 Jan 2008 19:52:30 +0000,Eduardo Avila,Unknown,Male,35,1
+371562,Mon, 12 Nov 2012 12:45:14 +0000,Sara Moreira,Neutral,Female,1673,43
+371584,Fri, 09 Nov 2012 22:27:39 +0000,Laura Schneider,Neutral,Female,1282,34
 37159,Tue, 08 Jan 2008 20:08:31 +0000,Eduardo Avila,Unknown,Male,37,1
+371597,Wed, 14 Nov 2012 16:20:00 +0000,Silvia Vinas,Neutral,Female,373,14
 37164,Tue, 08 Jan 2008 20:21:50 +0000,Eduardo Avila,Male,Male,38,2
+371654,Mon, 12 Nov 2012 00:50:53 +0000,Ángel Carrión,Neutral,Male,1709,105
 37169,Wed, 09 Jan 2008 00:17:15 +0000,Janine Mendes-Franco,Neutral,Female,992,79
 37170,Wed, 09 Jan 2008 02:54:37 +0000,Paula Góes,Unknown,Female,16,1
+371727,Sat, 10 Nov 2012 00:16:20 +0000,Laura Schneider,Unknown,Female,94,7
 37175,Wed, 09 Jan 2008 01:18:51 +0000,Eduardo Avila,Unknown,Male,33,2
 37176,Wed, 09 Jan 2008 02:28:15 +0000,Eduardo Avila,Unknown,Male,19,2
 37177,Wed, 09 Jan 2008 03:03:06 +0000,Eduardo Avila,Neutral,Male,49,1
@@ -7230,37 +7548,66 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 37179,Wed, 09 Jan 2008 03:08:20 +0000,Eduardo Avila,Unknown,Male,26,3
 37180,Wed, 09 Jan 2008 03:17:57 +0000,Eduardo Avila,Unknown,Male,35,2
 37181,Wed, 09 Jan 2008 03:33:04 +0000,Eduardo Avila,Unknown,Male,21,2
+371933,Mon, 12 Nov 2012 00:29:51 +0000,Pamela Martínez Achecar,Neutral,Female,819,37
+372135,Sun, 11 Nov 2012 21:54:45 +0000,Juan Arellano,Neutral,Male,2035,45
 37231,Mon, 14 Jan 2008 13:55:14 +0000,Paula Góes,Neutral,Female,1708,47
+372344,Thu, 15 Nov 2012 10:30:49 +0000,Gabriela Garcia Calderon,Neutral,Female,73,3
+372355,Mon, 12 Nov 2012 15:00:41 +0000,Silvia Vinas,Male,Female,79,2
+372377,Tue, 13 Nov 2012 00:40:01 +0000,Silvia Vinas,Neutral,Female,1385,42
+372457,Tue, 13 Nov 2012 10:30:04 +0000,Silvia Vinas,Unknown,Female,112,5
+372480,Wed, 14 Nov 2012 11:00:43 +0000,Silvia Vinas,Neutral,Female,64,2
+372487,Thu, 15 Nov 2012 18:54:53 +0000,Pamela Martínez Achecar,Neutral,Female,918,35
 37262,Thu, 10 Jan 2008 17:52:14 +0000,Paula Góes,Unknown,Female,56,1
+372655,Tue, 13 Nov 2012 20:18:48 +0000,Silvia Vinas,Unknown,Female,473,22
+372901,Thu, 15 Nov 2012 13:38:28 +0000,Emmanuelle Leroy Cerqueira,Neutral,Unknown,1572,33
+373131,Fri, 16 Nov 2012 11:00:01 +0000,Silvia Vinas,Unknown,Female,55,1
 37314,Fri, 11 Jan 2008 14:04:49 +0000,Paula Góes,Unknown,Female,56,1
 37330,Fri, 11 Jan 2008 16:15:29 +0000,Rezwan,Neutral,Male,817,67
+373319,Thu, 15 Nov 2012 23:59:46 +0000,Jenny Cascante Gonzalez,Neutral,Female,1780,56
+373493,Mon, 19 Nov 2012 15:11:17 +0000,Silvia Vinas,Unknown,Female,88,9
+373532,Tue, 20 Nov 2012 11:51:24 +0000,Emmanuelle Leroy Cerqueira,Unknown,Unknown,1722,50
+373559,Mon, 19 Nov 2012 12:01:59 +0000,Luis Trelles,Neutral,Male,602,25
 37364,Tue, 15 Jan 2008 08:35:00 +0000,Milton Ramirez,Neutral,Male,1324,34
 3737,Sat, 12 Nov 2005 02:05:28 +0000,David Sasaki,Unknown,Male,19,1
 37372,Sun, 13 Jan 2008 15:16:26 +0000,Paula Góes,Unknown,Female,64,1
 37375,Sun, 13 Jan 2008 15:48:50 +0000,Paula Góes,Neutral,Female,89,1
 3738,Sat, 12 Nov 2005 02:14:30 +0000,David Sasaki,Male,Male,30,1
+373811,Mon, 19 Nov 2012 11:26:04 +0000,Felipe Cordero,Neutral,Male,1320,47
 37387,Mon, 14 Jan 2008 04:23:43 +0000,Eduardo Avila,Female,Male,33,2
 37388,Mon, 14 Jan 2008 05:04:22 +0000,Eduardo Avila,Male,Male,57,1
 37389,Mon, 14 Jan 2008 05:12:05 +0000,Eduardo Avila,Unknown,Male,46,1
 3739,Sat, 12 Nov 2005 03:14:19 +0000,Roy Rojas,Neutral,Male,480,14
 37390,Mon, 14 Jan 2008 05:15:50 +0000,Eduardo Avila,Unknown,Male,23,2
+373906,Mon, 19 Nov 2012 14:43:57 +0000,Jenny Cascante Gonzalez,Neutral,Female,1339,49
 37391,Mon, 14 Jan 2008 05:37:43 +0000,Eduardo Avila,Unknown,Male,22,1
 37393,Mon, 14 Jan 2008 17:27:45 +0000,Juliana Rincón Parra,Neutral,Female,1635,45
 37408,Mon, 14 Jan 2008 11:18:18 +0000,Janine Mendes-Franco,Unknown,Female,18,1
+374082,Mon, 19 Nov 2012 18:21:09 +0000,Pablo Andrés Rivero,Unknown,Male,90,1
+374092,Mon, 19 Nov 2012 23:58:51 +0000,Pablo Andres Rivero,Neutral,Male,550,23
 3741,Sat, 12 Nov 2005 03:55:21 +0000,David Sasaki,Unknown,Male,43,1
+374177,Tue, 20 Nov 2012 01:09:37 +0000,Laura Schneider,Neutral,Female,1242,72
 3742,Sat, 12 Nov 2005 04:07:59 +0000,David Sasaki,Unknown,Male,47,1
 37434,Mon, 14 Jan 2008 22:20:04 +0000,Amira Al Hussaini,Male,Female,1241,67
 37435,Mon, 14 Jan 2008 20:46:59 +0000,Paula Góes,Unknown,Female,46,1
+374352,Fri, 23 Nov 2012 01:27:06 +0000,JJ Merelo,Neutral,Unknown,1033,28
 37436,Mon, 14 Jan 2008 21:01:09 +0000,Paula Góes,Unknown,Female,58,1
 37439,Tue, 15 Jan 2008 13:55:06 +0000,Paula Góes,Unknown,Female,72,1
+374449,Wed, 21 Nov 2012 13:41:09 +0000,Pablo Andrés Rivero,Unknown,Male,44,1
+374474,Thu, 22 Nov 2012 14:46:05 +0000,Periodismo Ciudadano,Neutral,Unknown,621,26
+374497,Wed, 21 Nov 2012 18:13:18 +0000,Sara Moreira,Unknown,Female,81,5
+374553,Wed, 21 Nov 2012 23:39:40 +0000,Janet Gunter,Male,Female,54,1
 37465,Tue, 15 Jan 2008 05:34:43 +0000,Eduardo Avila,Unknown,Male,24,2
 37467,Tue, 15 Jan 2008 05:49:18 +0000,Eduardo Avila,Unknown,Male,50,3
 37470,Tue, 15 Jan 2008 06:02:46 +0000,Eduardo Avila,Unknown,Male,32,2
 37471,Tue, 15 Jan 2008 06:09:04 +0000,Eduardo Avila,Unknown,Male,34,1
 37473,Tue, 15 Jan 2008 06:18:59 +0000,Eduardo Avila,Unknown,Male,45,1
+374740,Thu, 22 Nov 2012 15:27:59 +0000,Silvia Vinas,Unknown,Female,88,2
 37475,Tue, 15 Jan 2008 06:47:49 +0000,Eduardo Avila,Male,Male,55,3
 37485,Tue, 15 Jan 2008 12:51:31 +0000,Janine Mendes-Franco,Unknown,Female,17,1
+374950,Fri, 23 Nov 2012 13:19:35 +0000,Susannah Vila,Neutral,Female,561,15
 3750,Fri, 11 Nov 2005 15:42:37 +0000,Jose Manuel Tesoro,Unknown,Male,24,1
+375002,Fri, 23 Nov 2012 22:07:50 +0000,Eduardo Avila,Unknown,Male,108,6
+375045,Sun, 25 Nov 2012 13:54:33 +0000,João Miguel D. de A. Lima,Male,Male,69,1
 37516,Wed, 16 Jan 2008 02:44:10 +0000,Eduardo Avila,Male,Male,34,3
 37517,Wed, 16 Jan 2008 02:56:58 +0000,Eduardo Avila,Unknown,Male,60,1
 37518,Wed, 16 Jan 2008 03:05:56 +0000,Eduardo Avila,Female,Male,35,1
@@ -7268,16 +7615,30 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 37520,Wed, 16 Jan 2008 03:12:31 +0000,Eduardo Avila,Unknown,Male,34,1
 37521,Wed, 16 Jan 2008 03:23:08 +0000,Eduardo Avila,Unknown,Male,31,1
 37543,Wed, 16 Jan 2008 12:08:49 +0000,Janine Mendes-Franco,Unknown,Female,28,1
+375436,Tue, 02 Oct 2012 22:36:15 +0000,Ángel Carrión,Unknown,Male,63,1
+375441,Tue, 30 Oct 2012 22:42:40 +0000,Ángel Carrión,Unknown,Male,91,2
+375444,Tue, 30 Oct 2012 02:30:05 +0000,Ángel Carrión,Neutral,Male,117,2
+375549,Mon, 26 Nov 2012 13:19:32 +0000,Tsavkko,Unknown,Male,69,1
+375562,Sun, 25 Nov 2012 23:13:35 +0000,Filip Stojanovski,Unknown,Male,41,1
 37561,Wed, 16 Jan 2008 20:40:55 +0000,Paula Góes,Unknown,Female,62,1
 37564,Wed, 16 Jan 2008 21:10:02 +0000,Paula Góes,Unknown,Female,58,1
 37565,Wed, 16 Jan 2008 21:22:18 +0000,Paula Góes,Unknown,Female,55,1
+375697,Mon, 26 Nov 2012 13:49:41 +0000,Silvia Vinas,Unknown,Female,60,3
+375733,Fri, 23 Nov 2012 10:47:50 +0000,Yohana de Andrade,Neutral,Unknown,1404,40
 37586,Thu, 17 Jan 2008 02:07:19 +0000,Eduardo Avila,Unknown,Male,28,1
+375860,Tue, 27 Nov 2012 12:01:22 +0000,Gina Yauri,Female,Female,1175,33
 37587,Thu, 17 Jan 2008 02:22:35 +0000,Eduardo Avila,Unknown,Male,22,1
+375888,Wed, 30 Nov -0001 00:00:00 +0000,Richard Wanjohi,Neutral,Male,991,32
 37590,Thu, 17 Jan 2008 02:35:37 +0000,Eduardo Avila,Unknown,Male,11,1
 37595,Thu, 17 Jan 2008 03:52:01 +0000,Eduardo Avila,Unknown,Male,34,4
 37596,Thu, 17 Jan 2008 03:55:31 +0000,Eduardo Avila,Male,Male,30,2
+375994,Wed, 28 Nov 2012 17:15:30 +0000,Raphael Tsavkko Garcia,Neutral,Male,1229,59
 376,Wed, 13 Jul 2005 01:27:13 +0000,David Sasaki,Unknown,Male,15,1
+376049,Wed, 28 Nov 2012 10:41:08 +0000,Silvia Vinas,Unknown,Female,129,5
+376066,Thu, 29 Nov 2012 16:49:38 +0000,Elizabeth,Neutral,Female,1285,46
+376084,Tue, 27 Nov 2012 20:39:48 +0000,Silvia Vinas,Male,Female,58,4
 37616,Thu, 17 Jan 2008 13:03:25 +0000,Janine Mendes-Franco,Unknown,Female,41,2
+376183,Thu, 29 Nov 2012 14:08:05 +0000,Laura Schneider,Neutral,Female,996,48
 37622,Thu, 17 Jan 2008 18:32:36 +0000,Eduardo Avila,Male,Male,470,13
 37629,Fri, 18 Jan 2008 08:12:01 +0000,Paula Góes,Neutral,Female,66,1
 3763,Mon, 14 Nov 2005 19:24:15 +0000,Rosario Lizana,Neutral,Female,522,26
@@ -7287,42 +7648,75 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 37653,Fri, 18 Jan 2008 08:57:24 +0000,Juliana Rincón Parra,Neutral,Female,894,23
 37663,Fri, 18 Jan 2008 08:29:12 +0000,Paula Góes,Neutral,Female,81,1
 37672,Fri, 18 Jan 2008 11:58:49 +0000,Janine Mendes-Franco,Unknown,Female,14,1
+376762,Thu, 29 Nov 2012 17:20:36 +0000,Silvia Vinas,Neutral,Female,106,4
 37680,Fri, 18 Jan 2008 16:44:39 +0000,Fred Petrossian,Male,Male,45,1
 37694,Fri, 18 Jan 2008 20:44:29 +0000,Paula Góes,Unknown,Female,80,1
+376998,Mon, 03 Dec 2012 11:36:36 +0000,Richard de Araújo,Neutral,Male,1567,33
 377,Wed, 13 Jul 2005 07:23:32 +0000,David Sasaki,Unknown,Male,12,1
+377063,Fri, 30 Nov 2012 18:46:25 +0000,Juan Arellano,Male,Male,83,1
+377133,Fri, 07 Dec 2012 22:24:17 +0000,Emmanuelle Leroy Cerqueira,Neutral,Unknown,700,32
+377206,Mon, 03 Dec 2012 17:53:39 +0000,Belen Bogado,Neutral,Female,901,26
+377254,Sun, 02 Dec 2012 03:48:40 +0000,Andrea Arzaba,Neutral,Female,667,31
+377400,Sun, 02 Dec 2012 22:32:25 +0000,Juan Arellano,Unknown,Male,872,51
 37741,Sat, 19 Jan 2008 17:41:02 +0000,Solana Larsen,Neutral,Female,502,16
+377481,Wed, 05 Dec 2012 01:45:01 +0000,Ellery Roberts Biddle,Neutral,Male,899,24
 37757,Sun, 20 Jan 2008 17:33:46 +0000,Paula Góes,Unknown,Female,63,1
+377578,Tue, 04 Dec 2012 13:13:49 +0000,Emmanuelle Leroy Cerqueira,Unknown,Unknown,1315,42
+377586,Mon, 03 Dec 2012 17:29:38 +0000,Silvia Vinas,Unknown,Female,66,2
 37760,Sun, 20 Jan 2008 18:22:58 +0000,Paula Góes,Unknown,Female,75,1
+377636,Tue, 11 Dec 2012 16:15:27 +0000,Juan Arellano,Unknown,Male,931,48
 37778,Mon, 21 Jan 2008 01:07:21 +0000,Eduardo Avila,Unknown,Male,24,2
 37779,Mon, 21 Jan 2008 01:10:06 +0000,Eduardo Avila,Unknown,Male,30,1
 37780,Mon, 21 Jan 2008 01:20:46 +0000,Eduardo Avila,Female,Male,56,3
 37781,Mon, 21 Jan 2008 01:30:06 +0000,Eduardo Avila,Male,Male,33,1
+377810,Tue, 04 Dec 2012 13:48:06 +0000,Silvia Vinas,Male,Female,94,2
+377833,Tue, 04 Dec 2012 17:11:14 +0000,Daniela Gallardo,Male,Female,458,21
+377838,Wed, 05 Dec 2012 10:55:24 +0000,Susannah Vila,Unknown,Female,845,33
 37791,Mon, 21 Jan 2008 03:11:10 +0000,Eduardo Avila,Unknown,Male,64,1
+377918,Thu, 06 Dec 2012 12:45:12 +0000,Laura Schneider,Unknown,Female,1450,33
 378,Wed, 13 Jul 2005 07:30:36 +0000,David Sasaki,Unknown,Male,27,1
+378033,Wed, 05 Dec 2012 11:09:51 +0000,Silvia Vinas,Unknown,Female,71,2
+378080,Thu, 06 Dec 2012 12:59:40 +0000,J. Tadeo,Male,Male,866,58
 37809,Mon, 21 Jan 2008 12:21:32 +0000,Janine Mendes-Franco,Unknown,Female,42,1
+378090,Wed, 12 Dec 2012 11:44:20 +0000,Juan Arellano,Neutral,Male,1835,41
 37811,Mon, 21 Jan 2008 12:49:26 +0000,Janine Mendes-Franco,Unknown,Female,11,1
+378127,Fri, 07 Dec 2012 11:41:25 +0000,Juan Arellano,Unknown,Male,1735,88
+378181,Thu, 06 Dec 2012 16:31:19 +0000,Laura Schneider,Unknown,Female,1181,58
 37820,Mon, 21 Jan 2008 16:12:53 +0000,Eduardo Avila,Neutral,Male,697,13
 37826,Mon, 21 Jan 2008 19:22:48 +0000,Paula Góes,Unknown,Female,80,1
 37827,Mon, 21 Jan 2008 19:32:26 +0000,Paula Góes,Male,Female,54,1
 37828,Mon, 21 Jan 2008 19:46:37 +0000,Paula Góes,Neutral,Female,102,1
 37831,Mon, 21 Jan 2008 20:53:30 +0000,Paula Góes,Unknown,Female,54,1
+378363,Thu, 06 Dec 2012 13:17:09 +0000,Silvia Vinas,Unknown,Female,87,2
+378454,Fri, 07 Dec 2012 12:13:21 +0000,Débora Medeiros,Male,Female,832,33
 37849,Mon, 21 Jan 2008 23:43:22 +0000,David Sasaki,Neutral,Male,1379,54
 37866,Fri, 25 Jan 2008 23:51:45 +0000,Renata Avila,Neutral,Female,1167,23
 37867,Tue, 22 Jan 2008 04:15:44 +0000,Eduardo Avila,Unknown,Male,31,2
 37868,Tue, 22 Jan 2008 04:17:50 +0000,Eduardo Avila,Unknown,Male,42,1
+378725,Fri, 07 Dec 2012 21:18:20 +0000,Pablo Andres Rivero,Unknown,Male,398,17
 37878,Tue, 22 Jan 2008 12:07:26 +0000,Janine Mendes-Franco,Unknown,Female,37,1
 37883,Tue, 22 Jan 2008 15:45:43 +0000,Paula Góes,Unknown,Female,57,2
 37889,Tue, 22 Jan 2008 18:23:14 +0000,Paula Góes,Unknown,Female,68,2
+378991,Mon, 10 Dec 2012 22:50:13 +0000,Juan Arellano,Neutral,Male,882,25
 379,Wed, 13 Jul 2005 15:50:29 +0000,David Sasaki,Unknown,Male,7,3
+379040,Sat, 08 Dec 2012 23:16:13 +0000,Ángel Carrión,Male,Male,76,1
 37921,Wed, 23 Jan 2008 02:57:46 +0000,Luis Carlos Diaz,Neutral,Male,864,29
 37943,Wed, 23 Jan 2008 09:48:05 +0000,Eduardo Avila,Male,Male,43,1
 37946,Wed, 23 Jan 2008 09:56:31 +0000,Eduardo Avila,Unknown,Male,44,1
+379485,Mon, 10 Dec 2012 18:36:30 +0000,Silvia Vinas,Unknown,Female,58,4
 3795,Mon, 14 Nov 2005 20:17:32 +0000,David Sasaki,Female,Male,31,1
 37952,Wed, 23 Jan 2008 11:41:40 +0000,Janine Mendes-Franco,Unknown,Female,50,1
+379777,Tue, 11 Dec 2012 14:30:15 +0000,Jenny Cascante,Neutral,Female,422,15
 37979,Wed, 23 Jan 2008 19:42:38 +0000,Paula Góes,Unknown,Female,74,1
+379814,Wed, 12 Dec 2012 14:40:03 +0000,Luis Trelles,Neutral,Male,1333,37
 37985,Wed, 23 Jan 2008 19:54:17 +0000,Paula Góes,Male,Female,28,1
+379863,Tue, 11 Dec 2012 14:40:52 +0000,Silvia Vinas,Neutral,Female,112,2
+379898,Wed, 12 Dec 2012 11:00:19 +0000,Silvia Vinas,Male,Female,52,1
 37991,Wed, 23 Jan 2008 20:52:19 +0000,Paula Góes,Neutral,Female,64,1
+379918,Tue, 11 Dec 2012 23:07:17 +0000,Silvia Vinas,Neutral,Female,467,20
 37992,Wed, 23 Jan 2008 21:01:04 +0000,Paula Góes,Unknown,Female,77,2
+380023,Tue, 11 Dec 2012 22:42:59 +0000,Sana Saleem,Unknown,Female,575,10
+380028,Tue, 11 Dec 2012 23:56:39 +0000,Eduardo Avila,Unknown,Male,53,1
 38010,Thu, 24 Jan 2008 02:06:30 +0000,Eduardo Avila,Unknown,Male,20,2
 38011,Thu, 24 Jan 2008 02:08:10 +0000,Eduardo Avila,Unknown,Male,34,1
 38012,Thu, 24 Jan 2008 02:08:26 +0000,Eduardo Avila,Unknown,Male,31,1
@@ -7333,28 +7727,43 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 38018,Thu, 24 Jan 2008 02:13:23 +0000,Eduardo Avila,Unknown,Male,26,1
 38020,Thu, 24 Jan 2008 02:17:14 +0000,Eduardo Avila,Unknown,Male,20,1
 38021,Thu, 24 Jan 2008 02:20:31 +0000,Eduardo Avila,Unknown,Male,35,3
+380222,Wed, 12 Dec 2012 18:00:31 +0000,Pablo Andres Rivero,Neutral,Male,343,16
 38025,Thu, 24 Jan 2008 22:12:08 +0000,Juan Arellano,Neutral,Male,3769,33
+380295,Thu, 13 Dec 2012 11:00:36 +0000,Silvia Vinas,Unknown,Female,57,1
 3803,Tue, 15 Nov 2005 02:38:32 +0000,David Sasaki,Unknown,Male,37,1
 38035,Thu, 24 Jan 2008 10:24:45 +0000,Janine Mendes-Franco,Unknown,Female,22,1
+380594,Fri, 14 Dec 2012 11:14:27 +0000,Gina Yauri,Neutral,Female,1415,37
 3806,Tue, 15 Nov 2005 03:23:05 +0000,David Sasaki,Unknown,Male,51,1
 38065,Thu, 24 Jan 2008 20:56:12 +0000,Juliana Rincón Parra,Male,Female,1002,45
 38066,Thu, 24 Jan 2008 19:43:34 +0000,Paula Góes,Unknown,Female,45,1
+380679,Fri, 14 Dec 2012 18:57:09 +0000,Sara Moreira,Unknown,Female,75,5
 38068,Thu, 24 Jan 2008 20:12:25 +0000,Paula Góes,Unknown,Female,99,1
+380689,Mon, 17 Dec 2012 12:27:16 +0000,Richard de Araújo,Neutral,Male,1425,33
 38069,Thu, 24 Jan 2008 20:29:06 +0000,Paula Góes,Unknown,Female,65,1
 3809,Tue, 15 Nov 2005 03:33:35 +0000,David Sasaki,Unknown,Male,22,1
+380926,Wed, 30 Nov -0001 00:00:00 +0000,Eduardo Avila,Unknown,Male,640,19
 38099,Fri, 25 Jan 2008 08:23:26 +0000,Paula Góes,Neutral,Female,64,1
+381047,Mon, 17 Dec 2012 15:18:16 +0000,Daniela Gallardo,Unknown,Female,623,47
 38106,Fri, 25 Jan 2008 12:44:29 +0000,Janine Mendes-Franco,Unknown,Female,12,1
 3812,Tue, 15 Nov 2005 04:08:06 +0000,David Sasaki,Unknown,Male,28,1
+381251,Wed, 30 Nov -0001 00:00:00 +0000,Sara Moreira,Unknown,Female,33,5
 3813,Tue, 15 Nov 2005 04:11:34 +0000,David Sasaki,Unknown,Male,30,1
 38134,Fri, 25 Jan 2008 23:05:15 +0000,Eduardo Avila,Unknown,Male,25,1
 38135,Fri, 25 Jan 2008 23:06:42 +0000,Paula Góes,Unknown,Female,60,1
 38139,Fri, 25 Jan 2008 23:19:33 +0000,Paula Góes,Unknown,Female,76,2
+381406,Tue, 18 Dec 2012 14:30:06 +0000,Gabriela Garcia Calderon,Neutral,Female,75,3
 38142,Fri, 25 Jan 2008 23:32:16 +0000,Paula Góes,Male,Female,66,1
+381606,Wed, 19 Dec 2012 20:00:46 +0000,Gabriela Garcia Calderon,Unknown,Female,92,2
+381627,Thu, 20 Dec 2012 08:00:54 +0000,Gabriela Garcia Calderon,Unknown,Female,107,1
 38163,Sat, 26 Jan 2008 19:47:09 +0000,Juliana Rincón Parra,Neutral,Female,516,35
 38172,Sun, 27 Jan 2008 13:09:47 +0000,Paula Góes,Neutral,Female,1765,42
+381726,Thu, 20 Dec 2012 15:55:09 +0000,Silvia Vinas,Neutral,Female,1215,38
 38186,Sun, 27 Jan 2008 15:25:15 +0000,Paula Góes,Neutral,Female,86,1
 38197,Mon, 28 Jan 2008 03:28:43 +0000,Milton Ramirez,Neutral,Male,1792,35
 38199,Sun, 03 Feb 2008 09:01:55 +0000,Paula Góes,Neutral,Female,1965,59
+382005,Fri, 21 Dec 2012 12:56:02 +0000,Gabriela Garcia Calderon,Neutral,Female,68,3
+382008,Fri, 21 Dec 2012 14:00:54 +0000,Gabriela Garcia Calderon,Neutral,Female,92,10
+382014,Fri, 21 Dec 2012 15:00:51 +0000,Gabriela Garcia Calderon,Unknown,Female,62,2
 38207,Mon, 28 Jan 2008 01:08:21 +0000,Eduardo Avila,Unknown,Male,53,1
 38208,Mon, 28 Jan 2008 01:09:31 +0000,Eduardo Avila,Unknown,Male,33,1
 38209,Mon, 28 Jan 2008 01:10:32 +0000,Eduardo Avila,Unknown,Male,18,1
@@ -7363,28 +7772,46 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 38212,Mon, 28 Jan 2008 01:12:06 +0000,Eduardo Avila,Male,Male,90,1
 38213,Mon, 28 Jan 2008 01:15:38 +0000,Eduardo Avila,Unknown,Male,31,2
 38214,Mon, 28 Jan 2008 01:17:19 +0000,Eduardo Avila,Unknown,Male,47,1
+382439,Mon, 24 Dec 2012 16:48:59 +0000,Gabriela Garcia Calderon,Neutral,Female,70,3
 38262,Tue, 29 Jan 2008 16:31:26 +0000,Muna Annahas,Neutral,Female,934,30
 38264,Mon, 28 Jan 2008 18:35:17 +0000,Paula Góes,Unknown,Female,63,1
+382898,Thu, 20 Dec 2012 01:28:30 +0000,Juan Arellano,Neutral,Male,2072,41
+383018,Wed, 26 Dec 2012 15:49:55 +0000,Juan Arellano,Unknown,Male,124,1
 38303,Tue, 29 Jan 2008 02:17:06 +0000,Eduardo Avila,Female,Male,26,3
 38304,Tue, 29 Jan 2008 02:18:55 +0000,Eduardo Avila,Unknown,Male,53,1
 38305,Tue, 29 Jan 2008 02:22:14 +0000,Eduardo Avila,Unknown,Male,49,1
 38306,Tue, 29 Jan 2008 02:25:48 +0000,Eduardo Avila,Male,Male,29,1
+383142,Thu, 27 Dec 2012 04:54:50 +0000,Rachael Petersen,Neutral,Female,1544,42
 38317,Tue, 29 Jan 2008 09:42:14 +0000,Paula Góes,Neutral,Female,105,1
+383244,Thu, 27 Dec 2012 11:33:35 +0000,Sara Moreira,Female,Female,49,1
 38339,Tue, 29 Jan 2008 20:31:22 +0000,Paula Góes,Unknown,Female,36,1
 38340,Tue, 29 Jan 2008 20:56:29 +0000,Paula Góes,Unknown,Female,64,1
 38341,Tue, 29 Jan 2008 21:03:36 +0000,Paula Góes,Unknown,Female,64,1
 38342,Tue, 29 Jan 2008 21:21:04 +0000,Paula Góes,Unknown,Female,80,1
 38347,Tue, 29 Jan 2008 22:47:13 +0000,Paula Góes,Neutral,Female,102,1
+383477,Fri, 28 Dec 2012 16:53:41 +0000,Firuzeh Shokooh Valle,Unknown,Female,35,3
+383498,Fri, 28 Dec 2012 17:01:58 +0000,Firuzeh Shokooh Valle,Unknown,Female,40,1
+383503,Fri, 28 Dec 2012 17:26:21 +0000,Firuzeh Shokooh Valle,Neutral,Female,70,1
+383584,Mon, 31 Dec 2012 17:36:30 +0000,Sara Moreira,Neutral,Female,1215,41
+383874,Sun, 30 Dec 2012 12:08:32 +0000,Yohana de Andrade,Neutral,Unknown,1376,35
 38388,Wed, 30 Jan 2008 14:42:15 +0000,Paula Góes,Unknown,Female,83,1
 38389,Wed, 30 Jan 2008 14:50:16 +0000,Paula Góes,Unknown,Female,58,2
+384057,Mon, 31 Dec 2012 17:18:47 +0000,Gabriela Garcia Calderon,Unknown,Female,84,3
+384062,Mon, 31 Dec 2012 18:00:30 +0000,Gabriela Garcia Calderon,Unknown,Female,27,1
+384065,Mon, 31 Dec 2012 18:30:34 +0000,Gabriela Garcia Calderon,Male,Female,75,1
+384070,Mon, 31 Dec 2012 19:00:56 +0000,Gabriela Garcia Calderon,Unknown,Female,85,2
+384122,Mon, 31 Dec 2012 19:30:00 +0000,Gabriela Garcia Calderon,Female,Female,80,2
+384131,Mon, 31 Dec 2012 20:00:17 +0000,Gabriela Garcia Calderon,Male,Female,72,1
 38428,Fri, 01 Feb 2008 23:33:56 +0000,Juliana Rincón Parra,Neutral,Female,758,23
 3843,Tue, 15 Nov 2005 22:27:51 +0000,David Sasaki,Unknown,Male,38,1
 38431,Thu, 31 Jan 2008 06:30:20 +0000,Eduardo Avila,Unknown,Male,47,3
 38455,Thu, 31 Jan 2008 18:26:52 +0000,Paula Góes,Unknown,Female,80,1
+384556,Wed, 31 Oct 2012 19:44:11 +0000,Ángel Carrión,Neutral,Male,1324,44
 38457,Thu, 31 Jan 2008 18:37:53 +0000,Paula Góes,Male,Female,55,2
 38471,Thu, 31 Jan 2008 20:24:24 +0000,Paula Góes,Unknown,Female,83,1
 38499,Fri, 01 Feb 2008 15:09:27 +0000,Paula Góes,Neutral,Female,1634,25
 3850,Wed, 16 Nov 2005 06:22:58 +0000,David Sasaki,Unknown,Male,36,1
+385013,Tue, 30 Oct 2012 21:14:40 +0000,Melissa de Leon,Neutral,Female,1156,24
 38512,Fri, 01 Feb 2008 20:07:40 +0000,Paula Góes,Unknown,Female,99,1
 38513,Fri, 01 Feb 2008 20:33:58 +0000,Eduardo Avila,Unknown,Male,30,1
 38514,Fri, 01 Feb 2008 20:37:07 +0000,Eduardo Avila,Unknown,Male,47,1
@@ -7444,6 +7871,7 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 38850,Fri, 08 Feb 2008 16:14:49 +0000,Paula Góes,Male,Female,60,1
 38851,Wed, 13 Feb 2008 05:44:51 +0000,Renata Avila,Neutral,Female,1355,25
 38852,Fri, 08 Feb 2008 22:22:43 +0000,Juliana Rincón Parra,Neutral,Female,459,20
+388731,Thu, 20 Dec 2012 11:43:51 +0000,Raphael Tsavkko Garcia,Neutral,Male,1786,61
 38881,Sat, 09 Feb 2008 15:35:04 +0000,Paula Góes,Unknown,Female,41,1
 38943,Sun, 10 Feb 2008 21:01:03 +0000,David Sasaki,Neutral,Male,1436,45
 38946,Tue, 12 Feb 2008 01:02:34 +0000,Eduardo Avila,Neutral,Male,1224,39

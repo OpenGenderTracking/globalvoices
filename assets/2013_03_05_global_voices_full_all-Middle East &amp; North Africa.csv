@@ -6231,6 +6231,7 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 305330,Mon, 26 Mar 2012 20:17:28 +0000,رامي الهامس,Unknown,Male,730,31
 30534,Sun, 26 Aug 2007 20:38:46 +0000,Fred Petrossian,Unknown,Male,32,1
 30535,Sun, 26 Aug 2007 20:52:09 +0000,Fred Petrossian,Unknown,Male,39,1
+305784,Mon, 12 Nov 2012 11:02:24 +0000,Lova Rakotomalala,Unknown,Male,57,1
 3058,Fri, 21 Oct 2005 17:45:38 +0000,Haitham Sabbah,Unknown,Male,16,1
 30584,Mon, 27 Aug 2007 18:45:23 +0000,Fred Petrossian,Male,Male,48,1
 30586,Mon, 27 Aug 2007 19:29:05 +0000,Fred Petrossian,Male,Male,45,1
@@ -7090,6 +7091,7 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 33375,Mon, 29 Oct 2007 01:47:35 +0000,Fozia Mohamed,Neutral,Female,382,17
 33376,Sat, 27 Oct 2007 21:52:19 +0000,Fred Petrossian,Unknown,Male,49,1
 33377,Sat, 27 Oct 2007 22:21:14 +0000,Fred Petrossian,Unknown,Male,30,1
+333894,Tue, 28 Aug 2012 05:10:41 +0000,Tarek Amr,Unknown,Male,36,1
 333906,Fri, 20 Jul 2012 14:37:27 +0000,Tarek Amr,Neutral,Male,1002,50
 3342,Mon, 31 Oct 2005 17:18:13 +0000,Haitham Sabbah,Unknown,Male,51,2
 33433,Mon, 29 Oct 2007 20:39:23 +0000,sami ben gharbia,Neutral,Unknown,2306,31
@@ -7098,7 +7100,7 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 33444,Mon, 29 Oct 2007 22:41:04 +0000,Amira Al Hussaini,Female,Female,12,1
 33446,Mon, 29 Oct 2007 22:47:04 +0000,Amira Al Hussaini,Unknown,Female,27,1
 33473,Tue, 30 Oct 2007 12:32:28 +0000,Amira Al Hussaini,Female,Female,65,1
-334769,Thu, 05 Jul 2012 18:05:41 +0000,Jillian C. York,Neutral,Female,1313,46
+334769,Thu, 05 Jul 2012 18:05:41 +0000,Jillian York,Neutral,Female,1313,46
 334786,Fri, 06 Jul 2012 22:21:57 +0000,Ahmed Awadalla,Unknown,Male,306,21
 3348,Mon, 31 Oct 2005 17:32:28 +0000,Haitham Sabbah,Neutral,Male,149,3
 33495,Tue, 30 Oct 2007 20:05:12 +0000,Amira Al Hussaini,Unknown,Female,15,1
@@ -7129,7 +7131,7 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 33551,Wed, 31 Oct 2007 20:22:25 +0000,Amira Al Hussaini,Unknown,Female,33,1
 33552,Wed, 31 Oct 2007 20:26:00 +0000,Amira Al Hussaini,Unknown,Female,27,1
 335592,Mon, 09 Jul 2012 11:07:50 +0000,Mona Kareem,Neutral,Female,686,37
-335861,Tue, 10 Jul 2012 18:43:59 +0000,Juliana Rincón Parra,Neutral,Female,439,23
+335861,Tue, 10 Jul 2012 18:43:59 +0000,Juliana Rincon Parra,Neutral,Female,439,23
 33597,Thu, 01 Nov 2007 15:51:03 +0000,Amira Al Hussaini,Male,Female,40,1
 33598,Thu, 01 Nov 2007 15:56:07 +0000,Amira Al Hussaini,Male,Female,27,1
 335987,Tue, 10 Jul 2012 11:53:50 +0000,Afef Abrougui,Unknown,Female,529,23
@@ -7137,8 +7139,8 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 335990,Tue, 10 Jul 2012 10:46:59 +0000,Elizabeth Tsurkov,Neutral,Female,553,40
 33600,Thu, 01 Nov 2007 15:59:28 +0000,Amira Al Hussaini,Unknown,Female,19,1
 33603,Thu, 01 Nov 2007 19:08:28 +0000,Amira Al Hussaini,Neutral,Female,569,20
-336147,Tue, 10 Jul 2012 14:42:27 +0000,Fred Petrossian,Unknown,Male,19,1
-336150,Tue, 10 Jul 2012 14:54:18 +0000,Fred Petrossian,Unknown,Male,33,1
+336147,Tue, 10 Jul 2012 14:42:27 +0000,Hamid Tehrani,Unknown,Male,19,1
+336150,Tue, 10 Jul 2012 14:54:18 +0000,Hamid Tehrani,Unknown,Male,33,1
 336265,Wed, 11 Jul 2012 11:08:20 +0000,Sahar Habib Ghazi,Unknown,Unknown,50,1
 33640,Fri, 02 Nov 2007 14:14:38 +0000,sami ben gharbia,Unknown,Unknown,48,1
 336427,Wed, 11 Jul 2012 11:14:54 +0000,Amira Al Hussaini,Unknown,Female,24,1
@@ -7146,7 +7148,7 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 33644,Fri, 02 Nov 2007 15:13:00 +0000,Amira Al Hussaini,Unknown,Female,12,1
 33645,Fri, 02 Nov 2007 15:18:09 +0000,Amira Al Hussaini,Female,Female,17,1
 33647,Fri, 02 Nov 2007 15:43:04 +0000,Amira Al Hussaini,Unknown,Female,32,1
-336486,Wed, 30 Nov -0001 00:00:00 +0000,Fred Petrossian,Neutral,Male,225,11
+336486,Wed, 30 Nov -0001 00:00:00 +0000,Hamid Tehrani,Neutral,Male,225,11
 33655,Sun, 04 Nov 2007 18:06:48 +0000,Fozia Mohamed,Neutral,Female,648,20
 336565,Thu, 12 Jul 2012 17:35:57 +0000,Noon Arabia,Neutral,Female,730,43
 33662,Fri, 02 Nov 2007 22:40:17 +0000,Amira Al Hussaini,Unknown,Female,15,1
@@ -7158,9 +7160,9 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 33675,Sat, 03 Nov 2007 00:39:11 +0000,Amira Al Hussaini,Unknown,Female,16,1
 336786,Thu, 12 Jul 2012 17:43:22 +0000,Yazan Badran,Neutral,Male,590,32
 336825,Fri, 13 Jul 2012 15:26:00 +0000,أحمد جدو,Neutral,Male,502,34
-336895,Thu, 12 Jul 2012 14:05:46 +0000,Fred Petrossian,Female,Male,43,1
+336895,Thu, 12 Jul 2012 14:05:46 +0000,Hamid Tehrani,Female,Male,43,1
 33690,Sat, 03 Nov 2007 11:29:20 +0000,Onnik Krikorian,Male,Male,82,1
-336909,Thu, 12 Jul 2012 16:12:15 +0000,Juliana Rincón Parra,Unknown,Female,288,14
+336909,Thu, 12 Jul 2012 16:12:15 +0000,Juliana Rincon Parra,Unknown,Female,288,14
 33694,Sun, 04 Nov 2007 16:49:07 +0000,Ayesha Saldanha,Neutral,Female,1655,78
 33697,Sun, 04 Nov 2007 17:30:52 +0000,Moussa Bashir,Unknown,Male,51,1
 33698,Sun, 04 Nov 2007 17:29:32 +0000,Moussa Bashir,Unknown,Male,55,1
@@ -7175,13 +7177,14 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 33719,Sun, 04 Nov 2007 22:27:09 +0000,Fred Petrossian,Male,Male,40,1
 33720,Sun, 04 Nov 2007 22:42:45 +0000,Fred Petrossian,Male,Male,53,1
 33721,Sun, 04 Nov 2007 22:51:58 +0000,Fred Petrossian,Female,Male,38,1
-337290,Mon, 16 Jul 2012 17:34:14 +0000,Fred Petrossian,Female,Male,354,16
-337312,Fri, 13 Jul 2012 15:30:50 +0000,Fred Petrossian,Unknown,Male,17,1
+337290,Mon, 16 Jul 2012 17:34:14 +0000,Hamid Tehrani,Female,Male,354,16
+337312,Fri, 13 Jul 2012 15:30:50 +0000,Hamid Tehrani,Unknown,Male,17,1
 33739,Mon, 05 Nov 2007 20:14:54 +0000,Jennifer Brea,Unknown,Female,10,1
 337559,Sun, 15 Jul 2012 13:04:56 +0000,Yazan Badran,Neutral,Male,842,27
-337721,Sun, 15 Jul 2012 13:34:00 +0000,Maha El-Sanosi,Neutral,Female,806,37
+337721,Sun, 15 Jul 2012 13:34:00 +0000,Maha Elsanosi,Neutral,Female,806,37
 33782,Wed, 07 Nov 2007 07:20:23 +0000,Fred Petrossian,Neutral,Male,690,33
 33785,Tue, 06 Nov 2007 02:05:25 +0000,Eman AbdElRahman,Neutral,Female,621,24
+337852,Wed, 08 Aug 2012 12:21:17 +0000,Rami Alhames,Neutral,Male,811,27
 33790,Tue, 06 Nov 2007 01:38:48 +0000,Amira Al Hussaini,Unknown,Female,40,1
 33791,Tue, 06 Nov 2007 01:41:34 +0000,Amira Al Hussaini,Female,Female,31,1
 33792,Tue, 06 Nov 2007 01:44:45 +0000,Amira Al Hussaini,Female,Female,20,1
@@ -7195,7 +7198,7 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 338172,Mon, 16 Jul 2012 11:12:57 +0000,Amira Al Hussaini,Unknown,Female,21,2
 338176,Mon, 16 Jul 2012 13:16:13 +0000,Amira Al Hussaini,Unknown,Female,57,1
 338179,Tue, 17 Jul 2012 14:45:32 +0000,Richard de Araújo,Neutral,Male,1379,53
-338223,Mon, 16 Jul 2012 14:06:18 +0000,Fred Petrossian,Neutral,Male,289,23
+338223,Mon, 16 Jul 2012 14:06:18 +0000,Hamid Tehrani,Neutral,Male,289,23
 338230,Mon, 16 Jul 2012 13:35:31 +0000,Amira Al Hussaini,Unknown,Female,41,1
 338241,Mon, 16 Jul 2012 13:39:01 +0000,Amira Al Hussaini,Unknown,Female,21,1
 33836,Tue, 06 Nov 2007 16:44:10 +0000,Amira Al Hussaini,Male,Female,15,1
@@ -7204,7 +7207,7 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 33843,Tue, 06 Nov 2007 17:30:34 +0000,Fred Petrossian,Neutral,Male,50,1
 33847,Tue, 06 Nov 2007 17:57:37 +0000,Fred Petrossian,Unknown,Male,18,1
 338506,Tue, 17 Jul 2012 09:49:36 +0000,Amira Al Hussaini,Neutral,Female,317,57
-338542,Tue, 17 Jul 2012 10:48:27 +0000,Fred Petrossian,Unknown,Male,37,1
+338542,Tue, 17 Jul 2012 10:48:27 +0000,Hamid Tehrani,Unknown,Male,37,1
 338551,Tue, 17 Jul 2012 19:14:28 +0000,Elizabeth Tsurkov,Neutral,Female,1287,26
 3386,Tue, 01 Nov 2005 19:49:06 +0000,Haitham Sabbah,Unknown,Male,21,1
 33866,Wed, 07 Nov 2007 00:31:16 +0000,Amira Al Hussaini,Unknown,Female,15,1
@@ -7232,7 +7235,7 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 339149,Wed, 18 Jul 2012 15:51:11 +0000,Amira Al Hussaini,Female,Female,17,1
 339163,Wed, 18 Jul 2012 18:38:47 +0000,Thalia Rahme,Neutral,Female,552,68
 339164,Wed, 18 Jul 2012 16:58:05 +0000,Amira Al Hussaini,Neutral,Female,464,35
-339186,Thu, 19 Jul 2012 09:28:51 +0000,Fred Petrossian,Neutral,Male,326,16
+339186,Thu, 19 Jul 2012 09:28:51 +0000,Hamid Tehrani,Neutral,Male,326,16
 339195,Sat, 21 Jul 2012 14:46:46 +0000,أحمد جدو,Neutral,Male,1082,54
 339198,Fri, 20 Jul 2012 12:22:28 +0000,Richard Wanjohi,Neutral,Male,972,27
 339227,Fri, 20 Jul 2012 19:51:51 +0000,أحمد جدو,Neutral,Male,512,35
@@ -7251,8 +7254,8 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 339397,Thu, 19 Jul 2012 11:25:53 +0000,Amira Al Hussaini,Neutral,Female,368,50
 339409,Wed, 30 Nov -0001 00:00:00 +0000,Richard Wanjohi,Neutral,Male,569,15
 33947,Thu, 08 Nov 2007 06:12:58 +0000,Ndesanjo Macha,Unknown,Male,73,1
-339498,Fri, 20 Jul 2012 07:46:19 +0000,Hisham Almiraat,Unknown,Male,459,25
-339523,Thu, 19 Jul 2012 21:42:39 +0000,Juliana Rincón Parra,Unknown,Female,234,6
+339498,Fri, 20 Jul 2012 07:46:19 +0000,Hisham,Unknown,Male,459,25
+339523,Thu, 19 Jul 2012 21:42:39 +0000,Juliana Rincon Parra,Unknown,Female,233,6
 339596,Fri, 20 Jul 2012 21:24:28 +0000,Mohammed Alamer,Neutral,Male,264,21
 33968,Thu, 08 Nov 2007 14:13:52 +0000,Amira Al Hussaini,Unknown,Female,15,1
 33969,Thu, 08 Nov 2007 14:16:55 +0000,Amira Al Hussaini,Unknown,Female,18,1
@@ -7266,7 +7269,7 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 339987,Tue, 17 Jul 2012 18:59:09 +0000,رامي الهامس,Unknown,Male,33,1
 340,Mon, 11 Jul 2005 21:46:53 +0000,Paul Frankenstein,Unknown,Male,23,1
 340149,Sat, 21 Jul 2012 20:35:34 +0000,Afef Abrougui,Neutral,Female,727,29
-340185,Sat, 21 Jul 2012 20:23:55 +0000,Hisham Almiraat,Unknown,Male,57,1
+340185,Sat, 21 Jul 2012 20:23:55 +0000,Hisham,Unknown,Male,57,1
 340220,Sat, 21 Jul 2012 20:20:51 +0000,محمد عادل,Unknown,Male,67,1
 34031,Fri, 09 Nov 2007 14:17:02 +0000,D B Shobrawy,Neutral,Unknown,912,58
 340338,Mon, 23 Jul 2012 09:14:27 +0000,Amira Al Hussaini,Neutral,Female,526,24
@@ -7276,7 +7279,7 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 34037,Fri, 09 Nov 2007 14:18:40 +0000,Riyadh Al Balushi,Male,Unknown,19,1
 34038,Fri, 09 Nov 2007 14:21:26 +0000,Riyadh Al Balushi,Unknown,Unknown,29,1
 34040,Fri, 09 Nov 2007 14:19:18 +0000,Riyadh Al Balushi,Unknown,Unknown,9,1
-340415,Sun, 22 Jul 2012 18:13:13 +0000,Hisham Almiraat,Unknown,Male,52,1
+340415,Sun, 22 Jul 2012 18:13:13 +0000,Hisham,Unknown,Male,52,1
 340499,Wed, 25 Jul 2012 13:56:46 +0000,Ayesha Saldanha,Neutral,Female,1328,36
 34050,Fri, 09 Nov 2007 17:46:58 +0000,Fred Petrossian,Male,Male,18,1
 34051,Fri, 09 Nov 2007 18:00:31 +0000,Fred Petrossian,Male,Male,45,1
@@ -7302,14 +7305,14 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 341215,Thu, 26 Jul 2012 16:28:39 +0000,Richard Wanjohi,Neutral,Male,1134,34
 34122,Mon, 12 Nov 2007 13:50:50 +0000,Yazan Badran,Neutral,Male,620,17
 341225,Mon, 23 Jul 2012 19:02:46 +0000,محمد عبدو,Neutral,Male,1050,42
-341252,Wed, 25 Jul 2012 19:04:38 +0000,Hisham Almiraat,Unknown,Male,45,1
+341252,Wed, 25 Jul 2012 19:04:38 +0000,Hisham,Unknown,Male,45,1
 34128,Sun, 11 Nov 2007 22:27:26 +0000,Fred Petrossian,Unknown,Male,47,1
 34129,Sun, 11 Nov 2007 22:39:46 +0000,Fred Petrossian,Unknown,Male,32,1
 34130,Sun, 11 Nov 2007 23:03:09 +0000,Fred Petrossian,Female,Male,34,1
 34131,Sun, 11 Nov 2007 23:18:47 +0000,Fred Petrossian,Male,Male,25,1
 34132,Sun, 11 Nov 2007 23:27:15 +0000,Fred Petrossian,Unknown,Male,16,1
 34134,Mon, 12 Nov 2007 00:39:09 +0000,Fred Petrossian,Unknown,Male,14,1
-341372,Wed, 30 Nov -0001 00:00:00 +0000,Super Sub-Editor 4,Neutral,Unknown,616,31
+341372,Wed, 30 Nov -0001 00:00:00 +0000,Super Sub-Editor,Neutral,Unknown,616,31
 341439,Wed, 25 Jul 2012 19:24:27 +0000,Osama Khalid,Neutral,Male,447,21
 341514,Wed, 25 Jul 2012 21:41:53 +0000,Amira Al Hussaini,Neutral,Female,598,34
 341543,Wed, 01 Aug 2012 15:59:49 +0000,Pablo Andres Rivero,Neutral,Male,712,20
@@ -7334,7 +7337,7 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 342832,Mon, 30 Jul 2012 07:29:03 +0000,Mona Kareem,Neutral,Female,761,46
 34290,Sun, 18 Nov 2007 17:29:49 +0000,Amira Al Hussaini,Neutral,Female,662,16
 342988,Tue, 31 Jul 2012 13:43:44 +0000,Thalia Rahme,Unknown,Female,654,38
-343012,Tue, 31 Jul 2012 20:44:39 +0000,Fred Petrossian,Neutral,Male,634,32
+343012,Tue, 31 Jul 2012 20:44:39 +0000,Hamid Tehrani,Neutral,Male,634,32
 343323,Tue, 31 Jul 2012 14:48:14 +0000,Amira Al Hussaini,Female,Female,48,1
 34345,Wed, 14 Nov 2007 20:55:18 +0000,Amira Al Hussaini,Unknown,Female,16,1
 34346,Wed, 14 Nov 2007 21:01:03 +0000,Amira Al Hussaini,Unknown,Female,22,1
@@ -7356,19 +7359,32 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 343842,Thu, 02 Aug 2012 14:14:51 +0000,Emma Brewin,Unknown,Female,312,11
 344,Mon, 11 Jul 2005 22:00:46 +0000,Paul Frankenstein,Unknown,Male,56,1
 344102,Wed, 30 Nov -0001 00:00:00 +0000,أحمد جدو,Neutral,Male,1165,39
+344239,Sun, 05 Aug 2012 09:39:35 +0000,محمد عادل,Female,Male,19,1
+344292,Sat, 04 Aug 2012 00:49:21 +0000,Anita Hunt,Unknown,Female,113,1
+344367,Tue, 07 Aug 2012 01:25:10 +0000,أحمد جدو,Male,Male,1069,34
 3444,Thu, 03 Nov 2005 08:57:12 +0000,Karim Elsahy,Male,Male,279,14
 34461,Fri, 16 Nov 2007 14:02:48 +0000,Yazan Badran,Unknown,Male,330,9
 34470,Sun, 18 Nov 2007 17:10:06 +0000,Abdullatif AlOmar,Neutral,Male,556,33
 34472,Sat, 17 Nov 2007 10:30:21 +0000,Ayesha Saldanha,Neutral,Female,2107,89
+344968,Mon, 06 Aug 2012 13:26:13 +0000,Amira Al Hussaini,Male,Female,489,31
+344998,Tue, 14 Aug 2012 17:53:23 +0000,salah.almhamdi,Neutral,Unknown,571,26
 345,Mon, 11 Jul 2005 22:48:24 +0000,Paul Frankenstein,Unknown,Male,24,1
+345038,Mon, 06 Aug 2012 14:48:47 +0000,Amira Al Hussaini,Male,Female,541,24
+345105,Wed, 08 Aug 2012 09:05:39 +0000,ميّاسي,Neutral,Unknown,716,31
 34511,Sat, 17 Nov 2007 10:35:00 +0000,Amira Al Hussaini,Unknown,Female,9,1
 34512,Sat, 17 Nov 2007 10:39:34 +0000,Amira Al Hussaini,Neutral,Female,93,1
 34513,Sat, 17 Nov 2007 10:50:27 +0000,Amira Al Hussaini,Male,Female,24,1
 34514,Sat, 17 Nov 2007 11:03:33 +0000,Amira Al Hussaini,Unknown,Female,50,1
 34515,Sat, 17 Nov 2007 11:05:21 +0000,Amira Al Hussaini,Unknown,Female,69,1
+345236,Tue, 07 Aug 2012 08:45:11 +0000,Amira Al Hussaini,Male,Female,386,51
+345245,Wed, 22 Aug 2012 11:43:03 +0000,أحمد جدو,Neutral,Male,559,38
 34525,Sat, 17 Nov 2007 21:07:52 +0000,Amira Al Hussaini,Unknown,Female,29,1
+345258,Tue, 07 Aug 2012 13:49:01 +0000,Amira Al Hussaini,Female,Female,465,47
 34526,Sat, 17 Nov 2007 21:09:43 +0000,Amira Al Hussaini,Unknown,Female,16,1
 34527,Sat, 17 Nov 2007 21:10:58 +0000,Amira Al Hussaini,Unknown,Female,12,1
+345272,Tue, 07 Aug 2012 13:04:35 +0000,Amira Al Hussaini,Male,Female,30,1
+345275,Tue, 07 Aug 2012 13:42:12 +0000,Amira Al Hussaini,Unknown,Female,350,28
+345278,Tue, 07 Aug 2012 20:33:11 +0000,Thalia Rahme,Neutral,Female,640,35
 34528,Sat, 17 Nov 2007 21:11:57 +0000,Amira Al Hussaini,Unknown,Female,28,1
 34529,Sat, 17 Nov 2007 21:41:05 +0000,Fred Petrossian,Unknown,Male,48,1
 34530,Sat, 17 Nov 2007 21:47:59 +0000,Fred Petrossian,Neutral,Male,21,1
@@ -7376,18 +7392,30 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 34534,Sun, 18 Nov 2007 00:40:41 +0000,Amira Al Hussaini,Male,Female,42,1
 34535,Sun, 18 Nov 2007 00:42:59 +0000,Amira Al Hussaini,Unknown,Female,28,1
 34536,Sun, 18 Nov 2007 00:46:31 +0000,Amira Al Hussaini,Unknown,Female,19,1
+345557,Wed, 08 Aug 2012 13:53:34 +0000,Hamid Tehrani,Neutral,Male,308,17
+345575,Wed, 08 Aug 2012 12:04:21 +0000,الدد ولد الشيخ إبراهيم,Neutral,Unknown,727,33
 34558,Sun, 18 Nov 2007 17:35:52 +0000,Amira Al Hussaini,Unknown,Female,19,1
 34559,Sun, 18 Nov 2007 17:46:51 +0000,Amira Al Hussaini,Female,Female,17,1
+345597,Wed, 08 Aug 2012 11:30:19 +0000,Amira Al Hussaini,Neutral,Female,300,20
 34560,Sun, 18 Nov 2007 17:48:40 +0000,Amira Al Hussaini,Unknown,Female,22,1
 34561,Sun, 18 Nov 2007 17:50:25 +0000,Amira Al Hussaini,Unknown,Female,18,1
 34562,Sun, 18 Nov 2007 17:51:45 +0000,Amira Al Hussaini,Female,Female,27,1
+345636,Wed, 08 Aug 2012 14:40:53 +0000,Amira Al Hussaini,Neutral,Female,981,77
 34565,Sun, 18 Nov 2007 19:32:30 +0000,Amira Al Hussaini,Unknown,Female,18,1
 34568,Mon, 19 Nov 2007 00:01:21 +0000,Salam Adil,Neutral,Male,1431,33
 34570,Sun, 18 Nov 2007 23:23:41 +0000,Fred Petrossian,Unknown,Male,22,1
 34571,Sun, 18 Nov 2007 23:38:57 +0000,Fred Petrossian,Unknown,Male,33,1
 34572,Sun, 18 Nov 2007 23:58:36 +0000,Amira Al Hussaini,Unknown,Female,14,1
+345746,Thu, 09 Aug 2012 20:42:56 +0000,محمد عبدو,Neutral,Male,1195,51
+345779,Wed, 08 Aug 2012 19:43:54 +0000,Amira Al Hussaini,Unknown,Female,23,1
+345787,Wed, 08 Aug 2012 19:50:28 +0000,Amira Al Hussaini,Unknown,Female,65,1
+345791,Wed, 08 Aug 2012 20:12:10 +0000,Amira Al Hussaini,Neutral,Female,595,27
+345834,Fri, 10 Aug 2012 14:52:08 +0000,Hisham,Unknown,Male,468,28
 34589,Mon, 19 Nov 2007 09:38:38 +0000,Fred Petrossian,Unknown,Male,59,1
 34590,Wed, 21 Nov 2007 22:51:00 +0000,Fred Petrossian,Neutral,Male,405,25
+345977,Tue, 14 Aug 2012 06:02:15 +0000,أحمد جدو,Neutral,Male,765,33
+346004,Tue, 14 Aug 2012 07:31:06 +0000,Haifa Al Rasheed,Neutral,Female,556,44
+346014,Thu, 09 Aug 2012 18:14:08 +0000,Lasto Adri,Neutral,Female,403,80
 34604,Mon, 19 Nov 2007 16:30:28 +0000,Amira Al Hussaini,Neutral,Female,1480,46
 34620,Mon, 19 Nov 2007 19:42:14 +0000,Amira Al Hussaini,Unknown,Female,31,1
 34621,Mon, 19 Nov 2007 19:45:04 +0000,Amira Al Hussaini,Unknown,Female,19,1
@@ -7396,6 +7424,7 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 34624,Mon, 19 Nov 2007 20:02:06 +0000,Onnik Krikorian,Unknown,Male,15,1
 34625,Mon, 19 Nov 2007 20:09:16 +0000,Amira Al Hussaini,Unknown,Female,28,1
 34631,Mon, 19 Nov 2007 23:25:34 +0000,Veronica Khokhlova,Unknown,Female,10,1
+346379,Sun, 12 Aug 2012 09:20:08 +0000,Rayna St.,Unknown,Female,53,1
 34646,Tue, 20 Nov 2007 03:07:22 +0000,Amira Al Hussaini,Unknown,Female,24,1
 34647,Tue, 20 Nov 2007 03:09:55 +0000,Amira Al Hussaini,Unknown,Female,32,1
 34648,Tue, 20 Nov 2007 03:11:13 +0000,Amira Al Hussaini,Unknown,Female,48,1
@@ -7406,14 +7435,30 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 34654,Tue, 20 Nov 2007 03:55:05 +0000,Amira Al Hussaini,Unknown,Female,15,1
 34655,Tue, 20 Nov 2007 03:57:44 +0000,Amira Al Hussaini,Unknown,Female,22,1
 34656,Tue, 20 Nov 2007 04:01:29 +0000,Amira Al Hussaini,Unknown,Female,37,1
+346623,Sun, 12 Aug 2012 09:13:41 +0000,Hisham,Unknown,Male,41,1
+346700,Wed, 15 Aug 2012 20:00:06 +0000,أحمد جدو,Male,Male,848,68
 34679,Tue, 20 Nov 2007 11:02:07 +0000,Janine Mendes-Franco,Male,Female,23,1
+346997,Sun, 12 Aug 2012 09:48:54 +0000,Hamid Tehrani,Unknown,Male,298,14
 347,Mon, 11 Jul 2005 22:17:08 +0000,Paul Frankenstein,Male,Male,19,1
 34712,Tue, 20 Nov 2007 19:41:03 +0000,Veronica Khokhlova,Unknown,Female,18,1
 34725,Tue, 20 Nov 2007 21:46:46 +0000,Amira Al Hussaini,Unknown,Female,12,1
 34726,Tue, 20 Nov 2007 21:49:41 +0000,Amira Al Hussaini,Unknown,Female,13,1
 34727,Tue, 20 Nov 2007 22:00:32 +0000,Amira Al Hussaini,Unknown,Female,27,1
 3473,Thu, 03 Nov 2005 21:00:45 +0000,Haitham Sabbah,Unknown,Male,2867,118
+347613,Tue, 14 Aug 2012 13:58:16 +0000,Thalia Rahme,Neutral,Female,820,48
+347669,Tue, 14 Aug 2012 12:37:10 +0000,Thalia Rahme,Unknown,Female,106,1
+347689,Tue, 14 Aug 2012 14:08:28 +0000,Amira Al Hussaini,Unknown,Female,30,1
+347763,Tue, 14 Aug 2012 19:00:53 +0000,Amira Al Hussaini,Male,Female,26,1
+347766,Tue, 14 Aug 2012 19:02:09 +0000,Amira Al Hussaini,Male,Female,61,2
+347779,Tue, 14 Aug 2012 19:31:46 +0000,Amira Al Hussaini,Male,Female,36,1
+347783,Tue, 14 Aug 2012 19:51:57 +0000,Amira Al Hussaini,Unknown,Female,28,1
+347786,Tue, 14 Aug 2012 20:24:24 +0000,Amira Al Hussaini,Unknown,Female,607,37
+347854,Wed, 15 Aug 2012 07:53:31 +0000,Jillian York,Neutral,Female,389,20
 34788,Wed, 21 Nov 2007 23:09:17 +0000,Tarek Amr,Neutral,Male,1758,51
+347900,Wed, 15 Aug 2012 21:47:13 +0000,Juliana Rincon Parra,Unknown,Female,500,14
+347962,Wed, 15 Aug 2012 18:44:07 +0000,salah.almhamdi,Unknown,Unknown,66,1
+347976,Sat, 18 Aug 2012 13:48:12 +0000,salah.almhamdi,Neutral,Unknown,551,32
+347989,Wed, 30 Nov -0001 00:00:00 +0000,Hamid Tehrani,Neutral,Male,236,14
 3480,Thu, 03 Nov 2005 19:45:27 +0000,Fred Petrossian,Neutral,Male,49,1
 34800,Wed, 21 Nov 2007 23:14:05 +0000,Amira Al Hussaini,Female,Female,20,1
 34802,Wed, 21 Nov 2007 23:17:12 +0000,Amira Al Hussaini,Unknown,Female,18,1
@@ -7426,6 +7471,9 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 34811,Wed, 21 Nov 2007 23:51:38 +0000,Amira Al Hussaini,Unknown,Female,18,1
 34812,Thu, 22 Nov 2007 00:36:49 +0000,Fred Petrossian,Unknown,Male,22,1
 34813,Wed, 21 Nov 2007 23:56:02 +0000,Fred Petrossian,Male,Male,19,1
+348181,Thu, 16 Aug 2012 10:33:35 +0000,Amira Al Hussaini,Neutral,Female,281,21
+348266,Fri, 17 Aug 2012 00:52:59 +0000,Hamid Tehrani,Unknown,Male,452,16
+348297,Thu, 16 Aug 2012 15:07:07 +0000,Hamid Tehrani,Unknown,Male,21,1
 3483,Thu, 03 Nov 2005 19:55:50 +0000,Fred Petrossian,Male,Male,40,1
 34847,Thu, 22 Nov 2007 13:39:19 +0000,Amira Al Hussaini,Unknown,Female,60,1
 34848,Thu, 22 Nov 2007 13:43:22 +0000,Amira Al Hussaini,Unknown,Female,27,1
@@ -7433,7 +7481,9 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 34850,Thu, 22 Nov 2007 13:50:40 +0000,Amira Al Hussaini,Unknown,Female,42,1
 34853,Fri, 23 Nov 2007 03:07:28 +0000,Moussa Bashir,Neutral,Male,1316,35
 34854,Fri, 23 Nov 2007 03:03:13 +0000,Jillian C. York,Neutral,Female,979,51
+348638,Sat, 18 Aug 2012 08:39:05 +0000,Ruslan Trad,Unknown,Male,63,1
 3487,Thu, 03 Nov 2005 20:18:00 +0000,Haitham Sabbah,Unknown,Male,88,1
+348780,Sat, 18 Aug 2012 12:12:12 +0000,محمد العامر,Male,Male,38,1
 3488,Thu, 03 Nov 2005 20:28:01 +0000,Haitham Sabbah,Unknown,Male,51,1
 34881,Fri, 23 Nov 2007 03:11:13 +0000,Amira Al Hussaini,Male,Female,61,1
 34883,Fri, 23 Nov 2007 03:13:22 +0000,Amira Al Hussaini,Unknown,Female,15,1
@@ -7442,10 +7492,15 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 34887,Fri, 23 Nov 2007 03:22:35 +0000,Amira Al Hussaini,Male,Female,35,1
 34888,Fri, 23 Nov 2007 03:25:12 +0000,Amira Al Hussaini,Male,Female,43,1
 3489,Thu, 03 Nov 2005 20:25:59 +0000,Haitham Sabbah,Unknown,Male,20,1
+348909,Sat, 18 Aug 2012 14:01:31 +0000,Amira Al Hussaini,Unknown,Female,33,1
 34894,Fri, 23 Nov 2007 09:41:35 +0000,Fred Petrossian,Unknown,Male,29,1
 34895,Fri, 23 Nov 2007 09:51:07 +0000,Fred Petrossian,Unknown,Male,25,1
 3490,Thu, 03 Nov 2005 20:58:29 +0000,Haitham Sabbah,Unknown,Male,23,1
+349032,Sat, 18 Aug 2012 22:57:52 +0000,Amira Al Hussaini,Neutral,Female,493,37
+349036,Wed, 22 Aug 2012 20:51:42 +0000,Amira Al Hussaini,Neutral,Female,519,37
+349045,Sun, 19 Aug 2012 07:56:15 +0000,Osama Khalid,Neutral,Male,485,21
 34905,Fri, 23 Nov 2007 14:56:10 +0000,Amira Al Hussaini,Neutral,Female,528,53
+349051,Sun, 19 Aug 2012 06:59:38 +0000,Amira Al Hussaini,Neutral,Female,856,37
 34908,Fri, 23 Nov 2007 20:00:44 +0000,Ayesha Saldanha,Neutral,Female,1943,95
 34911,Fri, 23 Nov 2007 17:31:40 +0000,Paula Góes,Neutral,Female,84,1
 34921,Sun, 25 Nov 2007 04:06:58 +0000,Fred Petrossian,Neutral,Male,446,27
@@ -7462,22 +7517,47 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 34953,Tue, 27 Nov 2007 21:03:26 +0000,Abdullatif AlOmar,Neutral,Male,461,32
 34955,Sat, 24 Nov 2007 20:57:07 +0000,Fred Petrossian,Male,Male,31,1
 34978,Sun, 25 Nov 2007 11:45:18 +0000,Onnik Krikorian,Female,Male,41,1
+349794,Wed, 22 Aug 2012 14:08:51 +0000,Hisham,Neutral,Male,697,28
 34987,Sun, 25 Nov 2007 22:15:18 +0000,Fred Petrossian,Unknown,Male,19,1
 34988,Sun, 25 Nov 2007 22:25:17 +0000,Fred Petrossian,Unknown,Male,46,1
 3499,Fri, 04 Nov 2005 13:53:40 +0000,Mostafa Hussein,Male,Male,705,27
+349905,Wed, 22 Aug 2012 09:09:20 +0000,Mohamed ElGohary,Unknown,Male,11,1
 34998,Mon, 26 Nov 2007 05:34:25 +0000,Jennifer Brea,Unknown,Female,28,1
 350,Mon, 11 Jul 2005 22:53:58 +0000,Paul Frankenstein,Unknown,Male,47,1
+350025,Wed, 22 Aug 2012 15:39:25 +0000,Thalia Rahme,Neutral,Female,66,1
+350037,Thu, 23 Aug 2012 09:38:44 +0000,Thalia Rahme,Neutral,Female,963,29
+350166,Wed, 22 Aug 2012 20:57:38 +0000,Amira Al Hussaini,Female,Female,26,1
+350168,Wed, 22 Aug 2012 20:58:53 +0000,Amira Al Hussaini,Female,Female,55,3
+350171,Wed, 22 Aug 2012 21:05:30 +0000,Amira Al Hussaini,Unknown,Female,42,3
+350173,Wed, 22 Aug 2012 21:46:44 +0000,Amira Al Hussaini,Neutral,Female,920,45
+350261,Thu, 23 Aug 2012 15:15:27 +0000,Afef Abrougui,Male,Female,973,42
+350267,Thu, 23 Aug 2012 14:31:30 +0000,Thalia Rahme,Unknown,Female,70,3
+350288,Thu, 23 Aug 2012 11:08:48 +0000,Amira Al Hussaini,Male,Female,75,4
+350293,Wed, 29 Aug 2012 14:59:37 +0000,Thalia Rahme,Unknown,Female,739,51
 35037,Mon, 26 Nov 2007 23:57:24 +0000,Veronica Khokhlova,Unknown,Female,12,1
+350373,Thu, 23 Aug 2012 15:45:57 +0000,Amira Al Hussaini,Neutral,Female,36,2
 35038,Tue, 27 Nov 2007 00:01:46 +0000,Veronica Khokhlova,Unknown,Female,37,1
+350450,Thu, 23 Aug 2012 21:39:44 +0000,Hamid Tehrani,Neutral,Male,277,12
 35056,Tue, 27 Nov 2007 06:01:31 +0000,Fred Petrossian,Unknown,Male,31,1
 35058,Tue, 27 Nov 2007 06:36:56 +0000,Fred Petrossian,Unknown,Male,44,1
 35061,Tue, 27 Nov 2007 06:52:52 +0000,Fred Petrossian,Unknown,Male,40,1
+350648,Tue, 28 Aug 2012 21:01:09 +0000,Thalia Rahme,Neutral,Female,791,41
+350664,Fri, 24 Aug 2012 09:41:54 +0000,Amira Al Hussaini,Neutral,Female,205,14
+350675,Fri, 24 Aug 2012 10:23:38 +0000,Amira Al Hussaini,Unknown,Female,38,1
 35069,Tue, 27 Nov 2007 20:52:40 +0000,Yazan Badran,Neutral,Male,506,26
+350691,Tue, 28 Aug 2012 20:29:09 +0000,Veronica Khokhlova,Unknown,Female,114,10
+350745,Tue, 28 Aug 2012 05:13:05 +0000,محمد عادل,Unknown,Male,55,4
 35077,Tue, 27 Nov 2007 14:43:14 +0000,Amira Al Hussaini,Unknown,Female,18,1
 35092,Tue, 27 Nov 2007 19:04:52 +0000,Fred Petrossian,Unknown,Male,26,1
 35096,Wed, 28 Nov 2007 02:28:47 +0000,Amira Al Hussaini,Neutral,Female,831,46
+350985,Sun, 26 Aug 2012 11:03:50 +0000,Afef Abrougui,Neutral,Female,1289,33
 35118,Wed, 28 Nov 2007 02:49:45 +0000,Amira Al Hussaini,Unknown,Female,27,1
+351182,Sun, 26 Aug 2012 10:40:49 +0000,Hamid Tehrani,Unknown,Male,28,1
+351188,Mon, 27 Aug 2012 19:31:04 +0000,Hamid Tehrani,Unknown,Male,679,27
+351332,Tue, 28 Aug 2012 05:35:10 +0000,Mohammed AlMaskati,Neutral,Male,580,29
+351426,Mon, 27 Aug 2012 15:34:09 +0000,Hamid Tehrani,Male,Male,47,1
 35143,Wed, 05 Dec 2007 15:25:48 +0000,Amira Al Hussaini,Unknown,Female,405,20
+351490,Fri, 07 Sep 2012 20:12:10 +0000,Rami Alhames,Neutral,Male,1107,55
 35151,Thu, 06 Dec 2007 22:44:47 +0000,Amira Al Hussaini,Neutral,Female,1815,45
 35152,Tue, 18 Dec 2007 01:47:55 +0000,Amira Al Hussaini,Neutral,Female,3266,103
 35153,Wed, 28 Nov 2007 18:35:47 +0000,Amira Al Hussaini,Unknown,Female,14,1
@@ -7488,20 +7568,27 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 35160,Wed, 28 Nov 2007 20:45:10 +0000,Amira Al Hussaini,Female,Female,10,1
 35161,Wed, 28 Nov 2007 20:46:42 +0000,Amira Al Hussaini,Unknown,Female,12,1
 35162,Wed, 28 Nov 2007 20:48:58 +0000,Amira Al Hussaini,Female,Female,14,1
+351625,Tue, 28 Aug 2012 19:27:48 +0000,Thalia Rahme,Unknown,Female,83,5
 35163,Wed, 28 Nov 2007 20:50:33 +0000,Amira Al Hussaini,Unknown,Female,15,1
 35164,Wed, 28 Nov 2007 20:52:26 +0000,Amira Al Hussaini,Unknown,Female,40,1
 35165,Wed, 28 Nov 2007 20:55:07 +0000,Amira Al Hussaini,Unknown,Female,10,1
+351652,Fri, 07 Sep 2012 08:09:52 +0000,Afef Abrougui,Neutral,Female,1395,64
 35166,Wed, 28 Nov 2007 20:57:47 +0000,Amira Al Hussaini,Unknown,Female,10,1
 35167,Wed, 28 Nov 2007 21:02:36 +0000,Amira Al Hussaini,Female,Female,21,1
 35168,Thu, 29 Nov 2007 02:07:45 +0000,D B Shobrawy,Neutral,Unknown,740,37
+351721,Tue, 28 Aug 2012 18:48:51 +0000,محمد عادل,Unknown,Male,80,5
 35179,Wed, 28 Nov 2007 23:27:04 +0000,Amira Al Hussaini,Unknown,Female,49,1
+351791,Tue, 28 Aug 2012 21:26:48 +0000,Mohammed AlMaskati,Neutral,Male,574,27
 35181,Wed, 28 Nov 2007 23:28:43 +0000,Amira Al Hussaini,Unknown,Female,50,1
 35182,Wed, 28 Nov 2007 23:30:10 +0000,Amira Al Hussaini,Unknown,Female,16,1
 35183,Wed, 28 Nov 2007 23:31:33 +0000,Amira Al Hussaini,Unknown,Female,14,1
 35186,Wed, 28 Nov 2007 23:39:21 +0000,Amira Al Hussaini,Female,Female,10,1
 3519,Fri, 04 Nov 2005 21:44:33 +0000,Haitham Sabbah,Neutral,Male,59,1
 3520,Fri, 04 Nov 2005 22:26:00 +0000,Haitham Sabbah,Male,Male,45,1
+352008,Wed, 29 Aug 2012 09:38:59 +0000,Amira Al Hussaini,Neutral,Female,547,31
+352015,Wed, 29 Aug 2012 09:52:39 +0000,Amira Al Hussaini,Unknown,Female,25,1
 35203,Thu, 29 Nov 2007 10:45:18 +0000,Fred Petrossian,Male,Male,31,1
+352094,Thu, 30 Aug 2012 07:15:09 +0000,Hisham,Unknown,Male,54,1
 3521,Fri, 04 Nov 2005 22:33:27 +0000,Haitham Sabbah,Unknown,Male,40,1
 3522,Fri, 04 Nov 2005 22:44:47 +0000,Haitham Sabbah,Unknown,Male,52,1
 35221,Thu, 29 Nov 2007 20:12:10 +0000,Amira Al Hussaini,Male,Female,18,1
@@ -7509,6 +7596,9 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 35226,Thu, 29 Nov 2007 20:29:00 +0000,Amira Al Hussaini,Unknown,Female,29,1
 35227,Thu, 29 Nov 2007 20:47:15 +0000,Amira Al Hussaini,Male,Female,28,1
 3523,Fri, 04 Nov 2005 23:03:01 +0000,Haitham Sabbah,Unknown,Male,31,1
+352337,Thu, 30 Aug 2012 02:38:55 +0000,Oiwan,Unknown,Female,61,3
+352350,Thu, 30 Aug 2012 07:33:26 +0000,Amira Al Hussaini,Female,Female,33,1
+352374,Wed, 03 Oct 2012 13:03:59 +0000,أحمد جدو,Neutral,Male,858,25
 35239,Fri, 30 Nov 2007 01:30:02 +0000,Amira Al Hussaini,Male,Female,14,1
 35240,Fri, 30 Nov 2007 01:31:45 +0000,Amira Al Hussaini,Unknown,Female,12,1
 35241,Fri, 30 Nov 2007 01:33:58 +0000,Amira Al Hussaini,Male,Female,41,1
@@ -7526,6 +7616,7 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 35277,Fri, 30 Nov 2007 23:22:33 +0000,Amira Al Hussaini,Unknown,Female,11,1
 35279,Fri, 30 Nov 2007 23:25:03 +0000,Amira Al Hussaini,Unknown,Female,13,1
 35282,Fri, 30 Nov 2007 23:31:25 +0000,Amira Al Hussaini,Male,Female,20,1
+352821,Sat, 01 Sep 2012 16:44:42 +0000,Mohammed AlMaskati,Neutral,Male,678,24
 35283,Fri, 30 Nov 2007 23:32:56 +0000,Amira Al Hussaini,Unknown,Female,14,1
 35285,Fri, 30 Nov 2007 23:34:43 +0000,Amira Al Hussaini,Unknown,Female,34,1
 35289,Fri, 30 Nov 2007 23:42:28 +0000,Amira Al Hussaini,Unknown,Female,10,1
@@ -7534,9 +7625,15 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 35293,Fri, 30 Nov 2007 23:48:30 +0000,Amira Al Hussaini,Unknown,Female,42,1
 35294,Fri, 30 Nov 2007 23:54:40 +0000,Amira Al Hussaini,Unknown,Female,23,1
 35295,Fri, 30 Nov 2007 23:56:52 +0000,Amira Al Hussaini,Unknown,Female,19,1
+352981,Sat, 01 Sep 2012 16:18:32 +0000,Osama Khalid,Neutral,Male,523,24
+353059,Sat, 01 Sep 2012 17:15:57 +0000,Amira Al Hussaini,Unknown,Female,34,1
+353080,Sun, 02 Sep 2012 07:15:02 +0000,Mohammed Alamer,Unknown,Male,24,1
 35313,Sat, 01 Dec 2007 20:53:26 +0000,Tarek Amr,Neutral,Male,1336,51
+353135,Tue, 04 Sep 2012 09:57:16 +0000,Noon Arabia,Unknown,Female,28,1
+353136,Sun, 02 Sep 2012 10:49:51 +0000,Amira Al Hussaini,Unknown,Female,84,10
 35317,Sat, 01 Dec 2007 23:08:44 +0000,Eman AbdElRahman,Neutral,Female,362,28
 35318,Sat, 01 Dec 2007 22:44:18 +0000,Fred Petrossian,Female,Male,57,2
+353243,Tue, 04 Sep 2012 15:07:57 +0000,Mohammed Alamer,Unknown,Male,37,1
 35325,Sun, 02 Dec 2007 16:45:33 +0000,Amira Al Hussaini,Male,Female,43,1
 35326,Sun, 02 Dec 2007 16:47:48 +0000,Amira Al Hussaini,Neutral,Female,37,1
 35327,Sun, 02 Dec 2007 16:51:51 +0000,Amira Al Hussaini,Unknown,Female,29,1
@@ -7544,9 +7641,13 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 35329,Sun, 02 Dec 2007 16:56:26 +0000,Amira Al Hussaini,Unknown,Female,26,1
 35330,Sun, 02 Dec 2007 16:59:30 +0000,Amira Al Hussaini,Female,Female,30,1
 35331,Sun, 02 Dec 2007 17:01:20 +0000,Amira Al Hussaini,Neutral,Female,54,1
+353441,Tue, 04 Sep 2012 09:20:11 +0000,Noon Arabia,Neutral,Female,616,30
 35347,Mon, 03 Dec 2007 00:16:56 +0000,Fred Petrossian,Unknown,Male,60,3
 35349,Mon, 03 Dec 2007 00:50:13 +0000,Fred Petrossian,Unknown,Male,18,1
 3535,Sat, 05 Nov 2005 11:31:37 +0000,Haitham Sabbah,Unknown,Male,118,1
+353510,Mon, 03 Sep 2012 21:22:47 +0000,Amira Al Hussaini,Neutral,Female,341,35
+353559,Mon, 03 Sep 2012 22:18:20 +0000,Amira Al Hussaini,Neutral,Female,511,28
+353576,Mon, 03 Sep 2012 22:25:47 +0000,Amira Al Hussaini,Unknown,Female,59,3
 35358,Mon, 03 Dec 2007 04:44:31 +0000,Amira Al Hussaini,Unknown,Female,54,1
 35359,Mon, 03 Dec 2007 04:46:02 +0000,Amira Al Hussaini,Male,Female,13,1
 35360,Mon, 03 Dec 2007 04:48:33 +0000,Amira Al Hussaini,Female,Female,13,1
@@ -7557,6 +7658,7 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 35365,Mon, 03 Dec 2007 05:00:25 +0000,Amira Al Hussaini,Male,Female,16,1
 35366,Mon, 03 Dec 2007 05:04:03 +0000,Amira Al Hussaini,Unknown,Female,40,1
 35369,Mon, 03 Dec 2007 05:21:29 +0000,Amira Al Hussaini,Unknown,Female,80,1
+353696,Tue, 04 Sep 2012 11:14:49 +0000,Amira Al Hussaini,Neutral,Female,471,84
 3537,Sat, 05 Nov 2005 11:44:05 +0000,Haitham Sabbah,Neutral,Male,77,1
 35370,Mon, 03 Dec 2007 05:23:43 +0000,Amira Al Hussaini,Unknown,Female,61,1
 35371,Mon, 03 Dec 2007 05:26:35 +0000,Amira Al Hussaini,Unknown,Female,11,1
@@ -7566,46 +7668,76 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 35375,Mon, 03 Dec 2007 05:35:10 +0000,Amira Al Hussaini,Male,Female,23,1
 35376,Mon, 03 Dec 2007 05:37:33 +0000,Amira Al Hussaini,Unknown,Female,26,1
 3538,Sat, 05 Nov 2005 11:50:57 +0000,Haitham Sabbah,Unknown,Male,35,1
+353880,Wed, 05 Sep 2012 19:56:34 +0000,Tarek Amr,Neutral,Male,99,5
 3539,Sat, 05 Nov 2005 11:54:54 +0000,Haitham Sabbah,Unknown,Male,56,1
+353939,Wed, 05 Sep 2012 19:46:56 +0000,أحمد جدو,Male,Male,46,1
 35398,Mon, 03 Dec 2007 12:50:36 +0000,sami ben gharbia,Male,Unknown,53,1
+354015,Thu, 06 Sep 2012 15:23:12 +0000,Hamid Tehrani,Neutral,Male,660,23
+354064,Thu, 06 Sep 2012 11:16:32 +0000,Ola Anan,Male,Female,745,35
 3541,Sat, 05 Nov 2005 15:28:24 +0000,Roba Al Assi,Neutral,Unknown,251,11
 35413,Tue, 04 Dec 2007 02:33:38 +0000,Eman AbdElRahman,Neutral,Female,1152,18
 35415,Tue, 04 Dec 2007 17:21:41 +0000,Fred Petrossian,Neutral,Male,445,27
+354210,Fri, 07 Sep 2012 08:50:42 +0000,Noon Arabia,Neutral,Female,558,27
 35423,Tue, 04 Dec 2007 00:28:55 +0000,Georgia Popplewell,Neutral,Female,273,7
 35426,Tue, 04 Dec 2007 02:09:39 +0000,Amira Al Hussaini,Male,Female,33,1
 35427,Tue, 04 Dec 2007 02:14:41 +0000,Amira Al Hussaini,Unknown,Female,35,1
 3544,Sat, 05 Nov 2005 17:35:26 +0000,Haitham Sabbah,Unknown,Male,47,1
 35441,Thu, 06 Dec 2007 14:15:50 +0000,Gilad Lotan,Neutral,Male,586,22
+354492,Sat, 08 Sep 2012 08:19:30 +0000,Afef Abrougui,Unknown,Female,812,46
 35453,Tue, 04 Dec 2007 15:19:26 +0000,sami ben gharbia,Unknown,Unknown,21,1
 3546,Sat, 05 Nov 2005 23:06:48 +0000,Lisa N. Goldman,Neutral,Female,750,27
 35466,Tue, 04 Dec 2007 22:20:39 +0000,Fred Petrossian,Unknown,Male,12,1
 35467,Tue, 04 Dec 2007 22:28:22 +0000,Fred Petrossian,Neutral,Male,56,1
+354670,Fri, 07 Sep 2012 20:56:30 +0000,Amira Al Hussaini,Neutral,Female,546,37
+354677,Fri, 07 Sep 2012 21:04:20 +0000,Amira Al Hussaini,Male,Female,62,8
+354683,Fri, 07 Sep 2012 22:34:41 +0000,Amira Al Hussaini,Neutral,Female,421,60
 35470,Tue, 04 Dec 2007 23:22:25 +0000,Veronica Khokhlova,Unknown,Female,60,1
 35474,Tue, 04 Dec 2007 23:48:05 +0000,Amira Al Hussaini,Unknown,Female,16,1
+354744,Sat, 08 Sep 2012 08:40:36 +0000,Amira Al Hussaini,Female,Female,59,6
 35476,Tue, 04 Dec 2007 23:49:29 +0000,Amira Al Hussaini,Unknown,Female,9,1
+354766,Sat, 08 Sep 2012 12:22:18 +0000,Osama Khalid,Unknown,Male,712,28
 35478,Tue, 04 Dec 2007 23:51:40 +0000,Amira Al Hussaini,Female,Female,27,1
 35479,Tue, 04 Dec 2007 23:53:10 +0000,Amira Al Hussaini,Unknown,Female,14,1
 3548,Sun, 06 Nov 2005 12:29:33 +0000,Fred Petrossian,Unknown,Male,32,1
 35481,Tue, 04 Dec 2007 23:56:24 +0000,Amira Al Hussaini,Unknown,Female,38,1
 35482,Tue, 04 Dec 2007 23:59:14 +0000,Amira Al Hussaini,Unknown,Female,28,1
+354829,Sun, 09 Sep 2012 08:09:55 +0000,Claire Ulrich,Female,Female,65,3
 35485,Wed, 05 Dec 2007 00:44:02 +0000,Amira Al Hussaini,Unknown,Female,22,1
 35486,Wed, 05 Dec 2007 00:47:14 +0000,Amira Al Hussaini,Unknown,Female,38,1
 35487,Wed, 05 Dec 2007 00:49:42 +0000,Amira Al Hussaini,Unknown,Female,10,1
 35488,Wed, 05 Dec 2007 00:51:24 +0000,Amira Al Hussaini,Unknown,Female,12,1
 3549,Mon, 07 Nov 2005 18:25:06 +0000,Shaden Abdulrahman,Neutral,Female,1127,64
 35490,Wed, 05 Dec 2007 00:54:10 +0000,Amira Al Hussaini,Unknown,Female,57,1
+354947,Sun, 09 Sep 2012 10:02:14 +0000,Amira Al Hussaini,Neutral,Female,73,3
+354953,Sun, 09 Sep 2012 13:55:29 +0000,Elias Maki,Neutral,Male,787,34
 3550,Mon, 07 Nov 2005 09:23:38 +0000,Deborah Ann Dilley,Neutral,Female,472,17
+355047,Tue, 11 Sep 2012 09:21:41 +0000,Ahmed Awadalla,Neutral,Male,940,35
 3551,Mon, 07 Nov 2005 02:09:18 +0000,Paul Frankenstein,Unknown,Male,6,2
+355105,Mon, 10 Sep 2012 09:03:19 +0000,Amira Al Hussaini,Unknown,Female,40,1
+355135,Mon, 10 Sep 2012 09:51:03 +0000,Amira Al Hussaini,Neutral,Female,886,43
 35515,Wed, 05 Dec 2007 19:11:12 +0000,Amira Al Hussaini,Unknown,Female,31,1
+355150,Mon, 10 Sep 2012 10:35:06 +0000,Amira Al Hussaini,Female,Female,36,1
+355235,Tue, 11 Sep 2012 09:08:50 +0000,أحمد جدو,Unknown,Male,65,3
 35524,Wed, 05 Dec 2007 20:57:49 +0000,Tarek Amr,Neutral,Male,591,19
 35528,Wed, 05 Dec 2007 22:20:24 +0000,Amira Al Hussaini,Unknown,Female,42,1
 35529,Wed, 05 Dec 2007 22:27:39 +0000,Fred Petrossian,Unknown,Male,28,3
 35530,Wed, 05 Dec 2007 22:24:11 +0000,Amira Al Hussaini,Male,Female,40,1
 35531,Wed, 05 Dec 2007 22:34:38 +0000,Amira Al Hussaini,Unknown,Female,31,1
 35533,Wed, 05 Dec 2007 23:09:31 +0000,Fred Petrossian,Female,Male,46,1
+355342,Mon, 10 Sep 2012 18:10:14 +0000,Amira Al Hussaini,Neutral,Female,65,5
+355345,Mon, 10 Sep 2012 18:18:35 +0000,Amira Al Hussaini,Unknown,Female,62,4
 35542,Wed, 05 Dec 2007 23:32:19 +0000,Veronica Khokhlova,Unknown,Female,27,1
+355504,Wed, 19 Sep 2012 10:31:34 +0000,Thalia Rahme,Neutral,Female,609,37
+355540,Wed, 12 Sep 2012 06:17:14 +0000,Thalia Rahme,Unknown,Female,35,3
+355555,Wed, 12 Sep 2012 07:40:55 +0000,Ola Anan,Neutral,Female,890,47
+355652,Tue, 11 Sep 2012 23:35:53 +0000,Hamid Tehrani,Neutral,Male,298,17
+355729,Wed, 12 Sep 2012 06:46:56 +0000,Amira Al Hussaini,Unknown,Female,61,2
+355751,Wed, 12 Sep 2012 11:32:51 +0000,Amira Al Hussaini,Neutral,Female,714,39
+355773,Wed, 12 Sep 2012 11:51:24 +0000,Amira Al Hussaini,Female,Female,66,7
+355788,Wed, 12 Sep 2012 12:33:42 +0000,Amira Al Hussaini,Female,Female,52,3
 35580,Thu, 06 Dec 2007 18:44:21 +0000,Fred Petrossian,Unknown,Male,22,1
 35585,Thu, 06 Dec 2007 20:30:09 +0000,Fred Petrossian,Neutral,Male,55,1
+355856,Wed, 12 Sep 2012 21:14:00 +0000,7iber,Neutral,Unknown,842,57
 35586,Thu, 06 Dec 2007 23:09:05 +0000,D B Shobrawy,Neutral,Unknown,724,48
 35588,Thu, 06 Dec 2007 21:17:36 +0000,Fred Petrossian,Male,Male,36,2
 35592,Thu, 06 Dec 2007 22:55:13 +0000,Amira Al Hussaini,Unknown,Female,42,1
@@ -7614,14 +7746,22 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 35596,Thu, 06 Dec 2007 23:15:12 +0000,Amira Al Hussaini,Female,Female,28,1
 35603,Thu, 06 Dec 2007 23:40:23 +0000,Amira Al Hussaini,Male,Female,25,1
 35604,Fri, 07 Dec 2007 00:04:22 +0000,Amira Al Hussaini,Unknown,Female,16,1
+356092,Wed, 12 Sep 2012 21:48:51 +0000,Amira Al Hussaini,Neutral,Female,418,26
 35634,Thu, 27 Dec 2007 13:31:30 +0000,Oluniyi D. Ajao,Neutral,Male,854,26
 35641,Fri, 07 Dec 2007 16:49:38 +0000,Amira Al Hussaini,Unknown,Female,16,1
 3565,Mon, 07 Nov 2005 10:50:42 +0000,Fred Petrossian,Unknown,Male,40,1
 35653,Fri, 07 Dec 2007 22:59:11 +0000,Fred Petrossian,Male,Male,19,1
+356530,Fri, 14 Sep 2012 07:04:37 +0000,Hamid Tehrani,Unknown,Male,19,1
+356543,Fri, 14 Sep 2012 07:45:42 +0000,Hamid Tehrani,Unknown,Male,38,1
 3566,Mon, 07 Nov 2005 12:56:53 +0000,Haitham Sabbah,Unknown,Male,36,1
 35661,Thu, 10 Jan 2008 14:49:59 +0000,Tarek Amr,Neutral,Male,482,24
+356637,Sat, 15 Sep 2012 17:04:26 +0000,Hamid Tehrani,Neutral,Male,493,33
+356668,Fri, 14 Sep 2012 15:25:49 +0000,Lova Rakotomalala,Unknown,Male,72,2
 3567,Mon, 07 Nov 2005 12:56:55 +0000,Haitham Sabbah,Unknown,Male,25,1
+356739,Sat, 15 Sep 2012 07:27:17 +0000,Osama Khalid,Neutral,Male,369,30
 35676,Sat, 08 Dec 2007 15:30:02 +0000,sami ben gharbia,Unknown,Unknown,32,1
+356768,Fri, 14 Sep 2012 19:30:49 +0000,Onnik Krikorian,Unknown,Male,47,1
+356791,Sat, 15 Sep 2012 04:46:09 +0000,Donna Welles,Neutral,Female,736,24
 3568,Mon, 07 Nov 2005 13:14:42 +0000,Haitham Sabbah,Male,Male,31,1
 35680,Mon, 10 Dec 2007 01:49:15 +0000,Salam Adil,Neutral,Male,1592,53
 35685,Tue, 11 Dec 2007 12:31:58 +0000,Fred Petrossian,Unknown,Male,556,29
@@ -7631,10 +7771,16 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 35703,Sun, 09 Dec 2007 22:39:22 +0000,Fred Petrossian,Unknown,Male,13,1
 35706,Mon, 10 Dec 2007 00:52:32 +0000,Fred Petrossian,Unknown,Male,54,1
 35707,Mon, 10 Dec 2007 02:16:20 +0000,Amira Al Hussaini,Female,Female,16,1
+357173,Fri, 21 Sep 2012 10:02:33 +0000,Hamid Tehrani,Neutral,Male,801,23
+357194,Sat, 15 Sep 2012 22:08:28 +0000,Hamid Tehrani,Male,Male,75,1
 3572,Mon, 07 Nov 2005 14:06:56 +0000,Haitham Sabbah,Unknown,Male,39,1
 3573,Mon, 07 Nov 2005 14:12:52 +0000,Haitham Sabbah,Female,Male,49,1
+357391,Sun, 16 Sep 2012 18:20:39 +0000,Hamid Tehrani,Unknown,Male,17,1
+357394,Sun, 16 Sep 2012 18:58:06 +0000,Hamid Tehrani,Male,Male,33,1
+357410,Sun, 16 Sep 2012 21:19:36 +0000,Filip Stojanovski,Neutral,Male,110,5
 35759,Sat, 15 Dec 2007 20:14:34 +0000,Ayesha Saldanha,Neutral,Female,2191,99
 35760,Tue, 11 Dec 2007 19:38:55 +0000,Ayesha Saldanha,Neutral,Female,1242,60
+357607,Mon, 17 Sep 2012 20:20:07 +0000,Amira Al Hussaini,Neutral,Female,633,35
 35765,Mon, 10 Dec 2007 20:48:52 +0000,Amira Al Hussaini,Female,Female,23,1
 35766,Mon, 10 Dec 2007 20:53:31 +0000,Amira Al Hussaini,Male,Female,22,1
 35767,Mon, 10 Dec 2007 20:54:56 +0000,Amira Al Hussaini,Unknown,Female,10,1
@@ -7642,10 +7788,20 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 35769,Mon, 10 Dec 2007 21:01:14 +0000,Amira Al Hussaini,Unknown,Female,27,1
 3577,Mon, 07 Nov 2005 14:39:17 +0000,Fred Petrossian,Neutral,Male,35,1
 35770,Mon, 10 Dec 2007 21:35:27 +0000,Onnik Krikorian,Unknown,Male,28,1
+357730,Mon, 17 Sep 2012 22:26:16 +0000,Amira Al Hussaini,Neutral,Female,575,37
+357800,Tue, 18 Sep 2012 08:00:20 +0000,Amira Al Hussaini,Neutral,Female,94,6
+357953,Tue, 18 Sep 2012 21:46:21 +0000,Osama Khalid,Unknown,Male,382,23
 358,Tue, 12 Jul 2005 19:47:28 +0000,Paul Frankenstein,Unknown,Male,32,1
 35800,Thu, 13 Dec 2007 14:50:02 +0000,Fozia Mohamed,Neutral,Female,1237,37
+358122,Wed, 19 Sep 2012 16:11:32 +0000,Thalia Rahme,Male,Female,412,28
+358216,Wed, 19 Sep 2012 14:45:24 +0000,Lova Rakotomalala,Unknown,Male,94,1
+358223,Wed, 19 Sep 2012 14:57:17 +0000,Hamid Tehrani,Unknown,Male,36,1
+358240,Wed, 26 Sep 2012 13:32:51 +0000,Salah Ziad,Neutral,Male,947,40
+358256,Wed, 19 Sep 2012 16:28:38 +0000,Amira Al Hussaini,Male,Female,79,3
 35827,Tue, 11 Dec 2007 22:49:25 +0000,Amira Al Hussaini,Unknown,Female,13,1
+358281,Wed, 19 Sep 2012 16:46:49 +0000,Amira Al Hussaini,Unknown,Female,68,3
 35840,Wed, 12 Dec 2007 02:39:11 +0000,Amira Al Hussaini,Unknown,Female,9,1
+358402,Wed, 19 Sep 2012 23:35:44 +0000,Veronica Khokhlova,Unknown,Female,67,3
 35841,Wed, 12 Dec 2007 02:43:45 +0000,Amira Al Hussaini,Unknown,Female,11,1
 35842,Wed, 12 Dec 2007 02:46:30 +0000,Amira Al Hussaini,Unknown,Female,25,1
 35844,Wed, 12 Dec 2007 02:53:05 +0000,Amira Al Hussaini,Unknown,Female,15,1
@@ -7655,6 +7811,7 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 35877,Thu, 13 Dec 2007 16:32:44 +0000,Maya Norton,Neutral,Female,946,74
 3588,Mon, 07 Nov 2005 19:45:08 +0000,Haitham Sabbah,Neutral,Male,131,2
 35881,Fri, 14 Dec 2007 15:56:10 +0000,Jillian C. York,Neutral,Female,424,18
+358823,Tue, 16 Oct 2012 12:06:32 +0000,Thalia Rahme,Unknown,Female,1651,48
 35900,Thu, 13 Dec 2007 03:32:32 +0000,Amira Al Hussaini,Unknown,Female,32,1
 35901,Thu, 13 Dec 2007 03:34:05 +0000,Amira Al Hussaini,Unknown,Female,13,1
 35902,Thu, 13 Dec 2007 03:36:22 +0000,Amira Al Hussaini,Unknown,Female,35,1
@@ -7665,11 +7822,21 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 35907,Thu, 13 Dec 2007 04:08:05 +0000,Amira Al Hussaini,Unknown,Female,19,1
 3591,Tue, 08 Nov 2005 07:31:58 +0000,Haitham Sabbah,Unknown,Male,35,1
 35920,Thu, 13 Dec 2007 14:09:31 +0000,Gilad Lotan,Neutral,Male,744,25
+359283,Mon, 24 Sep 2012 17:29:27 +0000,Hamid Tehrani,Neutral,Male,617,35
+359338,Sun, 23 Sep 2012 17:21:09 +0000,Hamid Tehrani,Neutral,Male,60,1
+359394,Sun, 23 Sep 2012 21:30:35 +0000,Amira Al Hussaini,Neutral,Female,427,30
 35942,Thu, 13 Dec 2007 14:55:32 +0000,Amira Al Hussaini,Female,Female,16,1
+359426,Mon, 24 Sep 2012 07:51:17 +0000,Amira Al Hussaini,Male,Female,32,4
 35943,Thu, 13 Dec 2007 14:57:48 +0000,Amira Al Hussaini,Unknown,Female,24,1
+359444,Mon, 24 Sep 2012 08:00:40 +0000,Amira Al Hussaini,Unknown,Female,25,4
+359448,Mon, 24 Sep 2012 08:10:13 +0000,Amira Al Hussaini,Neutral,Female,76,4
+359568,Mon, 24 Sep 2012 17:42:11 +0000,Osama Khalid,Neutral,Male,486,24
+359711,Mon, 24 Sep 2012 21:02:38 +0000,Hamid Tehrani,Unknown,Male,436,19
+359727,Thu, 27 Sep 2012 23:21:14 +0000,ميّاسي,Neutral,Unknown,1003,27
 35988,Thu, 13 Dec 2007 23:26:46 +0000,Amira Al Hussaini,Unknown,Female,21,1
 35989,Thu, 13 Dec 2007 23:59:48 +0000,Amira Al Hussaini,Unknown,Female,31,1
 35991,Fri, 14 Dec 2007 02:12:55 +0000,Amira Al Hussaini,Male,Female,19,1
+359919,Tue, 25 Sep 2012 10:51:14 +0000,Amira Al Hussaini,Neutral,Female,458,55
 35992,Fri, 14 Dec 2007 02:39:54 +0000,Amira Al Hussaini,Unknown,Female,8,1
 35993,Fri, 14 Dec 2007 02:41:51 +0000,Amira Al Hussaini,Unknown,Female,17,1
 35994,Fri, 14 Dec 2007 02:45:23 +0000,Amira Al Hussaini,Unknown,Female,15,1
@@ -7677,12 +7844,23 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 35996,Mon, 17 Dec 2007 17:10:56 +0000,Amira Al Hussaini,Neutral,Female,1256,67
 3601,Tue, 08 Nov 2005 07:33:36 +0000,Karim Elsahy,Unknown,Male,25,1
 3602,Tue, 08 Nov 2005 07:33:43 +0000,Karim Elsahy,Unknown,Male,45,1
+360280,Thu, 27 Sep 2012 18:14:49 +0000,Hamid Tehrani,Male,Male,471,32
 3603,Tue, 08 Nov 2005 08:12:48 +0000,Fred Petrossian,Unknown,Male,48,1
+360358,Thu, 27 Sep 2012 10:46:21 +0000,Hamid Tehrani,Male,Male,37,4
 3604,Tue, 08 Nov 2005 11:49:46 +0000,Fred Petrossian,Neutral,Male,371,21
+360474,Fri, 28 Sep 2012 17:38:24 +0000,Ruwayda Mustafah,Neutral,Female,666,23
 36066,Sun, 23 Dec 2007 05:32:27 +0000,Lydia Beyoud,Neutral,Female,2000,31
+360847,Tue, 02 Oct 2012 12:09:43 +0000,Ruwayda Mustafah,Neutral,Female,686,25
+360976,Sun, 30 Sep 2012 09:41:28 +0000,Hamid Tehrani,Male,Male,31,1
+360981,Sat, 06 Oct 2012 15:42:37 +0000,Ruwayda Mustafah,Male,Female,607,17
 36099,Wed, 30 Nov -0001 00:00:00 +0000,Fred Petrossian,Neutral,Male,554,43
+361064,Mon, 01 Oct 2012 10:41:29 +0000,Richard Wanjohi,Male,Male,877,49
+361106,Mon, 01 Oct 2012 15:17:40 +0000,Juan Arellano,Male,Male,98,1
+361148,Tue, 02 Oct 2012 20:22:27 +0000,Noon Arabia,Neutral,Female,629,47
+361185,Mon, 01 Oct 2012 08:54:12 +0000,Hamid Tehrani,Unknown,Male,36,1
 36124,Mon, 17 Dec 2007 17:16:45 +0000,Amira Al Hussaini,Unknown,Female,15,1
 36125,Mon, 17 Dec 2007 17:21:19 +0000,Amira Al Hussaini,Unknown,Female,30,1
+361297,Mon, 01 Oct 2012 21:48:01 +0000,Amira Kotb,Neutral,Female,1013,43
 36133,Mon, 17 Dec 2007 21:02:56 +0000,Amira Al Hussaini,Male,Female,74,1
 36135,Mon, 17 Dec 2007 21:06:48 +0000,Amira Al Hussaini,Unknown,Female,17,1
 36137,Mon, 17 Dec 2007 21:31:07 +0000,Amira Al Hussaini,Unknown,Female,31,2
@@ -7692,6 +7870,7 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 36148,Tue, 18 Dec 2007 01:05:14 +0000,Amira Al Hussaini,Neutral,Female,55,1
 36150,Tue, 18 Dec 2007 01:51:43 +0000,Amira Al Hussaini,Unknown,Female,14,1
 36151,Tue, 18 Dec 2007 01:53:37 +0000,Amira Al Hussaini,Unknown,Female,48,1
+361513,Wed, 03 Oct 2012 17:48:56 +0000,Hamid Tehrani,Neutral,Male,507,25
 36152,Tue, 18 Dec 2007 01:56:49 +0000,Amira Al Hussaini,Unknown,Female,14,1
 36153,Tue, 18 Dec 2007 02:04:46 +0000,Amira Al Hussaini,Unknown,Female,13,1
 36154,Tue, 18 Dec 2007 02:12:32 +0000,Amira Al Hussaini,Male,Female,49,1
@@ -7699,16 +7878,34 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 36156,Tue, 18 Dec 2007 02:16:56 +0000,Amira Al Hussaini,Unknown,Female,42,1
 36167,Tue, 18 Dec 2007 11:13:26 +0000,Fred Petrossian,Unknown,Male,37,1
 3618,Wed, 09 Nov 2005 16:57:47 +0000,Deborah Ann Dilley,Neutral,Female,536,11
+361810,Wed, 03 Oct 2012 09:17:06 +0000,Lova Rakotomalala,Male,Male,61,1
+361815,Wed, 03 Oct 2012 11:30:58 +0000,Hamid Tehrani,Neutral,Male,339,21
 3619,Sun, 13 Nov 2005 09:16:02 +0000,Deborah Ann Dilley,Neutral,Female,437,20
+361943,Wed, 03 Oct 2012 19:05:52 +0000,Amira Al Hussaini,Neutral,Female,539,43
+361959,Wed, 03 Oct 2012 19:16:56 +0000,Amira Al Hussaini,Male,Female,50,1
+361972,Wed, 03 Oct 2012 19:53:03 +0000,Amira Al Hussaini,Unknown,Female,70,10
+361981,Wed, 03 Oct 2012 20:24:21 +0000,Amira Al Hussaini,Neutral,Female,224,51
+361986,Thu, 04 Oct 2012 06:49:22 +0000,Mona Kareem,Neutral,Female,536,31
 36214,Tue, 18 Dec 2007 21:23:07 +0000,Amira Al Hussaini,Unknown,Female,17,1
+362144,Thu, 04 Oct 2012 14:30:12 +0000,Hamid Tehrani,Unknown,Male,210,12
 36215,Tue, 18 Dec 2007 21:34:36 +0000,Amira Al Hussaini,Unknown,Female,60,1
 36216,Tue, 18 Dec 2007 21:39:26 +0000,Amira Al Hussaini,Neutral,Female,22,1
+362266,Sat, 06 Oct 2012 15:29:30 +0000,Ruwayda Mustafah,Unknown,Female,456,23
 36256,Wed, 19 Dec 2007 09:52:17 +0000,Jennifer Brea,Unknown,Female,28,1
 3626,Tue, 08 Nov 2005 19:44:39 +0000,Haitham Sabbah,Unknown,Male,64,1
+362673,Wed, 10 Oct 2012 10:03:02 +0000,رامي الهامس,Neutral,Male,1466,47
+362676,Sat, 06 Oct 2012 09:53:24 +0000,Hamid Tehrani,Unknown,Male,17,1
+362686,Sat, 06 Oct 2012 15:02:22 +0000,Osama Khalid,Neutral,Male,222,12
+362795,Sat, 06 Oct 2012 20:49:50 +0000,Hamid Tehrani,Unknown,Male,22,1
 36281,Wed, 19 Dec 2007 14:28:34 +0000,Fred Petrossian,Unknown,Male,46,1
+362839,Sun, 07 Oct 2012 08:59:47 +0000,Amira Al Hussaini,Female,Female,47,3
 36285,Wed, 19 Dec 2007 18:43:50 +0000,Jillian C. York,Neutral,Female,674,32
+362927,Sun, 07 Oct 2012 21:14:49 +0000,Hamid Tehrani,Unknown,Male,47,1
 36309,Thu, 20 Dec 2007 00:12:19 +0000,Veronica Khokhlova,Female,Female,104,1
 36315,Fri, 28 Dec 2007 16:36:15 +0000,Lydia Beyoud,Neutral,Female,2174,69
+363161,Wed, 31 Oct 2012 08:06:04 +0000,Rami Alhames,Male,Male,634,32
+363241,Mon, 08 Oct 2012 16:23:21 +0000,Amira Al Hussaini,Unknown,Female,89,8
+363248,Mon, 08 Oct 2012 17:41:17 +0000,Amira Al Hussaini,Neutral,Female,508,31
 36343,Thu, 20 Dec 2007 16:54:56 +0000,Amira Al Hussaini,Neutral,Female,889,59
 36347,Thu, 20 Dec 2007 16:12:52 +0000,Fred Petrossian,Unknown,Male,42,1
 36349,Thu, 20 Dec 2007 16:57:49 +0000,Amira Al Hussaini,Unknown,Female,16,1
@@ -7716,21 +7913,28 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 36351,Thu, 20 Dec 2007 17:01:44 +0000,Amira Al Hussaini,Male,Female,12,1
 36352,Thu, 20 Dec 2007 17:58:38 +0000,Amira Al Hussaini,Male,Female,16,1
 36353,Thu, 20 Dec 2007 18:02:04 +0000,Amira Al Hussaini,Unknown,Female,17,1
+363537,Tue, 09 Oct 2012 19:43:10 +0000,Hamid Tehrani,Unknown,Male,38,1
 36354,Thu, 20 Dec 2007 18:17:27 +0000,Amira Al Hussaini,Unknown,Female,48,1
+363547,Tue, 09 Oct 2012 20:58:08 +0000,Amira Al Hussaini,Neutral,Female,575,93
 36355,Thu, 20 Dec 2007 18:19:47 +0000,Amira Al Hussaini,Unknown,Female,23,1
+363556,Tue, 09 Oct 2012 21:03:37 +0000,Amira Al Hussaini,Unknown,Female,32,2
+363558,Wed, 10 Oct 2012 09:31:52 +0000,Suzanne Lehn,Unknown,Female,108,1
 36356,Thu, 20 Dec 2007 18:21:52 +0000,Amira Al Hussaini,Unknown,Female,16,1
 36357,Thu, 20 Dec 2007 18:23:48 +0000,Amira Al Hussaini,Male,Female,15,1
 36358,Thu, 20 Dec 2007 18:25:53 +0000,Amira Al Hussaini,Female,Female,15,1
 36359,Thu, 20 Dec 2007 18:27:34 +0000,Amira Al Hussaini,Unknown,Female,19,1
 36369,Fri, 21 Dec 2007 02:21:21 +0000,Amira Al Hussaini,Unknown,Female,9,1
+363696,Tue, 16 Oct 2012 16:49:18 +0000,Ahmed Awadalla,Neutral,Male,1112,68
 3638,Wed, 09 Nov 2005 11:18:53 +0000,Haitham Sabbah,Unknown,Male,42,1
 3639,Wed, 09 Nov 2005 11:57:22 +0000,Haitham Sabbah,Unknown,Male,23,1
 36390,Fri, 21 Dec 2007 15:20:56 +0000,Ayesha Saldanha,Neutral,Female,1380,69
 36391,Fri, 21 Dec 2007 11:15:16 +0000,Fred Petrossian,Unknown,Male,23,1
+363949,Fri, 12 Oct 2012 12:28:29 +0000,Osama Khalid,Unknown,Male,652,42
 36398,Sun, 23 Dec 2007 14:46:08 +0000,Ayesha Saldanha,Neutral,Female,2015,84
 3640,Wed, 09 Nov 2005 12:02:30 +0000,Fred Petrossian,Neutral,Male,61,1
 3642,Wed, 09 Nov 2005 12:43:44 +0000,Haitham Sabbah,Unknown,Male,71,1
 36422,Sat, 22 Dec 2007 15:14:35 +0000,Amira Al Hussaini,Unknown,Female,32,1
+364256,Fri, 12 Oct 2012 16:45:06 +0000,Amira Al Hussaini,Unknown,Female,69,12
 36428,Sun, 23 Dec 2007 01:30:33 +0000,Amira Al Hussaini,Male,Female,28,1
 36429,Sun, 23 Dec 2007 01:55:28 +0000,Amira Al Hussaini,Unknown,Female,20,1
 36430,Sun, 23 Dec 2007 01:56:42 +0000,Amira Al Hussaini,Unknown,Female,14,1
@@ -7740,11 +7944,16 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 36434,Sun, 23 Dec 2007 02:05:35 +0000,Amira Al Hussaini,Neutral,Female,81,1
 36435,Sun, 23 Dec 2007 02:07:09 +0000,Amira Al Hussaini,Unknown,Female,11,1
 36437,Sun, 23 Dec 2007 04:32:34 +0000,Amira Al Hussaini,Male,Female,1023,51
+364393,Fri, 30 Nov 2012 17:15:45 +0000,أحمد جدو,Unknown,Male,114,5
 3644,Wed, 09 Nov 2005 12:55:14 +0000,Haitham Sabbah,Unknown,Male,44,1
+364467,Sun, 14 Oct 2012 15:49:17 +0000,Osama Khalid,Neutral,Male,364,14
+364515,Sat, 13 Oct 2012 20:04:04 +0000,Lova Rakotomalala,Unknown,Male,80,1
 36459,Tue, 25 Dec 2007 04:24:56 +0000,Tarek Amr,Neutral,Male,378,24
 36469,Mon, 24 Dec 2007 09:35:46 +0000,Onnik Krikorian,Unknown,Male,72,1
+364745,Fri, 19 Oct 2012 08:36:47 +0000,Suzanne Lehn,Neutral,Female,1211,72
 36483,Mon, 24 Dec 2007 13:06:33 +0000,Fred Petrossian,Unknown,Male,39,1
 36484,Mon, 24 Dec 2007 13:18:17 +0000,Fred Petrossian,Male,Male,37,1
+364981,Mon, 15 Oct 2012 13:31:38 +0000,Lova Rakotomalala,Male,Male,85,2
 3650,Wed, 09 Nov 2005 15:19:38 +0000,Ethan Zuckerman,Male,Male,1021,24
 36506,Tue, 25 Dec 2007 03:56:38 +0000,Amira Al Hussaini,Female,Female,15,1
 36512,Tue, 25 Dec 2007 13:37:24 +0000,Amira Al Hussaini,Unknown,Female,29,1
@@ -7754,10 +7963,15 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 36516,Tue, 25 Dec 2007 13:53:57 +0000,Amira Al Hussaini,Male,Female,14,1
 36517,Tue, 25 Dec 2007 13:56:48 +0000,Amira Al Hussaini,Unknown,Female,12,1
 36518,Tue, 25 Dec 2007 14:01:29 +0000,Amira Al Hussaini,Unknown,Female,13,1
+365273,Wed, 31 Oct 2012 08:51:27 +0000,Juan Arellano,Neutral,Male,952,35
 36528,Tue, 25 Dec 2007 23:02:14 +0000,Amira Al Hussaini,Unknown,Female,17,1
 36529,Tue, 25 Dec 2007 23:05:05 +0000,Amira Al Hussaini,Female,Female,34,1
 3653,Wed, 09 Nov 2005 16:03:05 +0000,Sokari Ekine,Neutral,Female,48,1
+365334,Tue, 16 Oct 2012 17:08:43 +0000,Amira Al Hussaini,Neutral,Female,108,6
+365361,Fri, 26 Oct 2012 14:25:22 +0000,أحمد جدو,Male,Male,737,41
+365387,Wed, 17 Oct 2012 06:06:50 +0000,Ruwayda Mustafah,Unknown,Female,472,15
 36542,Wed, 26 Dec 2007 00:41:38 +0000,Veronica Khokhlova,Unknown,Female,19,1
+365447,Wed, 17 Oct 2012 08:29:10 +0000,Noon Arabia,Neutral,Female,860,50
 36557,Wed, 26 Dec 2007 08:21:58 +0000,sami ben gharbia,Male,Unknown,504,24
 36562,Wed, 26 Dec 2007 14:20:45 +0000,Fred Petrossian,Unknown,Male,44,1
 36569,Wed, 26 Dec 2007 19:17:11 +0000,Onnik Krikorian,Male,Male,73,1
@@ -7765,17 +7979,31 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 36593,Thu, 27 Dec 2007 04:00:58 +0000,Amira Al Hussaini,Unknown,Female,11,1
 36594,Thu, 27 Dec 2007 06:23:28 +0000,Amira Al Hussaini,Neutral,Female,797,63
 36603,Thu, 27 Dec 2007 13:47:49 +0000,Fred Petrossian,Unknown,Male,25,1
+366031,Fri, 19 Oct 2012 14:35:29 +0000,Davide Galati,Neutral,Unknown,134,1
+366274,Sat, 20 Oct 2012 20:25:41 +0000,Amira Al Hussaini,Unknown,Female,52,6
+366276,Sat, 20 Oct 2012 20:46:42 +0000,Amira Al Hussaini,Neutral,Female,320,75
+366281,Sat, 20 Oct 2012 21:29:01 +0000,Amira Al Hussaini,Neutral,Female,491,76
+366337,Sun, 21 Oct 2012 11:01:57 +0000,Amira Al Hussaini,Male,Female,72,9
+366351,Sun, 21 Oct 2012 16:32:41 +0000,Ruwayda Mustafah,Unknown,Female,428,30
 36643,Fri, 28 Dec 2007 15:28:46 +0000,Jillian C. York,Neutral,Female,1553,105
+366648,Tue, 23 Oct 2012 08:05:48 +0000,Mona Kareem,Neutral,Female,555,37
+366670,Tue, 23 Oct 2012 06:31:53 +0000,محمد عادل,Unknown,Male,91,8
 3667,Thu, 10 Nov 2005 02:37:50 +0000,Roba Al Assi,Neutral,Unknown,874,67
 36679,Mon, 31 Dec 2007 06:04:45 +0000,Ayesha Saldanha,Neutral,Female,2206,74
 36681,Fri, 28 Dec 2007 14:16:09 +0000,Fred Petrossian,Unknown,Male,31,1
+366838,Tue, 23 Oct 2012 09:17:03 +0000,Amira Al Hussaini,Neutral,Female,67,8
 36685,Sat, 29 Dec 2007 21:13:09 +0000,Tarek Amr,Neutral,Male,1289,78
+366851,Wed, 24 Oct 2012 10:34:00 +0000,Amira Al Hussaini,Neutral,Female,338,55
 36688,Mon, 07 Jan 2008 13:10:54 +0000,Fozia Mohamed,Neutral,Female,1171,27
 36693,Sat, 29 Dec 2007 20:47:53 +0000,Mohammad Azraq,Neutral,Male,1320,48
 36697,Sat, 29 Dec 2007 00:07:17 +0000,Jennifer Brea,Male,Female,58,3
+366973,Wed, 30 Nov -0001 00:00:00 +0000,Super Sub-Editor,Neutral,Unknown,571,35
 367,Tue, 12 Jul 2005 22:27:13 +0000,Paul Frankenstein,Unknown,Male,30,1
+367068,Tue, 23 Oct 2012 21:16:44 +0000,Amira Al Hussaini,Neutral,Female,358,76
+367094,Tue, 23 Oct 2012 21:33:52 +0000,Amira Al Hussaini,Neutral,Female,481,69
 36734,Mon, 31 Dec 2007 06:09:02 +0000,Tarek Amr,Neutral,Male,75,1
 36753,Sun, 30 Dec 2007 15:11:50 +0000,Janine Mendes-Franco,Male,Female,42,1
+367627,Fri, 26 Oct 2012 16:52:06 +0000,Elizabeth Tsurkov,Male,Female,476,35
 36784,Mon, 31 Dec 2007 09:45:43 +0000,Onnik Krikorian,Neutral,Male,2643,88
 368,Tue, 12 Jul 2005 22:30:42 +0000,Paul Frankenstein,Neutral,Male,45,1
 36800,Thu, 03 Jan 2008 14:36:04 +0000,Jillian C. York,Neutral,Female,554,24
@@ -7787,24 +8015,34 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 36807,Mon, 31 Dec 2007 22:46:38 +0000,Amira Al Hussaini,Male,Female,16,1
 36808,Mon, 31 Dec 2007 23:26:11 +0000,Amira Al Hussaini,Female,Female,751,41
 36810,Tue, 01 Jan 2008 13:11:48 +0000,sami ben gharbia,Unknown,Unknown,37,1
+368161,Sun, 09 Sep 2012 14:43:55 +0000,الدد ولد الشيخ إبراهيم,Neutral,Unknown,450,24
+368239,Mon, 29 Oct 2012 23:35:25 +0000,Arseh Sevom,Neutral,Unknown,946,31
+368283,Wed, 31 Oct 2012 21:30:40 +0000,Veronica Khokhlova,Neutral,Female,1701,107
+368352,Wed, 30 Nov -0001 00:00:00 +0000,Super Sub-Editor,Unknown,Unknown,58,3
 36848,Thu, 03 Jan 2008 20:05:26 +0000,Abdurahman Warsame,Unknown,Male,88,3
 3685,Thu, 10 Nov 2005 10:55:59 +0000,Ahmed Al-Omran,Neutral,Male,494,7
 36870,Thu, 03 Jan 2008 14:43:23 +0000,Yazan Badran,Neutral,Male,448,17
+368719,Tue, 30 Oct 2012 13:05:23 +0000,Hooman Askary,Unknown,Unknown,30,1
 36877,Fri, 04 Jan 2008 14:49:18 +0000,Gilad Lotan,Neutral,Male,736,25
 36884,Thu, 03 Jan 2008 14:25:38 +0000,sami ben gharbia,Male,Unknown,52,1
 36887,Thu, 03 Jan 2008 14:49:49 +0000,Amira Al Hussaini,Neutral,Female,52,1
+368875,Wed, 30 Nov -0001 00:00:00 +0000,Hooman Askary,Male,Unknown,136,5
 36894,Thu, 03 Jan 2008 16:42:57 +0000,Onnik Krikorian,Male,Male,57,1
 36899,Thu, 03 Jan 2008 17:53:36 +0000,Amira Al Hussaini,Female,Female,11,1
 36900,Fri, 04 Jan 2008 22:42:47 +0000,Jillian C. York,Neutral,Female,554,35
 36902,Thu, 03 Jan 2008 18:22:28 +0000,Amira Al Hussaini,Unknown,Female,25,1
 36903,Thu, 03 Jan 2008 18:30:16 +0000,Amira Al Hussaini,Unknown,Female,48,1
 36906,Thu, 03 Jan 2008 18:35:50 +0000,Amira Al Hussaini,Unknown,Female,27,1
+369093,Wed, 31 Oct 2012 17:14:48 +0000,Amira Al Hussaini,Neutral,Female,981,95
 36912,Thu, 03 Jan 2008 21:36:43 +0000,Amira Al Hussaini,Neutral,Female,818,70
 36914,Thu, 03 Jan 2008 22:14:33 +0000,Amira Al Hussaini,Unknown,Female,21,1
 36915,Thu, 03 Jan 2008 22:16:57 +0000,Amira Al Hussaini,Unknown,Female,19,1
 36916,Thu, 03 Jan 2008 22:21:10 +0000,Amira Al Hussaini,Male,Female,56,1
+369213,Thu, 01 Nov 2012 09:58:27 +0000,Amira Al Hussaini,Unknown,Female,680,110
+369236,Thu, 01 Nov 2012 11:39:19 +0000,Amira Al Hussaini,Male,Female,71,5
 36956,Fri, 04 Jan 2008 15:56:18 +0000,Amira Al Hussaini,Unknown,Female,16,1
 36957,Fri, 04 Jan 2008 15:59:01 +0000,Amira Al Hussaini,Unknown,Female,12,1
+369579,Fri, 02 Nov 2012 20:37:27 +0000,Afef Abrougui,Neutral,Female,948,71
 36958,Fri, 04 Jan 2008 16:00:30 +0000,Amira Al Hussaini,Male,Female,25,1
 36959,Fri, 04 Jan 2008 16:02:55 +0000,Amira Al Hussaini,Unknown,Female,9,1
 36960,Fri, 04 Jan 2008 16:05:30 +0000,Amira Al Hussaini,Female,Female,14,1
@@ -7812,9 +8050,13 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 36962,Fri, 04 Jan 2008 16:12:21 +0000,Amira Al Hussaini,Unknown,Female,17,1
 36963,Fri, 04 Jan 2008 22:15:48 +0000,Solana Larsen,Unknown,Female,750,37
 36964,Fri, 04 Jan 2008 17:25:49 +0000,Amira Al Hussaini,Unknown,Female,20,1
+369647,Fri, 02 Nov 2012 15:45:27 +0000,Lova Rakotomalala,Male,Male,99,2
+369667,Fri, 02 Nov 2012 16:41:00 +0000,Lova Rakotomalala,Unknown,Male,91,4
 36972,Fri, 04 Jan 2008 22:46:04 +0000,Ayesha Saldanha,Neutral,Female,1966,58
 370,Tue, 12 Jul 2005 22:39:08 +0000,Paul Frankenstein,Unknown,Male,21,1
 3700,Fri, 11 Nov 2005 14:27:20 +0000,Karim Elsahy,Male,Male,173,11
+370018,Sun, 04 Nov 2012 14:28:30 +0000,Rayna St.,Unknown,Female,111,7
+370051,Mon, 05 Nov 2012 08:06:41 +0000,Ruwayda Mustafah,Neutral,Female,491,42
 37006,Sat, 05 Jan 2008 18:08:41 +0000,Amira Al Hussaini,Unknown,Female,36,1
 37007,Sat, 05 Jan 2008 18:11:05 +0000,Amira Al Hussaini,Unknown,Female,17,1
 37008,Sat, 05 Jan 2008 18:13:06 +0000,Amira Al Hussaini,Unknown,Female,21,1
@@ -7825,26 +8067,37 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 37018,Sat, 05 Jan 2008 23:15:06 +0000,Fred Petrossian,Unknown,Male,17,1
 3702,Thu, 10 Nov 2005 18:11:08 +0000,Haitham Sabbah,Neutral,Male,80,1
 37021,Sun, 06 Jan 2008 10:56:59 +0000,Fred Petrossian,Unknown,Male,24,1
+370246,Tue, 06 Nov 2012 08:57:27 +0000,Noon Arabia,Unknown,Female,47,5
+370288,Mon, 05 Nov 2012 13:00:49 +0000,Amira Al Hussaini,Neutral,Female,719,103
 3703,Thu, 10 Nov 2005 18:17:43 +0000,Haitham Sabbah,Neutral,Male,63,1
 37032,Sun, 06 Jan 2008 22:21:27 +0000,Fred Petrossian,Unknown,Male,37,1
+370329,Mon, 05 Nov 2012 16:44:03 +0000,Amira Al Hussaini,Unknown,Female,48,4
 37034,Sun, 06 Jan 2008 23:54:05 +0000,Fred Petrossian,Unknown,Male,20,1
 3704,Thu, 10 Nov 2005 18:53:08 +0000,Haitham Sabbah,Unknown,Male,43,1
+370406,Tue, 06 Nov 2012 08:52:21 +0000,Mona Kareem,Neutral,Female,1193,80
 3705,Thu, 10 Nov 2005 19:28:56 +0000,Haitham Sabbah,Unknown,Male,13,1
 3706,Thu, 10 Nov 2005 19:41:55 +0000,Haitham Sabbah,Unknown,Male,44,1
+370666,Wed, 30 Nov -0001 00:00:00 +0000,Blend Hamza,Unknown,Unknown,313,9
 37070,Mon, 07 Jan 2008 16:03:25 +0000,Amira Al Hussaini,Unknown,Female,16,1
 37071,Mon, 07 Jan 2008 16:10:50 +0000,Amira Al Hussaini,Unknown,Female,11,1
 37073,Mon, 07 Jan 2008 21:52:18 +0000,Jillian C. York,Neutral,Female,549,28
+370796,Sat, 10 Nov 2012 17:01:40 +0000,Noon Arabia,Neutral,Female,248,15
 37087,Mon, 07 Jan 2008 21:05:36 +0000,Amira Al Hussaini,Male,Female,56,1
 37089,Mon, 07 Jan 2008 22:50:08 +0000,Fred Petrossian,Neutral,Male,64,1
 3709,Thu, 10 Nov 2005 21:01:51 +0000,Roba Al Assi,Neutral,Unknown,975,28
 37094,Mon, 07 Jan 2008 22:56:15 +0000,Fred Petrossian,Unknown,Male,22,1
+370983,Wed, 07 Nov 2012 16:31:08 +0000,Amira Al Hussaini,Unknown,Female,353,57
 37102,Tue, 08 Jan 2008 00:19:43 +0000,Amira Al Hussaini,Unknown,Female,20,1
 37103,Tue, 08 Jan 2008 00:50:52 +0000,Amira Al Hussaini,Female,Female,20,1
 37105,Tue, 08 Jan 2008 00:55:12 +0000,Amira Al Hussaini,Male,Female,44,1
+371105,Thu, 08 Nov 2012 10:06:34 +0000,Noon Arabia,Neutral,Female,595,26
+371146,Tue, 20 Nov 2012 08:29:47 +0000,Hooman Askary,Male,Unknown,729,38
+371150,Mon, 12 Nov 2012 22:27:20 +0000,Hooman Askary,Neutral,Unknown,518,24
 37125,Tue, 08 Jan 2008 12:59:22 +0000,Amira Al Hussaini,Unknown,Female,15,1
 37126,Tue, 08 Jan 2008 13:07:02 +0000,Amira Al Hussaini,Unknown,Female,35,1
 37127,Tue, 08 Jan 2008 13:09:33 +0000,Amira Al Hussaini,Male,Female,15,1
 37128,Tue, 08 Jan 2008 13:17:35 +0000,Amira Al Hussaini,Unknown,Female,14,1
+371293,Tue, 13 Nov 2012 09:46:16 +0000,Amira Al Hussaini,Neutral,Female,557,86
 37132,Tue, 08 Jan 2008 13:39:33 +0000,Amira Al Hussaini,Male,Female,21,1
 37133,Tue, 08 Jan 2008 13:42:04 +0000,Amira Al Hussaini,Unknown,Female,17,1
 37134,Tue, 08 Jan 2008 13:44:33 +0000,Amira Al Hussaini,Unknown,Female,25,1
@@ -7858,7 +8111,10 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 37163,Tue, 08 Jan 2008 20:18:35 +0000,Amira Al Hussaini,Unknown,Female,15,1
 37165,Tue, 08 Jan 2008 20:23:28 +0000,Amira Al Hussaini,Unknown,Female,11,1
 37166,Tue, 08 Jan 2008 20:25:30 +0000,Amira Al Hussaini,Unknown,Female,21,1
+371801,Sat, 10 Nov 2012 16:50:37 +0000,Osama Khalid,Neutral,Male,569,20
+371878,Sun, 11 Nov 2012 15:36:07 +0000,Elizabeth Tsurkov,Neutral,Female,1278,30
 37195,Wed, 09 Jan 2008 14:38:28 +0000,Maya Norton,Neutral,Female,851,60
+372047,Sun, 11 Nov 2012 20:25:46 +0000,Maha Elsanosi,Neutral,Female,706,68
 37212,Wed, 09 Jan 2008 18:41:45 +0000,Amira Al Hussaini,Unknown,Female,60,1
 37213,Wed, 09 Jan 2008 18:45:26 +0000,Amira Al Hussaini,Unknown,Female,25,1
 37214,Wed, 09 Jan 2008 18:49:48 +0000,Amira Al Hussaini,Unknown,Female,19,1
@@ -7871,28 +8127,64 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 37260,Thu, 10 Jan 2008 16:48:07 +0000,Amira Al Hussaini,Unknown,Female,11,3
 37261,Thu, 10 Jan 2008 16:51:01 +0000,Amira Al Hussaini,Unknown,Female,21,1
 37264,Thu, 10 Jan 2008 19:16:09 +0000,Fred Petrossian,Unknown,Male,32,1
+372656,Sun, 09 Dec 2012 17:18:31 +0000,algerianna,Neutral,Unknown,2371,96
+372688,Sat, 24 Nov 2012 16:25:46 +0000,أحمد جدو,Neutral,Male,1224,45
 37269,Thu, 10 Jan 2008 21:11:08 +0000,Amira Al Hussaini,Unknown,Female,41,1
 37271,Thu, 10 Jan 2008 22:30:50 +0000,Fred Petrossian,Unknown,Male,391,24
 37273,Mon, 14 Jan 2008 00:59:20 +0000,Tarek Amr,Neutral,Male,7160,199
+372851,Wed, 14 Nov 2012 13:05:56 +0000,Amira Al Hussaini,Neutral,Female,604,47
 37287,Fri, 11 Jan 2008 20:59:25 +0000,Jillian C. York,Unknown,Female,376,30
+372951,Wed, 14 Nov 2012 20:37:44 +0000,Amira Al Hussaini,Male,Female,96,4
+372960,Wed, 14 Nov 2012 20:49:06 +0000,Amira Al Hussaini,Unknown,Female,117,23
+372977,Wed, 14 Nov 2012 21:06:35 +0000,Amira Al Hussaini,Male,Female,85,9
+372985,Wed, 14 Nov 2012 21:17:03 +0000,Amira Al Hussaini,Male,Female,90,11
+373068,Thu, 15 Nov 2012 07:15:32 +0000,Amira Al Hussaini,Unknown,Female,41,1
+373080,Thu, 15 Nov 2012 09:11:41 +0000,Amira Al Hussaini,Neutral,Female,352,68
+373104,Thu, 15 Nov 2012 16:08:06 +0000,Elizabeth Tsurkov,Neutral,Female,1845,70
+373160,Thu, 15 Nov 2012 14:47:01 +0000,Amira Al Hussaini,Unknown,Female,39,8
+373169,Thu, 15 Nov 2012 15:50:00 +0000,Amira Al Hussaini,Neutral,Female,552,49
+373208,Wed, 12 Sep 2012 20:29:23 +0000,أحمد جدو,Neutral,Male,1406,50
+373227,Fri, 16 Nov 2012 02:03:59 +0000,Arseh Sevom,Neutral,Unknown,714,25
+373260,Thu, 15 Nov 2012 19:56:40 +0000,Amira Al Hussaini,Unknown,Female,17,1
+373276,Tue, 20 Nov 2012 03:38:25 +0000,Yusur Al-Bahrani,Male,Unknown,239,15
+373375,Thu, 22 Nov 2012 07:21:57 +0000,أحمد جدو,Neutral,Male,1217,44
 37342,Fri, 11 Jan 2008 21:12:41 +0000,Amira Al Hussaini,Unknown,Female,12,1
 37345,Wed, 16 Jan 2008 21:04:15 +0000,Amira Al Hussaini,Neutral,Female,2378,72
+373480,Fri, 16 Nov 2012 20:15:58 +0000,Amira Al Hussaini,Female,Female,528,119
+373489,Fri, 16 Nov 2012 22:06:41 +0000,Amira Al Hussaini,Neutral,Female,522,37
 3735,Fri, 11 Nov 2005 15:08:59 +0000,Fred Petrossian,Male,Male,49,1
+373557,Sat, 17 Nov 2012 19:24:34 +0000,Osama Khalid,Unknown,Male,382,16
 37358,Wed, 16 Jan 2008 22:28:29 +0000,Mohammad Azraq,Neutral,Male,1005,45
+373583,Sun, 18 Nov 2012 08:42:32 +0000,Ruwayda Mustafah,Neutral,Female,576,22
 3736,Fri, 11 Nov 2005 15:51:02 +0000,Fred Petrossian,Unknown,Male,41,1
+373612,Sat, 17 Nov 2012 19:39:14 +0000,Amira Al Hussaini,Unknown,Female,72,5
+373626,Sat, 17 Nov 2012 20:11:20 +0000,Amira Al Hussaini,Neutral,Female,296,61
 37363,Sun, 13 Jan 2008 17:33:22 +0000,Tarek Amr,Unknown,Male,330,15
 37365,Sun, 13 Jan 2008 10:06:17 +0000,Fred Petrossian,Unknown,Male,30,1
 37366,Sun, 13 Jan 2008 10:19:52 +0000,Fred Petrossian,Male,Male,43,1
 37367,Sun, 13 Jan 2008 10:27:07 +0000,Fred Petrossian,Unknown,Male,35,1
 37368,Sun, 13 Jan 2008 10:33:54 +0000,Fred Petrossian,Unknown,Male,14,1
+373721,Sun, 18 Nov 2012 19:55:02 +0000,Gilad Lotan,Neutral,Male,598,32
+373724,Sun, 18 Nov 2012 20:37:00 +0000,أحمد جدو,Unknown,Male,117,8
+373743,Sun, 18 Nov 2012 08:51:21 +0000,Amira Al Hussaini,Unknown,Female,75,11
+373760,Sun, 18 Nov 2012 13:04:50 +0000,Gilad Lotan,Neutral,Male,456,33
 37378,Sun, 13 Jan 2008 23:47:37 +0000,Ayesha Saldanha,Neutral,Female,1202,54
+373825,Sun, 18 Nov 2012 20:24:32 +0000,Amira Al Hussaini,Neutral,Female,396,75
+373837,Sun, 18 Nov 2012 21:44:04 +0000,Jillian York,Unknown,Female,636,39
+373842,Sun, 18 Nov 2012 21:33:26 +0000,Amira Al Hussaini,Neutral,Female,603,42
+373855,Sun, 18 Nov 2012 22:21:21 +0000,Amira Al Hussaini,Unknown,Female,83,9
 37386,Mon, 14 Jan 2008 16:13:16 +0000,Salam Adil,Neutral,Male,1248,65
+373958,Tue, 27 Nov 2012 20:58:37 +0000,Rami Alhames,Neutral,Male,692,41
+374017,Tue, 20 Nov 2012 10:38:46 +0000,Afef Abrougui,Neutral,Female,460,16
 37428,Mon, 14 Jan 2008 19:20:48 +0000,Juliana Rincón Parra,Neutral,Female,342,14
 37430,Mon, 14 Jan 2008 19:14:14 +0000,Amira Al Hussaini,Unknown,Female,12,1
 37431,Mon, 14 Jan 2008 19:19:34 +0000,Amira Al Hussaini,Female,Female,11,1
 37432,Mon, 14 Jan 2008 19:22:55 +0000,Amira Al Hussaini,Unknown,Female,12,1
 37433,Mon, 14 Jan 2008 19:24:26 +0000,Amira Al Hussaini,Unknown,Female,13,1
+374337,Tue, 20 Nov 2012 15:52:46 +0000,Amira Al Hussaini,Unknown,Female,261,63
 37438,Mon, 14 Jan 2008 20:59:35 +0000,sami ben gharbia,Neutral,Unknown,440,25
+374421,Wed, 21 Nov 2012 21:52:42 +0000,Gilad Lotan,Neutral,Male,494,78
+374511,Wed, 21 Nov 2012 21:35:57 +0000,Amira Al Hussaini,Neutral,Female,862,149
 37452,Mon, 14 Jan 2008 23:43:55 +0000,Amira Al Hussaini,Unknown,Female,16,1
 37453,Mon, 14 Jan 2008 23:47:09 +0000,Amira Al Hussaini,Unknown,Female,27,1
 37454,Mon, 14 Jan 2008 23:53:21 +0000,Amira Al Hussaini,Unknown,Female,11,1
@@ -7902,22 +8194,34 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 37458,Tue, 15 Jan 2008 02:56:53 +0000,Amira Al Hussaini,Unknown,Female,17,1
 37459,Tue, 15 Jan 2008 03:04:52 +0000,Amira Al Hussaini,Male,Female,28,1
 37460,Tue, 15 Jan 2008 03:07:18 +0000,Amira Al Hussaini,Female,Female,17,1
+374608,Thu, 22 Nov 2012 21:12:01 +0000,Elizabeth Tsurkov,Neutral,Female,871,57
 37461,Tue, 15 Jan 2008 03:10:26 +0000,Amira Al Hussaini,Male,Female,20,1
 37462,Tue, 15 Jan 2008 03:12:10 +0000,Amira Al Hussaini,Unknown,Female,11,1
+374668,Thu, 29 Nov 2012 21:28:26 +0000,Hooman Askary,Neutral,Unknown,415,17
+374728,Thu, 22 Nov 2012 21:20:27 +0000,Moussa Bachir,Female,Male,57,1
 37480,Wed, 16 Jan 2008 00:13:41 +0000,Maya Norton,Neutral,Female,807,62
 37492,Tue, 15 Jan 2008 14:42:04 +0000,Amira Al Hussaini,Unknown,Female,20,1
 37493,Tue, 15 Jan 2008 14:48:48 +0000,Amira Al Hussaini,Unknown,Female,39,1
+374959,Fri, 23 Nov 2012 12:18:53 +0000,Hooman Askary,Unknown,Unknown,33,3
 37496,Thu, 14 Feb 2008 00:23:47 +0000,Amira Al Hussaini,Unknown,Female,709,34
+374980,Fri, 23 Nov 2012 13:01:47 +0000,Hooman Askary,Unknown,Unknown,38,1
 375,Tue, 12 Jul 2005 23:40:51 +0000,Ahmed Al-Omran,Male,Male,28,1
+375032,Fri, 23 Nov 2012 18:51:08 +0000,Amira Al Hussaini,Neutral,Female,393,25
 37515,Sat, 19 Jan 2008 00:21:27 +0000,Fred Petrossian,Neutral,Male,977,42
+375203,Tue, 27 Nov 2012 22:49:58 +0000,Arseh Sevom,Neutral,Unknown,706,36
+375224,Sat, 24 Nov 2012 16:51:18 +0000,Osama Khalid,Neutral,Male,499,18
 3755,Sat, 12 Nov 2005 14:28:01 +0000,Fred Petrossian,Unknown,Male,43,1
 3756,Sat, 12 Nov 2005 16:43:31 +0000,Mostafa Hussein,Unknown,Male,10,1
 37562,Wed, 16 Jan 2008 21:04:14 +0000,Fred Petrossian,Unknown,Male,55,1
+375637,Mon, 26 Nov 2012 20:07:40 +0000,Noon Arabia,Neutral,Female,488,26
 37566,Wed, 16 Jan 2008 21:18:02 +0000,Fred Petrossian,Unknown,Male,38,2
 37567,Wed, 16 Jan 2008 21:36:25 +0000,Fred Petrossian,Unknown,Male,31,1
 37568,Wed, 16 Jan 2008 22:40:35 +0000,Jillian C. York,Female,Female,679,61
 37569,Wed, 16 Jan 2008 22:02:33 +0000,Fred Petrossian,Unknown,Male,29,1
 37570,Thu, 17 Jan 2008 17:22:41 +0000,Gilad Lotan,Neutral,Male,1160,51
+375701,Mon, 26 Nov 2012 19:53:42 +0000,أحمد جدو,Unknown,Male,141,2
+375708,Mon, 26 Nov 2012 19:46:43 +0000,Elizabeth Tsurkov,Neutral,Female,783,41
+375731,Fri, 30 Nov 2012 20:36:40 +0000,Rami Alhames,Neutral,Male,680,35
 37576,Thu, 17 Jan 2008 00:46:16 +0000,Amira Al Hussaini,Male,Female,20,1
 37577,Thu, 17 Jan 2008 00:47:55 +0000,Amira Al Hussaini,Unknown,Female,14,1
 37578,Thu, 17 Jan 2008 00:49:57 +0000,Amira Al Hussaini,Female,Female,21,1
@@ -7931,31 +8235,62 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 3759,Sun, 13 Nov 2005 14:44:41 +0000,Fred Petrossian,Male,Male,42,1
 3760,Mon, 14 Nov 2005 13:00:02 +0000,Paul Frankenstein,Unknown,Male,14,4
 37606,Thu, 17 Jan 2008 07:03:48 +0000,Onnik Krikorian,Male,Male,54,1
+376096,Tue, 27 Nov 2012 21:23:52 +0000,Amira Al Hussaini,Unknown,Female,42,5
+376110,Thu, 29 Nov 2012 07:30:09 +0000,رامي الهامس,Unknown,Male,130,11
+376124,Tue, 27 Nov 2012 21:39:55 +0000,Amira Al Hussaini,Male,Female,77,8
 37620,Thu, 17 Jan 2008 17:26:33 +0000,Amira Al Hussaini,Unknown,Female,50,1
 37621,Thu, 17 Jan 2008 17:29:21 +0000,Amira Al Hussaini,Male,Female,16,1
+376284,Thu, 29 Nov 2012 06:30:13 +0000,Nermeen Edress,Neutral,Female,660,38
 37630,Thu, 17 Jan 2008 20:51:02 +0000,Fred Petrossian,Male,Male,32,1
 37631,Thu, 17 Jan 2008 20:57:52 +0000,Fred Petrossian,Unknown,Male,45,1
 37632,Thu, 17 Jan 2008 21:13:41 +0000,Fred Petrossian,Unknown,Male,39,1
 37633,Thu, 17 Jan 2008 21:22:09 +0000,Fred Petrossian,Male,Male,29,1
 37634,Thu, 17 Jan 2008 21:34:02 +0000,Amira Al Hussaini,Male,Female,25,1
+376359,Tue, 04 Dec 2012 00:12:20 +0000,Arseh Sevom,Neutral,Unknown,787,30
 3764,Wed, 16 Nov 2005 06:43:49 +0000,Deborah Ann Dilley,Neutral,Female,610,17
 37642,Thu, 17 Jan 2008 23:42:52 +0000,Veronica Khokhlova,Unknown,Female,31,1
+376551,Thu, 29 Nov 2012 06:35:13 +0000,Amira Al Hussaini,Unknown,Female,21,1
+376569,Thu, 29 Nov 2012 07:40:14 +0000,Amira Al Hussaini,Male,Female,81,5
+376572,Thu, 29 Nov 2012 07:54:35 +0000,Amira Al Hussaini,Unknown,Female,91,3
+376613,Thu, 29 Nov 2012 15:12:05 +0000,Afef Abrougui,Neutral,Female,857,34
 37662,Fri, 18 Jan 2008 15:21:37 +0000,Maya Norton,Neutral,Female,937,47
+376624,Thu, 29 Nov 2012 11:38:53 +0000,Amira Al Hussaini,Neutral,Female,639,34
+376637,Thu, 29 Nov 2012 12:00:12 +0000,Amira Al Hussaini,Neutral,Female,61,9
+376648,Thu, 29 Nov 2012 12:20:15 +0000,Amira Al Hussaini,Male,Female,135,12
+376654,Thu, 29 Nov 2012 12:33:28 +0000,Amira Al Hussaini,Female,Female,88,13
 37678,Fri, 18 Jan 2008 16:20:31 +0000,Fred Petrossian,Female,Male,32,1
 37679,Fri, 18 Jan 2008 16:25:02 +0000,Fred Petrossian,Unknown,Male,46,2
 37680,Fri, 18 Jan 2008 16:44:39 +0000,Fred Petrossian,Male,Male,45,1
 37685,Fri, 18 Jan 2008 16:53:37 +0000,Fred Petrossian,Unknown,Male,58,1
+376889,Thu, 29 Nov 2012 23:11:40 +0000,Hisham,Unknown,Male,621,39
 37697,Fri, 18 Jan 2008 21:39:40 +0000,Amira Al Hussaini,Unknown,Female,8,1
+376972,Fri, 30 Nov 2012 08:26:49 +0000,Amira Al Hussaini,Unknown,Female,126,16
+376981,Fri, 30 Nov 2012 10:43:09 +0000,Amira Al Hussaini,Neutral,Female,883,56
 37699,Fri, 18 Jan 2008 21:42:11 +0000,Amira Al Hussaini,Unknown,Female,37,1
+377008,Fri, 30 Nov 2012 15:23:06 +0000,Amira Al Hussaini,Unknown,Female,62,3
 37701,Fri, 18 Jan 2008 21:43:59 +0000,Amira Al Hussaini,Unknown,Female,12,1
+377012,Fri, 30 Nov 2012 15:36:25 +0000,Amira Al Hussaini,Unknown,Female,75,12
+377085,Fri, 30 Nov 2012 20:50:56 +0000,Amira Al Hussaini,Neutral,Female,97,3
+377087,Fri, 30 Nov 2012 20:58:21 +0000,Amira Al Hussaini,Female,Female,29,1
+377089,Fri, 30 Nov 2012 21:04:43 +0000,Amira Al Hussaini,Female,Female,88,6
+377094,Fri, 30 Nov 2012 21:33:36 +0000,Amira Al Hussaini,Neutral,Female,103,5
+377099,Fri, 30 Nov 2012 22:40:57 +0000,Amira Al Hussaini,Neutral,Female,513,31
+377151,Sat, 01 Dec 2012 08:22:26 +0000,Amira Al Hussaini,Female,Female,21,1
+377157,Sat, 01 Dec 2012 09:47:57 +0000,Amira Al Hussaini,Male,Female,105,2
 37716,Fri, 18 Jan 2008 23:43:10 +0000,Amira Al Hussaini,Unknown,Female,15,1
+377160,Sat, 01 Dec 2012 10:15:43 +0000,Amira Al Hussaini,Neutral,Female,125,9
 37717,Fri, 18 Jan 2008 23:44:42 +0000,Amira Al Hussaini,Male,Female,13,1
 37718,Fri, 18 Jan 2008 23:47:03 +0000,Amira Al Hussaini,Unknown,Female,28,1
+377186,Sat, 01 Dec 2012 17:18:56 +0000,Osama Khalid,Neutral,Male,741,23
 37719,Fri, 18 Jan 2008 23:48:50 +0000,Amira Al Hussaini,Unknown,Female,28,1
+377194,Sat, 01 Dec 2012 15:55:36 +0000,Amira Al Hussaini,Neutral,Female,200,45
 37720,Fri, 18 Jan 2008 23:51:49 +0000,Amira Al Hussaini,Male,Female,27,1
 37721,Fri, 18 Jan 2008 23:56:26 +0000,Amira Al Hussaini,Unknown,Female,48,1
 37729,Tue, 22 Jan 2008 10:59:55 +0000,Hanako Tokita,Unknown,Female,622,37
+377291,Sun, 02 Dec 2012 17:08:34 +0000,Hisham,Neutral,Male,523,39
 37736,Sat, 19 Jan 2008 13:11:21 +0000,Onnik Krikorian,Male,Male,35,1
+377425,Sun, 02 Dec 2012 19:43:09 +0000,Amira Al Hussaini,Unknown,Female,87,5
+377455,Sun, 02 Dec 2012 21:43:41 +0000,Amira Al Hussaini,Neutral,Female,599,65
 37748,Sat, 19 Jan 2008 20:07:04 +0000,Fred Petrossian,Unknown,Male,35,1
 37752,Sat, 19 Jan 2008 23:36:21 +0000,Fred Petrossian,Male,Male,36,1
 37754,Sun, 20 Jan 2008 09:27:49 +0000,Onnik Krikorian,Neutral,Male,1525,97
@@ -7985,11 +8320,15 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 37830,Mon, 21 Jan 2008 20:23:47 +0000,Amira Al Hussaini,Unknown,Female,15,1
 37832,Mon, 21 Jan 2008 20:58:42 +0000,Amira Al Hussaini,Unknown,Female,20,1
 37833,Mon, 21 Jan 2008 21:35:37 +0000,Amira Al Hussaini,Neutral,Female,853,46
+378429,Thu, 06 Dec 2012 16:52:48 +0000,Mohamed Hassan,Female,Male,131,11
+378447,Thu, 06 Dec 2012 18:16:09 +0000,Mohamed Hassan,Neutral,Male,317,23
+378516,Sun, 09 Dec 2012 19:30:32 +0000,Nada Akl,Neutral,Female,876,90
 37860,Sun, 27 Jan 2008 22:12:06 +0000,Lydia Beyoud,Neutral,Female,3423,154
 37875,Tue, 22 Jan 2008 13:26:44 +0000,Naseem Tarawnah,Neutral,Male,937,55
 37884,Tue, 22 Jan 2008 17:56:06 +0000,Jillian C. York,Neutral,Female,630,45
 37885,Tue, 22 Jan 2008 16:40:39 +0000,Eman AbdElRahman,Neutral,Female,355,24
 37890,Tue, 22 Jan 2008 22:38:32 +0000,Maya Norton,Neutral,Female,1963,80
+378943,Sun, 09 Dec 2012 02:24:16 +0000,Osama Khalid,Male,Male,786,25
 37897,Tue, 22 Jan 2008 22:00:07 +0000,Amira Al Hussaini,Unknown,Female,16,1
 37898,Tue, 22 Jan 2008 22:02:09 +0000,Amira Al Hussaini,Unknown,Female,20,1
 37899,Tue, 22 Jan 2008 22:04:08 +0000,Amira Al Hussaini,Unknown,Female,28,1
@@ -8001,54 +8340,82 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 37908,Thu, 24 Jan 2008 04:15:51 +0000,Jillian C. York,Neutral,Female,330,13
 3791,Mon, 14 Nov 2005 17:49:42 +0000,Fred Petrossian,Unknown,Male,86,1
 37912,Tue, 22 Jan 2008 22:46:40 +0000,Amira Al Hussaini,Unknown,Female,61,1
+379142,Wed, 19 Dec 2012 14:56:40 +0000,Elizabeth Tsurkov,Neutral,Female,1044,36
 37915,Tue, 22 Jan 2008 22:48:53 +0000,Amira Al Hussaini,Unknown,Female,24,1
 37918,Tue, 22 Jan 2008 22:52:56 +0000,Amira Al Hussaini,Unknown,Female,30,1
 37919,Tue, 22 Jan 2008 23:14:59 +0000,Amira Al Hussaini,Male,Female,65,1
 3792,Mon, 14 Nov 2005 18:43:48 +0000,Haitham Sabbah,Unknown,Male,31,1
+379245,Sun, 09 Dec 2012 20:16:55 +0000,Amira Al Hussaini,Unknown,Female,52,9
+379253,Sun, 09 Dec 2012 20:50:07 +0000,Amira Al Hussaini,Neutral,Female,475,57
+379255,Mon, 10 Dec 2012 06:45:47 +0000,Mona Kareem,Neutral,Female,785,57
+379269,Sun, 09 Dec 2012 23:13:41 +0000,Ruslan Trad,Unknown,Male,51,1
 37939,Wed, 23 Jan 2008 15:06:24 +0000,Yazan Badran,Unknown,Male,546,41
+379433,Fri, 21 Dec 2012 14:40:23 +0000,Rayna St.,Unknown,Female,721,33
+379441,Mon, 10 Dec 2012 17:19:27 +0000,Osama Khalid,Male,Male,390,13
+379478,Mon, 10 Dec 2012 17:51:36 +0000,Hooman Askary,Unknown,Unknown,18,1
 37967,Wed, 23 Jan 2008 16:15:55 +0000,Amira Al Hussaini,Unknown,Female,20,1
 37969,Wed, 23 Jan 2008 16:18:35 +0000,Amira Al Hussaini,Female,Female,16,1
 37970,Wed, 23 Jan 2008 16:21:16 +0000,Amira Al Hussaini,Unknown,Female,12,1
 37974,Wed, 23 Jan 2008 18:25:28 +0000,sami ben gharbia,Unknown,Unknown,28,1
 37975,Thu, 24 Jan 2008 00:38:16 +0000,Fozia Mohamed,Female,Female,485,46
+379758,Tue, 11 Dec 2012 14:43:39 +0000,Rayna St.,Neutral,Female,1066,41
+379960,Thu, 13 Dec 2012 18:58:55 +0000,Ahmed Awadalla,Neutral,Male,289,17
 37998,Thu, 24 Jan 2008 00:07:15 +0000,Amira Al Hussaini,Male,Female,23,1
+379983,Tue, 11 Dec 2012 23:24:26 +0000,Veronica Khokhlova,Female,Female,52,1
 38002,Fri, 25 Jan 2008 23:06:33 +0000,Amira Al Hussaini,Male,Female,586,17
 38003,Thu, 24 Jan 2008 00:40:55 +0000,Amira Al Hussaini,Unknown,Female,14,1
 38004,Thu, 24 Jan 2008 00:44:22 +0000,Amira Al Hussaini,Female,Female,36,1
 38005,Thu, 24 Jan 2008 00:47:27 +0000,Amira Al Hussaini,Unknown,Female,41,1
 38006,Thu, 24 Jan 2008 00:50:10 +0000,Amira Al Hussaini,Unknown,Female,45,1
+380172,Sat, 29 Dec 2012 21:14:27 +0000,Thalia Rahme,Neutral,Female,1045,60
+380191,Fri, 14 Dec 2012 09:28:48 +0000,Abdoulaye Bah,Unknown,Male,82,2
 38047,Thu, 24 Jan 2008 16:10:42 +0000,Amira Al Hussaini,Female,Female,20,1
 38048,Thu, 24 Jan 2008 16:12:34 +0000,Amira Al Hussaini,Female,Female,15,1
 38054,Thu, 24 Jan 2008 17:17:18 +0000,Amira Al Hussaini,Unknown,Female,41,1
 38055,Thu, 24 Jan 2008 17:21:47 +0000,Amira Al Hussaini,Neutral,Female,27,1
 38056,Thu, 24 Jan 2008 17:30:46 +0000,Amira Al Hussaini,Female,Female,31,1
 38058,Thu, 24 Jan 2008 18:10:40 +0000,Amira Al Hussaini,Unknown,Female,30,1
+380622,Fri, 14 Dec 2012 11:09:09 +0000,Lova Rakotomalala,Female,Male,102,2
 38063,Thu, 24 Jan 2008 18:42:22 +0000,Amira Al Hussaini,Female,Female,44,1
 38074,Thu, 24 Jan 2008 23:13:11 +0000,Veronica Khokhlova,Unknown,Female,15,1
+380784,Sat, 29 Dec 2012 20:59:51 +0000,Noon Arabia,Neutral,Female,2079,116
+380817,Sat, 15 Dec 2012 18:40:49 +0000,Osama Khalid,Neutral,Male,661,32
+381120,Mon, 17 Dec 2012 16:56:47 +0000,Mohamed Hassan,Neutral,Male,466,32
 38118,Fri, 25 Jan 2008 17:29:17 +0000,Fred Petrossian,Unknown,Male,56,1
 38120,Fri, 25 Jan 2008 18:03:25 +0000,Moussa Bashir,Neutral,Male,334,16
+381217,Mon, 17 Dec 2012 10:15:42 +0000,Amira Al Hussaini,Neutral,Female,737,78
 38122,Fri, 25 Jan 2008 17:42:22 +0000,Fred Petrossian,Neutral,Male,59,1
 38123,Fri, 25 Jan 2008 18:11:56 +0000,Fred Petrossian,Unknown,Male,31,1
 38126,Fri, 25 Jan 2008 21:20:36 +0000,Amira Al Hussaini,Male,Female,20,1
+381268,Mon, 17 Dec 2012 14:56:49 +0000,Hooman Askary,Male,Unknown,31,1
 38127,Fri, 25 Jan 2008 21:25:34 +0000,Amira Al Hussaini,Unknown,Female,25,1
 38128,Fri, 25 Jan 2008 21:28:09 +0000,Amira Al Hussaini,Unknown,Female,31,1
 38129,Fri, 25 Jan 2008 22:38:04 +0000,sami ben gharbia,Neutral,Unknown,966,40
 38130,Fri, 25 Jan 2008 22:22:31 +0000,Amira Al Hussaini,Unknown,Female,56,1
 38131,Fri, 25 Jan 2008 22:29:42 +0000,Amira Al Hussaini,Unknown,Female,19,1
+381344,Mon, 17 Dec 2012 20:27:54 +0000,Amira Al Hussaini,Neutral,Female,351,42
 38136,Fri, 25 Jan 2008 23:43:45 +0000,Naruto,Neutral,Male,512,19
 38151,Sun, 27 Jan 2008 01:17:52 +0000,Salam Adil,Neutral,Male,1196,53
 38156,Sat, 26 Jan 2008 15:04:28 +0000,Amira Al Hussaini,Unknown,Female,16,1
 38159,Tue, 26 Feb 2008 16:41:36 +0000,Amira Al Hussaini,Neutral,Female,1795,41
+381616,Thu, 27 Dec 2012 17:45:50 +0000,Hooman Askary,Neutral,Unknown,1014,65
 38163,Sat, 26 Jan 2008 19:47:09 +0000,Juliana Rincón Parra,Neutral,Female,516,35
 38164,Sat, 26 Jan 2008 18:33:57 +0000,Fred Petrossian,Unknown,Male,47,1
 38165,Sat, 26 Jan 2008 18:40:29 +0000,Fred Petrossian,Unknown,Male,22,1
 38166,Sat, 26 Jan 2008 18:55:11 +0000,Fred Petrossian,Unknown,Male,40,1
+381728,Thu, 20 Dec 2012 18:10:36 +0000,Noon Arabia,Neutral,Female,638,31
 38198,Sun, 27 Jan 2008 20:21:40 +0000,Amira Al Hussaini,Neutral,Female,719,21
+382025,Fri, 21 Dec 2012 22:21:41 +0000,Osama Khalid,Unknown,Male,672,34
+382186,Sun, 23 Dec 2012 19:35:51 +0000,Mona Kareem,Neutral,Female,1066,40
 38225,Mon, 28 Jan 2008 09:48:09 +0000,Onnik Krikorian,Unknown,Male,62,1
+382301,Sun, 23 Dec 2012 20:08:16 +0000,Amira Al Hussaini,Neutral,Female,423,27
 38238,Mon, 28 Jan 2008 20:13:45 +0000,Eman AbdElRahman,Male,Female,228,14
+382419,Mon, 24 Dec 2012 20:24:27 +0000,Nada Akl,Male,Female,569,19
 38242,Mon, 28 Jan 2008 15:40:08 +0000,Onnik Krikorian,Unknown,Male,65,1
 38243,Mon, 28 Jan 2008 15:53:16 +0000,Onnik Krikorian,Male,Male,56,1
+382441,Mon, 24 Dec 2012 16:47:05 +0000,Amira Al Hussaini,Neutral,Female,248,23
 38248,Mon, 28 Jan 2008 20:23:39 +0000,Jillian C. York,Neutral,Female,839,44
+382483,Tue, 25 Dec 2012 19:49:43 +0000,Ahmed Awadalla,Neutral,Male,889,50
 38250,Mon, 28 Jan 2008 17:12:31 +0000,Amira Al Hussaini,Unknown,Female,16,1
 38251,Mon, 28 Jan 2008 17:13:59 +0000,Amira Al Hussaini,Unknown,Female,15,1
 38252,Mon, 28 Jan 2008 17:22:49 +0000,Amira Al Hussaini,Unknown,Female,29,1
@@ -8056,30 +8423,48 @@ id,pubdate,byline,gender_by_pronoun,gender_by_byline,wc,pc
 38259,Mon, 28 Jan 2008 17:53:03 +0000,Amira Al Hussaini,Neutral,Female,131,1
 38260,Mon, 28 Jan 2008 17:58:48 +0000,Amira Al Hussaini,Male,Female,26,1
 38261,Mon, 28 Jan 2008 18:05:19 +0000,Amira Al Hussaini,Unknown,Female,21,1
+382688,Tue, 25 Dec 2012 14:42:46 +0000,Noon Arabia,Neutral,Female,541,23
+382707,Tue, 25 Dec 2012 15:11:05 +0000,Noon Arabia,Neutral,Female,684,47
 38276,Mon, 28 Jan 2008 20:01:28 +0000,Amira Al Hussaini,Unknown,Female,533,33
+382766,Tue, 25 Dec 2012 15:00:20 +0000,Syria Deeply,Neutral,Unknown,473,15
 38278,Mon, 28 Jan 2008 21:12:06 +0000,Moussa Bashir,Neutral,Male,1498,50
+382794,Tue, 25 Dec 2012 20:25:33 +0000,Mohamed Hassan,Neutral,Male,787,97
+382806,Wed, 26 Dec 2012 07:42:52 +0000,Leila Nachawati Rego,Male,Female,436,39
 38285,Mon, 28 Jan 2008 21:40:48 +0000,Fred Petrossian,Unknown,Male,64,1
 38294,Mon, 28 Jan 2008 23:45:23 +0000,Amira Al Hussaini,Male,Female,14,1
 38295,Mon, 28 Jan 2008 23:47:22 +0000,Amira Al Hussaini,Unknown,Female,14,1
 38296,Mon, 28 Jan 2008 23:50:53 +0000,Amira Al Hussaini,Unknown,Female,19,1
 38298,Mon, 28 Jan 2008 23:57:54 +0000,Amira Al Hussaini,Unknown,Female,17,1
+382989,Wed, 26 Dec 2012 14:24:54 +0000,Moussa Bachir,Unknown,Male,23,1
+382992,Fri, 28 Dec 2012 22:24:17 +0000,Moussa Bachir,Neutral,Male,68,1
 38301,Tue, 29 Jan 2008 00:05:47 +0000,Amira Al Hussaini,Unknown,Female,61,1
+383014,Fri, 28 Dec 2012 22:41:06 +0000,Syria Deeply,Neutral,Unknown,1361,22
 38302,Tue, 29 Jan 2008 00:13:48 +0000,Amira Al Hussaini,Unknown,Female,32,2
+383040,Fri, 28 Dec 2012 22:24:49 +0000,Moussa Bachir,Unknown,Male,37,1
 3832,Tue, 15 Nov 2005 19:14:31 +0000,Fred Petrossian,Neutral,Male,271,9
 38322,Tue, 29 Jan 2008 21:54:22 +0000,Ayesha Saldanha,Neutral,Female,1071,19
+383243,Mon, 31 Dec 2012 08:51:53 +0000,Afef Abrougui,Male,Female,1251,48
+383251,Fri, 28 Dec 2012 22:21:20 +0000,Noon Arabia,Neutral,Female,689,52
 3834,Tue, 15 Nov 2005 19:59:07 +0000,Haitham Sabbah,Unknown,Male,27,1
 38345,Tue, 29 Jan 2008 22:27:18 +0000,Amira Al Hussaini,Unknown,Female,64,1
 38346,Wed, 30 Jan 2008 00:02:12 +0000,Amira Al Hussaini,Male,Female,70,3
 3835,Tue, 15 Nov 2005 20:38:42 +0000,Haitham Sabbah,Unknown,Male,73,1
+383531,Fri, 28 Dec 2012 22:08:32 +0000,Tarek Amr,Neutral,Male,527,20
 38358,Wed, 30 Jan 2008 02:25:33 +0000,Amira Al Hussaini,Unknown,Female,11,1
+383585,Sat, 29 Dec 2012 20:46:45 +0000,Syria Deeply,Neutral,Unknown,576,31
 38359,Wed, 30 Jan 2008 02:30:17 +0000,Amira Al Hussaini,Male,Female,14,1
+383598,Sat, 29 Dec 2012 17:56:02 +0000,Osama Khalid,Neutral,Male,698,23
 38360,Wed, 30 Jan 2008 02:33:19 +0000,Amira Al Hussaini,Male,Female,70,1
 38361,Wed, 30 Jan 2008 02:35:37 +0000,Amira Al Hussaini,Unknown,Female,24,1
+383614,Sun, 30 Dec 2012 07:05:29 +0000,Lasto Adri,Male,Female,227,20
 38362,Wed, 30 Jan 2008 02:37:31 +0000,Amira Al Hussaini,Unknown,Female,48,1
+383621,Sat, 29 Dec 2012 20:36:43 +0000,Lasto Adri,Neutral,Female,557,31
 38363,Wed, 30 Jan 2008 02:42:48 +0000,Amira Al Hussaini,Male,Female,52,1
+383635,Sat, 29 Dec 2012 20:40:05 +0000,Lasto Adri,Female,Female,57,1
 3837,Tue, 15 Nov 2005 20:51:45 +0000,Haitham Sabbah,Unknown,Male,100,1
 38381,Wed, 30 Jan 2008 12:17:24 +0000,Jennifer Brea,Unknown,Female,35,1
 38382,Wed, 30 Jan 2008 12:22:04 +0000,Jennifer Brea,Unknown,Female,46,1
+383833,Mon, 31 Dec 2012 09:29:41 +0000,Mohamed Hassan,Neutral,Male,413,31
 3840,Tue, 15 Nov 2005 21:18:39 +0000,Haitham Sabbah,Unknown,Male,133,1
 38412,Thu, 31 Jan 2008 00:48:35 +0000,Amira Al Hussaini,Neutral,Female,24,1
 38413,Thu, 31 Jan 2008 00:50:07 +0000,Amira Al Hussaini,Male,Female,14,1
