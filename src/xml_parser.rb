@@ -2,6 +2,7 @@ require 'xml'
 require 'php_serialize'
 require 'sanitize'
 require 'parser'
+require 'nokogiri'
 
 module Parsers
   class XMLParser < Parsers::Default
@@ -30,6 +31,22 @@ module Parsers
     end
 
     def parse(entry)
+      self.save(just_parse(entry))
+    end
+
+    def fetch_articles
+      feed = XML::Parser.string(@data)
+      feed = feed.parse
+
+      articles = []
+
+      feed.find('//channel/item').each do |entry|
+        articles << self.just_parse(entry)
+      end
+      return articles
+    end
+
+    def just_parse(entry)
       
       article = {}
 
@@ -42,7 +59,35 @@ module Parsers
       article["original_body"] = content
       article["title"] = entry.find("title").first.content
       article["pub_date"] = entry.find("pubDate").first.content
+      article["post_parent"] = entry.find("wp:post_parent").first.content
+      article["post_name"] = entry.find("wp:post_name").first.content
 
+      #add all outgoing link hrefs
+      article["link_hrefs"] = []
+      parsed_content = Nokogiri::HTML(content)
+
+      parsed_content.css("a").each do |link|
+        article["link_hrefs"] << link.attributes["href"].value if !link.attributes["href"].nil?
+      end
+      
+      # extract the date associated with internal links
+      # in future verisons, do an actual lookup against the
+      # metadata associated with the speific page in question
+      article["internal_link_dates"] = []
+      article["link_hrefs"].each do |href|
+        if href.include?("globalvoicesonline")
+          datematch = /([0-9][0-9][0-9][0-9]\/[0-9][0-9]\/[0-9][0-9])/.match(href)
+          if(datematch and datematch.size>0)
+            date = datematch[0]
+            article["internal_link_dates"] << date
+          end
+        end
+      end
+
+      article["slug"] = nil
+      slug = entry.find("wp:post_name")
+      article["slug"] = slug.first.content if !slug.nil?
+        
       categories = []
       entry.find("category").each do |cat|
         categories << cat.content
@@ -69,7 +114,7 @@ module Parsers
         article["translated"] = false
       end
 
-      self.save(article)
+      return article
       
     end
 

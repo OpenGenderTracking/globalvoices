@@ -16,3 +16,7 @@ collections:
     path: "*.xml"
   full: 
     path: "*.xml"
+  supplementjune2014:
+    path: "*.xml"
+  pages:
+    path: "*.xml"

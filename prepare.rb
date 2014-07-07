@@ -6,9 +6,9 @@ $LOAD_PATH.unshift(libdir) unless $LOAD_PATH.include?(libdir)
 require 'yaml'
 require 'json'
 require 'confstruct'
-require 'feed_parser'
+#require 'feed_parser'
 require 'xml_parser'
-require 'debugger'
+#require 'debugger'
 
 # which collection are we processing? Make sure one was provided.
 collection = ARGV[0]

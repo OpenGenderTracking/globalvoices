@@ -1,0 +1,190 @@
+processing articles/pages/108008.json: Ending Violence Against Women 2009: 21 articles
+processing articles/pages/108372.json: World AIDS Day 2009: 21 articles
+processing articles/pages/110406.json: Cop15 Climate Change Summit 2009: 4 articles
+processing articles/pages/111119.json: About RuNet Echo: 5 articles
+processing articles/pages/112866.json: Global Voices 5th Anniversary! #GV5: 3 articles
+processing articles/pages/114132.json: Best of 2009 on Global Voices: 24 articles
+processing articles/pages/116513.json: Haiti Earthquake 2010: 42 articles
+processing articles/pages/117121.json: Google in China 2010: 7 articles
+processing articles/pages/118371.json: Beirut Arab Bloggers Summit 2009: 0 articles
+processing articles/pages/125371.json: Chile Earthquake 2010: 12 articles
+processing articles/pages/127474.json: BBC News and Global Voices: 2 articles
+processing articles/pages/132398.json: World Cup Impact 2010: 57 articles
+processing articles/pages/134468.json: Global Economy "News Hunt": 0 articles
+processing articles/pages/134937.json: Sudan Elections 2010: 10 articles
+processing articles/pages/135726.json: 2007 Special Coverage: 0 articles
+processing articles/pages/135731.json: 2008 Special Coverage: 0 articles
+processing articles/pages/139024.json: Thailand Red Shirt Protests 2010: 23 articles
+processing articles/pages/139119.json: Puerto Rico Student Protests 2010/11: 18 articles
+processing articles/pages/140277.json: Jamaica State of Emergency 2010: 9 articles
+processing articles/pages/142001.json: Israel Flotilla Raid 2010: 25 articles
+processing articles/pages/152178.json: Food Insecurity 2010: 10 articles
+processing articles/pages/153369.json: Caucasus Conflict Voices: 60 articles
+processing articles/pages/157042.json: Russia Wildfires 2010: 18 articles
+processing articles/pages/158395.json: Pakistan Floods 2010: 24 articles
+processing articles/pages/159071.json: Global Voices on The Economist: 9 articles
+processing articles/pages/162913.json: UN Millennium Development Goals: 41 articles
+processing articles/pages/166226.json: Ecuador Police Strike 2010: 12 articles
+processing articles/pages/168239.json: Blog Action Day 2010 - Water!: 14 articles
+processing articles/pages/174593.json: South Sudan Referendum 2011: 25 articles
+processing articles/pages/177092.json: 2009 Special Coverage: 0 articles
+processing articles/pages/177215.json: WikiLeaks and the World: 43 articles
+processing articles/pages/177542.json: World AIDS Day 2010: 12 articles
+processing articles/pages/181928.json: Global Voices Best of 2010: 35 articles
+processing articles/pages/184001.json: Tunisia Revolution 2011: 102 articles
+processing articles/pages/189396.json: Egypt Revolution 2011: 263 articles
+processing articles/pages/195187.json: Gabon Unrest 2011: 23 articles
+processing articles/pages/196323.json: Bahrain Protests 2011/12: 98 articles
+processing articles/pages/198446.json: Libya Revolution 2011: 94 articles
+processing articles/pages/198499.json: Morocco Protests 2011: 32 articles
+processing articles/pages/198513.json: Algeria Protests 2011: 15 articles
+processing articles/pages/200583.json: Yemen Protests 2011/12: 60 articles
+processing articles/pages/205138.json: Forest Focus: Amazon: 64 articles
+processing articles/pages/205230.json: Côte d'Ivoire Unrest 2011: 36 articles
+processing articles/pages/206272.json: Japan Earthquake 2011: 52 articles
+processing articles/pages/211164.json: Syria Protests 2011/12: 103 articles
+processing articles/pages/213997.json: Nigeria Elections 2011: 16 articles
+processing articles/pages/218065.json: Indigenous Rights: 23 articles
+processing articles/pages/221190.json: The Death of Osama Bin Laden: 21 articles
+processing articles/pages/223223.json: Mexico's Drug War: 31 articles
+processing articles/pages/223982.json: Uganda: Walk to Work Protests: 21 articles
+processing articles/pages/228481.json: 2010 Special Coverage: 0 articles
+processing articles/pages/229299.json: Eurovision Azerbaijan 2012: 43 articles
+processing articles/pages/230082.json: Lingua Volunteer FAQ: 58 articles
+processing articles/pages/23333.json: What is Global Voices?: 2 articles
+processing articles/pages/23334.json: Global Voices Manifesto: 0 articles
+processing articles/pages/23336.json: Manifesto in Chinese: 1 articles
+processing articles/pages/23338.json: Manifesto in Finnish: 0 articles
+processing articles/pages/23349.json: Media Archive: 27 articles
+processing articles/pages/23350.json: Advisors: 0 articles
+processing articles/pages/23351.json: Republishing Guidelines: 2 articles
+processing articles/pages/23352.json: Summits: 4 articles
+processing articles/pages/23353.json: London Summit - 2005: 0 articles
+processing articles/pages/23354.json: Summit Attendees - 2005: 2 articles
+processing articles/pages/23355.json: Delhi Summit - 2006: 2 articles
+processing articles/pages/233552.json: Macedonia Protests 2011: 19 articles
+processing articles/pages/23356.json: FAQ: 16 articles
+processing articles/pages/23357.json: Volunteer: 26 articles
+processing articles/pages/23359.json: Contact: 0 articles
+processing articles/pages/23372.json: Special Thanks: 0 articles
+processing articles/pages/23373.json: Reuters-GVO alliance announced: 1 articles
+processing articles/pages/23374.json: Global Voices Online Wins Knight-Batten Innovations Award: 1 articles
+processing articles/pages/23414.json: Sponsors: 8 articles
+processing articles/pages/237788.json: Languages and the Internet: 58 articles
+processing articles/pages/241446.json: Global Development: 57 articles
+processing articles/pages/24943.json: Lingua: 6 articles
+processing articles/pages/250743.json: Europe in Crisis: 128 articles
+processing articles/pages/252115.json: Global Voices 9/11 Retrospective: 9 articles
+processing articles/pages/253900.json: SlutWalks 2011/12: 6 articles
+processing articles/pages/256807.json: Cameroon Elections 2011: 18 articles
+processing articles/pages/261841.json: #Occupy Worldwide: 47 articles
+processing articles/pages/270838.json: Translator Application Form: 2 articles
+processing articles/pages/272580.json: Egypt Elections 2011/12: 27 articles
+processing articles/pages/276135.json: Russia Elections 2011/12: 67 articles
+processing articles/pages/278715.json: Manifesto in Norwegian: 0 articles
+processing articles/pages/282240.json: 2011 on Global Voices: 30 articles
+processing articles/pages/290858.json: Manifesto in Bosnian: 0 articles
+processing articles/pages/293749.json: Become an Author: 1 articles
+processing articles/pages/299589.json: Jobs at Global Voices: 6 articles
+processing articles/pages/301035.json: 2011 Special Coverage: 0 articles
+processing articles/pages/301367.json: Kony 2012: 8 articles
+processing articles/pages/302947.json: Manifesto in Hokkien (Taiwanese): 1 articles
+processing articles/pages/311899.json: Refugees: 34 articles
+processing articles/pages/315199.json: International Relations & Security: 61 articles
+processing articles/pages/32433.json: Special Coverage: 1 articles
+processing articles/pages/32434.json: Burmese protests 2007: 19 articles
+processing articles/pages/333305.json: #SudanRevolts: 10 articles
+processing articles/pages/335890.json: Myanmar's Rohingya: 17 articles
+processing articles/pages/336501.json: London 2012 Olympics : 67 articles
+processing articles/pages/33769.json: Pakistan Emergency 2007: 13 articles
+processing articles/pages/344187.json: Become a Translator: 21 articles
+processing articles/pages/35258.json: Middle East Peace 2007: 6 articles
+processing articles/pages/35332.json: Climate Change 2007: 5 articles
+processing articles/pages/358112.json: Online Censorship: 59 articles
+processing articles/pages/362191.json: Russia's Protest Movement: 22 articles
+processing articles/pages/363347.json: Venezuela Elections 2012: 17 articles
+processing articles/pages/363828.json: Manifesto in Sindhi: 0 articles
+processing articles/pages/365487.json: Manifesto in Romanian: 0 articles
+processing articles/pages/36628.json: The assassination of Benazir Bhutto: 3 articles
+processing articles/pages/37030.json: Kenya Elections Aftermath 2008: 9 articles
+processing articles/pages/371586.json: Global Views on Obama's Re-election: 11 articles
+processing articles/pages/373354.json: Israel-Gaza Conflict 2012: 14 articles
+processing articles/pages/379574.json: Reformists on Trial in Saudi Arabia: 25 articles
+processing articles/pages/383850.json: Global Voices in 2012: 23 articles
+processing articles/pages/385854.json: China's Press Censorship Protests: 12 articles
+processing articles/pages/393884.json: Bangladesh's #Shahbag Protests: 29 articles
+processing articles/pages/398789.json: Death of Hugo Chavez: 10 articles
+processing articles/pages/40237.json: Border Crisis in South America 2008: 6 articles
+processing articles/pages/410324.json: Pakistan Votes 2013: 11 articles
+processing articles/pages/41057.json: Tibet Protests 2008: 13 articles
+processing articles/pages/41169.json: Board : 3 articles
+processing articles/pages/41377.json: Lingua Translation Stats: 0 articles
+processing articles/pages/414284.json: China's Pollution Problem : 41 articles
+processing articles/pages/41955.json: Zimbabwe Elections 2008: 12 articles
+processing articles/pages/419787.json: Brazil's Vinegar Revolt: 30 articles
+processing articles/pages/42123.json: Egypt General Strike 2008: 11 articles
+processing articles/pages/422005.json: Bloodbath in Egypt: 47 articles
+processing articles/pages/422107.json: Latin America: Migrant Journeys: 21 articles
+processing articles/pages/422191.json:  Trending: #Snowden #ResetTheNet #StopSpying : 36 articles
+processing articles/pages/42512.json: Global Food Crisis 2008: 21 articles
+processing articles/pages/427448.json: Surviving in Syria: 66 articles
+processing articles/pages/432495.json:  Russia Votes: 19 articles
+processing articles/pages/43817.json: Myanmar Cyclone 2008: 10 articles
+processing articles/pages/43831.json: Sichuan Earthquake 2008: 10 articles
+processing articles/pages/442392.json: Haiyan Devastates the Philippines : 19 articles
+processing articles/pages/444595.json: Demystifying Russia's Caucasus Network: 12 articles
+processing articles/pages/446179.json: Remembering Nelson Mandela: 9 articles
+processing articles/pages/446770.json: Ukraine's #Euromaidan Protests: 66 articles
+processing articles/pages/447740.json: Editorial Code: 9 articles
+processing articles/pages/454502.json: 2012 Special Coverage: 0 articles
+processing articles/pages/455518.json: Sochi Winter Olympics : 30 articles
+processing articles/pages/455538.json: For the Love of Food: 36 articles
+processing articles/pages/457074.json: South Korea: Spies, Tweets and Gags: 28 articles
+processing articles/pages/457267.json: Love is in the Air: 11 articles
+processing articles/pages/458251.json: Protests in Venezuela: 36 articles
+processing articles/pages/46147.json: Colombia Hostage Rescue 2008: 5 articles
+processing articles/pages/463617.json: Taiwan's Sunflower Movement: 18 articles
+processing articles/pages/46806.json: Open Culture /iSummit 2008: 35 articles
+processing articles/pages/46838.json: Israel-Lebanon Prisoner Exchange 2008: 13 articles
+processing articles/pages/469457.json: Manifesto in Odia: 0 articles
+processing articles/pages/471820.json: Rush Hour Everywhere: 19 articles
+processing articles/pages/471893.json: Our People: 4 articles
+processing articles/pages/47312.json: Radovan Karadžić's Arrest 2008: 12 articles
+processing articles/pages/473135.json: Email Subscription: 0 articles
+processing articles/pages/473984.json: Trending #WorldCup | Cheers, Tears and Football in Brazil: 40 articles
+processing articles/pages/47914.json: AIDS 2008 Conference: 9 articles
+processing articles/pages/48042.json: Beijing Olympics 2008: 5 articles
+processing articles/pages/48056.json: South Ossetia Crisis 2008: 30 articles
+processing articles/pages/50400.json: China Poisonous Milk Scandal 2008: 10 articles
+processing articles/pages/51969.json: Ghosts, ghouls, myths and legends: 17 articles
+processing articles/pages/52192.json: U.S. Presidential Election 2008: 0 articles
+processing articles/pages/52658.json: Japan and Google Street View 2008: 15 articles
+processing articles/pages/53123.json: Mumbai, India attacks 2008: 40 articles
+processing articles/pages/53270.json: Thailand Protests 2008: 34 articles
+processing articles/pages/53283.json: World Aids Day 2008: 20 articles
+processing articles/pages/54193.json: Donate: 2 articles
+processing articles/pages/54514.json: Best of Global Voices 2008: 18 articles
+processing articles/pages/54541.json: Gaza Strip Bombings 2008-09: 98 articles
+processing articles/pages/55678.json: Floodings in Asia-Pacific Islands 2009: 15 articles
+processing articles/pages/56214.json: Madagascar Power Struggle 2009: 27 articles
+processing articles/pages/56803.json: Love is in the Air 2009: 14 articles
+processing articles/pages/57141.json: Contributors: 0 articles
+processing articles/pages/57354.json: Leadership: 121 articles
+processing articles/pages/57702.json: RSS Feeds: 6 articles
+processing articles/pages/60858.json: Budapest Summit 2008: 2 articles
+processing articles/pages/60862.json: Projects: 11 articles
+processing articles/pages/61742.json: International Women's Day 2009: 13 articles
+processing articles/pages/62943.json: Global Economic Crisis 2009: 41 articles
+processing articles/pages/63121.json: Indian Elections 2009: 68 articles
+processing articles/pages/68186.json: Fiji Constitutional Challenge 2009: 19 articles
+processing articles/pages/70120.json: The Global Voices Book Challenge: 24 articles
+processing articles/pages/71972.json: H1N1 Outbreak 2009: 39 articles
+processing articles/pages/77073.json: Iranian Election 2009: 24 articles
+processing articles/pages/82165.json: Death of Michael Jackson: 11 articles
+processing articles/pages/84019.json: Honduras Political Crisis 2009: 5 articles
+processing articles/pages/85192.json: Obama in Africa 2009: 8 articles
+processing articles/pages/93868.json: Top 10 Citizen Video Posts 2009: 1 articles
+processing articles/pages/94127.json: Conversations for a Better World: 4 articles
+processing articles/pages/96822.json: The Future of ICT for Development: 18 articles
+processing articles/pages/99121.json: DREAM Act USA 2009/10: 8 articles
+
