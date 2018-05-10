@@ -2,6 +2,8 @@
 
 [GlobalVoices](http://globalvoicesonline.org/) is an international community of bloggers who report on blogs and citizen media from around the world. As a first attempt to test the GenderTracker system, we are working with GlobalVoices data to evaluate its content's gender diversity.
 
+Note: in 2018, several years after publishing the original Guardian article, we removed the data from this analysis upon request from some participants in the project. If researchers are interested in re-analyzing this project to double-check our results, please contact J. Nathan Matias. With approval from a university ethics board, this may be possible if it falls within the original purpose of the data collection.
+
 ## Requirements
 
 1. get jruby 1.6.3 by your favorite method of choice. I recommend rvm.
